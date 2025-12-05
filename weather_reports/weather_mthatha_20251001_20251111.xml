@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='utf-8'?>
+<weather>
+  <day>
+    <time>2025-10-01 00:00:00</time>
+    <tavg>21.2</tavg>
+    <prcp>0.0</prcp>
+  </day>
+  <day>
+    <time>2025-10-02 00:00:00</time>
+    <tavg>13.0</tavg>
+    <prcp>1.2</prcp>
+  </day>
+  <day>
+    <time>2025-10-03 00:00:00</time>
+    <tavg>10.7</tavg>
+    <prcp>1.4</prcp>
+  </day>
+  <day>
+    <time>2025-10-04 00:00:00</time>
+    <tavg>17.9</tavg>
+    <prcp>0.0</prcp>
+  </day>
+  <day>
+    <time>2025-10-05 00:00:00</time>
+    <tavg>18.2</tavg>
+    <prcp>0.6</prcp>
+  </day>
+  <day>
+    <time>2025-10-06 00:00:00</time>
+    <tavg>17.0</tavg>
+    <prcp>0.0</prcp>
+  </day>
+  <day>
+    <time>2025-10-07 00:00:00</time>
+    <tavg>16.3</tavg>
+    <prcp>0.0</prcp>
+  </day>
+  <day>
+    <time>2025-10-08 00:00:00</time>
+    <tavg>16.3</tavg>
+    <prcp>0.0</prcp>
+  </day>
+  <day>
+    <time>2025-10-09 00:00:00</time>
+    <tavg>17.0</tavg>
+    <prcp>0.0</prcp>
+  </day>
+  <day>
+    <time>2025-10-10 00:00:00</time>
+    <tavg>23.5</tavg>
+    <prcp>0.0</prcp>
+  </day>
+  <day>
+    <time>2025-10-11 00:00:00</time>
+    <tavg>19.5</tavg>
+    <prcp>0.0</prcp>
+  </day>
+  <day>
+    <time>2025-10-12 00:00:00</time>
+    <tavg>16.2</tavg>
+    <prcp>6.8</prcp>
+  </day>
+  <day>
+    <time>2025-10-13 00:00:00</time>
+    <tavg>19.1</tavg>
+    <prcp>0.0</prcp>
+  </day>
+  <day>
+    <time>2025-10-14 00:00:00</time>
+    <tavg>21.4</tavg>
+    <prcp>0.0</prcp>
+  </day>
+  <day>
+    <time>2025-10-15 00:00:00</time>
+    <tavg>16.5</tavg>
+    <prcp>0.0</prcp>
+  </day>
+  <day>
+    <time>2025-10-16 00:00:00</time>
+    <tavg>15.0</tavg>
+    <prcp>0.1</prcp>
+  </day>
+  <day>
+    <time>2025-10-17 00:00:00</time>
+    <tavg>16.1</tavg>
+    <prcp>0.0</prcp>
+  </day>
+  <day>
+    <time>2025-10-18 00:00:00</time>
+    <tavg>19.4</tavg>
+    <prcp>0.2</prcp>
+  </day>
+  <day>
+    <time>2025-10-19 00:00:00</time>
+    <tavg>14.3</tavg>
+    <prcp>6.5</prcp>
+  </day>
+  <day>
+    <time>2025-10-20 00:00:00</time>
+    <tavg>13.9</tavg>
+    <prcp>2.7</prcp>
+  </day>
+  <day>
+    <time>2025-10-21 00:00:00</time>
+    <tavg>16.5</tavg>
+    <prcp>0.0</prcp>
+  </day>
+  <day>
+    <time>2025-10-22 00:00:00</time>
+    <tavg>22.5</tavg>
+    <prcp>0.0</prcp>
+  </day>
+  <day>
+    <time>2025-10-23 00:00:00</time>
+    <tavg>27.2</tavg>
+    <prcp>0.0</prcp>
+  </day>
+  <day>
+    <time>2025-10-24 00:00:00</time>
+    <tavg>19.4</tavg>
+    <prcp>0.0</prcp>
+  </day>
+  <day>
+    <time>2025-10-25 00:00:00</time>
+    <tavg>18.5</tavg>
+    <prcp>3.0</prcp>
+  </day>
+  <day>
+    <time>2025-10-26 00:00:00</time>
+    <tavg>13.7</tavg>
+    <prcp>10.3</prcp>
+  </day>
+  <day>
+    <time>2025-10-27 00:00:00</time>
+    <tavg>14.4</tavg>
+    <prcp>0.9</prcp>
+  </day>
+  <day>
+    <time>2025-10-28 00:00:00</time>
+    <tavg>17.8</tavg>
+    <prcp>0.0</prcp>
+  </day>
+  <day>
+    <time>2025-10-29 00:00:00</time>
+    <tavg>18.3</tavg>
+    <prcp>5.5</prcp>
+  </day>
+  <day>
+    <time>2025-10-30 00:00:00</time>
+    <tavg>16.3</tavg>
+    <prcp>4.3</prcp>
+  </day>
+  <day>
+    <time>2025-10-31 00:00:00</time>
+    <tavg>22.1</tavg>
+    <prcp>0.9</prcp>
+  </day>
+  <day>
+    <time>2025-11-01 00:00:00</time>
+    <tavg>16.8</tavg>
+    <prcp>2.8</prcp>
+  </day>
+  <day>
+    <time>2025-11-02 00:00:00</time>
+    <tavg>15.9</tavg>
+    <prcp>0.5</prcp>
+  </day>
+  <day>
+    <time>2025-11-03 00:00:00</time>
+    <tavg>22.0</tavg>
+    <prcp>0.0</prcp>
+  </day>
+  <day>
+    <time>2025-11-04 00:00:00</time>
+    <tavg>21.2</tavg>
+    <prcp>0.8</prcp>
+  </day>
+  <day>
+    <time>2025-11-05 00:00:00</time>
+    <tavg>16.2</tavg>
+    <prcp>0.0</prcp>
+  </day>
+  <day>
+    <time>2025-11-06 00:00:00</time>
+    <tavg>15.0</tavg>
+    <prcp>3.3</prcp>
+  </day>
+  <day>
+    <time>2025-11-07 00:00:00</time>
+    <tavg>16.8</tavg>
+    <prcp>1.0</prcp>
+  </day>
+  <day>
+    <time>2025-11-08 00:00:00</time>
+    <tavg>20.9</tavg>
+    <prcp>0.1</prcp>
+  </day>
+  <day>
+    <time>2025-11-09 00:00:00</time>
+    <tavg>19.6</tavg>
+    <prcp>0.0</prcp>
+  </day>
+  <day>
+    <time>2025-11-10 00:00:00</time>
+    <tavg>19.6</tavg>
+    <prcp>2.8</prcp>
+  </day>
+  <day>
+    <time>2025-11-11 00:00:00</time>
+    <tavg>22.0</tavg>
+    <prcp>0.0</prcp>
+  </day>
+</weather>

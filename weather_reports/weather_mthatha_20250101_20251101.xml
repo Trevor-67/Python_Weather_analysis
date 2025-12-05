@@ -1,0 +1,2443 @@
+<?xml version='1.0' encoding='utf-8'?>
+<weather>
+  <day>
+    <time>2025-01-01 00:00:00</time>
+    <tavg>19.2</tavg>
+    <prcp>0.9</prcp>
+    <high_humidity>94.38178944917141</high_humidity>
+    <flood_risk>63.98090079997115</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-02 00:00:00</time>
+    <tavg>21.9</tavg>
+    <prcp>0.2</prcp>
+    <high_humidity>92.02805745744895</high_humidity>
+    <flood_risk>75.38047507726068</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-03 00:00:00</time>
+    <tavg>27.9</tavg>
+    <prcp>0.6</prcp>
+    <high_humidity>89.9839298685769</high_humidity>
+    <flood_risk>17.177600930745108</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-04 00:00:00</time>
+    <tavg>27.7</tavg>
+    <prcp>9.3</prcp>
+    <high_humidity>84.23220436594636</high_humidity>
+    <flood_risk>2.4656251526737005</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-05 00:00:00</time>
+    <tavg>21.8</tavg>
+    <prcp>9.3</prcp>
+    <high_humidity>89.57267983921768</high_humidity>
+    <flood_risk>30.74051258411957</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-06 00:00:00</time>
+    <tavg>18.6</tavg>
+    <prcp>7.5</prcp>
+    <high_humidity>82.49461686026085</high_humidity>
+    <flood_risk>37.16539020480377</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-07 00:00:00</time>
+    <tavg>21.4</tavg>
+    <prcp>4.8</prcp>
+    <high_humidity>87.34193784830987</high_humidity>
+    <flood_risk>29.310660546795543</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-08 00:00:00</time>
+    <tavg>20.0</tavg>
+    <prcp>4.3</prcp>
+    <high_humidity>92.7766171617088</high_humidity>
+    <flood_risk>53.12583968462407</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-09 00:00:00</time>
+    <tavg>23.6</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>84.71403497628847</high_humidity>
+    <flood_risk>96.23497356439265</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-10 00:00:00</time>
+    <tavg>21.9</tavg>
+    <prcp>0.8</prcp>
+    <high_humidity>83.01387125651759</high_humidity>
+    <flood_risk>17.94938099634201</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-11 00:00:00</time>
+    <tavg>23.5</tavg>
+    <prcp>11.0</prcp>
+    <high_humidity>79.01892379511358</high_humidity>
+    <flood_risk>18.027049688491502</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-12 00:00:00</time>
+    <tavg>20.1</tavg>
+    <prcp>9.4</prcp>
+    <high_humidity>81.37646074811971</high_humidity>
+    <flood_risk>25.149715021294462</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-13 00:00:00</time>
+    <tavg>17.5</tavg>
+    <prcp>7.3</prcp>
+    <high_humidity>75.83066959351183</high_humidity>
+    <flood_risk>46.75386478423881</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-14 00:00:00</time>
+    <tavg>23.0</tavg>
+    <prcp>0.1</prcp>
+    <high_humidity>73.86567997375404</high_humidity>
+    <flood_risk>15.609424982987562</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-15 00:00:00</time>
+    <tavg>15.8</tavg>
+    <prcp>4.3</prcp>
+    <high_humidity>78.52197476562516</high_humidity>
+    <flood_risk>72.56348018460349</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-16 00:00:00</time>
+    <tavg>15.3</tavg>
+    <prcp>0.2</prcp>
+    <high_humidity>87.56864142421274</high_humidity>
+    <flood_risk>17.60953520214885</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-17 00:00:00</time>
+    <tavg>19.9</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>84.80357170083356</high_humidity>
+    <flood_risk>49.40264461770341</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-18 00:00:00</time>
+    <tavg>25.6</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>74.41793114419467</high_humidity>
+    <flood_risk>49.22601970852028</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-19 00:00:00</time>
+    <tavg>25.3</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>78.03634975071428</high_humidity>
+    <flood_risk>68.12644271584591</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-20 00:00:00</time>
+    <tavg>19.4</tavg>
+    <prcp>7.6</prcp>
+    <high_humidity>89.2477072840332</high_humidity>
+    <flood_risk>37.164956793943695</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-21 00:00:00</time>
+    <tavg>17.9</tavg>
+    <prcp>6.9</prcp>
+    <high_humidity>74.356639022855</high_humidity>
+    <flood_risk>10.224499611312366</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-22 00:00:00</time>
+    <tavg>20.8</tavg>
+    <prcp>0.1</prcp>
+    <high_humidity>91.99719963392157</high_humidity>
+    <flood_risk>0.9700678460810463</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-23 00:00:00</time>
+    <tavg>23.4</tavg>
+    <prcp>0.9</prcp>
+    <high_humidity>87.56279281628287</high_humidity>
+    <flood_risk>27.220749276783863</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-24 00:00:00</time>
+    <tavg>22.0</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>87.3171883870168</high_humidity>
+    <flood_risk>71.78450410191985</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-25 00:00:00</time>
+    <tavg>22.7</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>76.29051575885734</high_humidity>
+    <flood_risk>97.58050404574783</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-26 00:00:00</time>
+    <tavg>25.5</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>75.18637460046054</high_humidity>
+    <flood_risk>23.181795759896385</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-27 00:00:00</time>
+    <tavg>22.7</tavg>
+    <prcp>4.7</prcp>
+    <high_humidity>88.54336043874206</high_humidity>
+    <flood_risk>76.23535580810018</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-28 00:00:00</time>
+    <tavg>21.8</tavg>
+    <prcp>0.2</prcp>
+    <high_humidity>81.53165890439261</high_humidity>
+    <flood_risk>73.23870594371623</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-29 00:00:00</time>
+    <tavg>23.7</tavg>
+    <prcp>6.8</prcp>
+    <high_humidity>79.76629043058855</high_humidity>
+    <flood_risk>38.458454356781424</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-30 00:00:00</time>
+    <tavg>24.8</tavg>
+    <prcp>0.3</prcp>
+    <high_humidity>90.95310576737742</high_humidity>
+    <flood_risk>8.957052892874895</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-01-31 00:00:00</time>
+    <tavg>21.8</tavg>
+    <prcp>2.6</prcp>
+    <high_humidity>76.75594321797107</high_humidity>
+    <flood_risk>43.962794300624076</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-01 00:00:00</time>
+    <tavg>19.4</tavg>
+    <prcp>2.1</prcp>
+    <high_humidity>75.95546884824024</high_humidity>
+    <flood_risk>49.1147420806977</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-02 00:00:00</time>
+    <tavg>21.7</tavg>
+    <prcp>2.7</prcp>
+    <high_humidity>88.54156530202278</high_humidity>
+    <flood_risk>21.383267144390107</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-03 00:00:00</time>
+    <tavg>19.9</tavg>
+    <prcp>1.9</prcp>
+    <high_humidity>89.4053870138786</high_humidity>
+    <flood_risk>91.83573798316138</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-04 00:00:00</time>
+    <tavg>25.2</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>83.33483436097383</high_humidity>
+    <flood_risk>46.764867315789175</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-05 00:00:00</time>
+    <tavg>21.7</tavg>
+    <prcp>22.3</prcp>
+    <high_humidity>85.94327332883681</high_humidity>
+    <flood_risk>73.23138033881332</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-06 00:00:00</time>
+    <tavg>18.3</tavg>
+    <prcp>5.4</prcp>
+    <high_humidity>94.84855280525306</high_humidity>
+    <flood_risk>88.44339623761174</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-07 00:00:00</time>
+    <tavg>20.7</tavg>
+    <prcp>3.0</prcp>
+    <high_humidity>81.00171553993596</high_humidity>
+    <flood_risk>43.47444816878622</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-08 00:00:00</time>
+    <tavg>23.8</tavg>
+    <prcp>5.0</prcp>
+    <high_humidity>84.14800095835962</high_humidity>
+    <flood_risk>51.0447880213071</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-09 00:00:00</time>
+    <tavg>19.0</tavg>
+    <prcp>3.4</prcp>
+    <high_humidity>74.58928712741873</high_humidity>
+    <flood_risk>70.9318373948681</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-10 00:00:00</time>
+    <tavg>16.9</tavg>
+    <prcp>4.6</prcp>
+    <high_humidity>71.04440167765196</high_humidity>
+    <flood_risk>68.65291686224816</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-11 00:00:00</time>
+    <tavg>17.5</tavg>
+    <prcp>2.4</prcp>
+    <high_humidity>71.79676089689285</high_humidity>
+    <flood_risk>63.83175327172778</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-12 00:00:00</time>
+    <tavg>22.5</tavg>
+    <prcp>0.4</prcp>
+    <high_humidity>83.57522724054964</high_humidity>
+    <flood_risk>84.69022193488091</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-13 00:00:00</time>
+    <tavg>20.8</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>82.20130141424704</high_humidity>
+    <flood_risk>73.0845768332244</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-14 00:00:00</time>
+    <tavg>21.1</tavg>
+    <prcp>1.7</prcp>
+    <high_humidity>91.19064452134735</high_humidity>
+    <flood_risk>45.42951750865571</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-15 00:00:00</time>
+    <tavg>17.8</tavg>
+    <prcp>0.9</prcp>
+    <high_humidity>94.45731564575553</high_humidity>
+    <flood_risk>78.15715262423025</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-16 00:00:00</time>
+    <tavg>21.4</tavg>
+    <prcp>6.1</prcp>
+    <high_humidity>76.5092793658001</high_humidity>
+    <flood_risk>55.898348808028295</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-17 00:00:00</time>
+    <tavg>22.2</tavg>
+    <prcp>0.6</prcp>
+    <high_humidity>83.33260401770802</high_humidity>
+    <flood_risk>6.000308737708426</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-18 00:00:00</time>
+    <tavg>21.6</tavg>
+    <prcp>26.3</prcp>
+    <high_humidity>88.45362848097848</high_humidity>
+    <flood_risk>92.9563127937519</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-19 00:00:00</time>
+    <tavg>16.7</tavg>
+    <prcp>15.5</prcp>
+    <high_humidity>78.24240645952126</high_humidity>
+    <flood_risk>72.31163559170847</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-20 00:00:00</time>
+    <tavg>20.8</tavg>
+    <prcp>0.6</prcp>
+    <high_humidity>78.1842317267014</high_humidity>
+    <flood_risk>12.212435308938208</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-21 00:00:00</time>
+    <tavg>22.9</tavg>
+    <prcp>4.8</prcp>
+    <high_humidity>90.62370502900822</high_humidity>
+    <flood_risk>94.62691608903832</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-22 00:00:00</time>
+    <tavg>21.5</tavg>
+    <prcp>3.6</prcp>
+    <high_humidity>94.43244658874717</high_humidity>
+    <flood_risk>0.8695910753871994</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-23 00:00:00</time>
+    <tavg>21.8</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>70.72828902767121</high_humidity>
+    <flood_risk>54.00082592717066</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-24 00:00:00</time>
+    <tavg>22.8</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>91.0987167230654</high_humidity>
+    <flood_risk>94.48182257536662</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-25 00:00:00</time>
+    <tavg>21.3</tavg>
+    <prcp>26.5</prcp>
+    <high_humidity>80.31370987327601</high_humidity>
+    <flood_risk>15.932411740228503</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-26 00:00:00</time>
+    <tavg>18.8</tavg>
+    <prcp>5.0</prcp>
+    <high_humidity>81.68587530125102</high_humidity>
+    <flood_risk>82.23685143647586</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-27 00:00:00</time>
+    <tavg>19.0</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>71.79029562384557</high_humidity>
+    <flood_risk>51.271381846517016</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-02-28 00:00:00</time>
+    <tavg>19.4</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>71.30145600769438</high_humidity>
+    <flood_risk>20.135594008514836</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-01 00:00:00</time>
+    <tavg>20.9</tavg>
+    <prcp>0.3</prcp>
+    <high_humidity>72.11412226094798</high_humidity>
+    <flood_risk>48.55230872292555</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-02 00:00:00</time>
+    <tavg>21.1</tavg>
+    <prcp>6.0</prcp>
+    <high_humidity>77.0937630351448</high_humidity>
+    <flood_risk>21.39732458636082</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-03 00:00:00</time>
+    <tavg>22.4</tavg>
+    <prcp>0.2</prcp>
+    <high_humidity>83.67218779718678</high_humidity>
+    <flood_risk>72.21994704879066</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-04 00:00:00</time>
+    <tavg>22.1</tavg>
+    <prcp>1.4</prcp>
+    <high_humidity>94.42727734526491</high_humidity>
+    <flood_risk>90.55576171471768</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-05 00:00:00</time>
+    <tavg>23.6</tavg>
+    <prcp>0.2</prcp>
+    <high_humidity>89.53450612065083</high_humidity>
+    <flood_risk>20.177346429835097</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-06 00:00:00</time>
+    <tavg>26.7</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>79.32691380934429</high_humidity>
+    <flood_risk>28.20720312907252</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-07 00:00:00</time>
+    <tavg>20.9</tavg>
+    <prcp>1.8</prcp>
+    <high_humidity>89.03396772330602</high_humidity>
+    <flood_risk>5.868776246002339</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-08 00:00:00</time>
+    <tavg>24.0</tavg>
+    <prcp>0.7</prcp>
+    <high_humidity>77.08401195482824</high_humidity>
+    <flood_risk>1.7089990812068745</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-09 00:00:00</time>
+    <tavg>24.4</tavg>
+    <prcp>8.4</prcp>
+    <high_humidity>78.81565574371933</high_humidity>
+    <flood_risk>70.73870984501103</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-10 00:00:00</time>
+    <tavg>18.3</tavg>
+    <prcp>4.6</prcp>
+    <high_humidity>90.32013646477955</high_humidity>
+    <flood_risk>47.07567727032941</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-11 00:00:00</time>
+    <tavg>20.0</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>90.8094941481266</high_humidity>
+    <flood_risk>43.64742718137688</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-12 00:00:00</time>
+    <tavg>20.9</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>93.00112483911661</high_humidity>
+    <flood_risk>19.32848296956726</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-13 00:00:00</time>
+    <tavg>20.0</tavg>
+    <prcp>12.1</prcp>
+    <high_humidity>72.79835126148822</high_humidity>
+    <flood_risk>37.1686289335595</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-14 00:00:00</time>
+    <tavg>16.7</tavg>
+    <prcp/>
+    <high_humidity>75.83134103748702</high_humidity>
+    <flood_risk>0.12624567638186424</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-15 00:00:00</time>
+    <tavg/>
+    <prcp/>
+    <high_humidity>94.69914330041215</high_humidity>
+    <flood_risk>40.11191692831532</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-16 00:00:00</time>
+    <tavg/>
+    <prcp/>
+    <high_humidity>84.63767275297143</high_humidity>
+    <flood_risk>28.920996245065066</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-17 00:00:00</time>
+    <tavg/>
+    <prcp/>
+    <high_humidity>74.94974747603148</high_humidity>
+    <flood_risk>74.49634503770415</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-18 00:00:00</time>
+    <tavg/>
+    <prcp/>
+    <high_humidity>77.59158775579459</high_humidity>
+    <flood_risk>60.44480353118724</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-19 00:00:00</time>
+    <tavg/>
+    <prcp/>
+    <high_humidity>71.08693463307162</high_humidity>
+    <flood_risk>1.8636276091729909</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-20 00:00:00</time>
+    <tavg/>
+    <prcp/>
+    <high_humidity>79.57897900900136</high_humidity>
+    <flood_risk>55.81467742466917</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-21 00:00:00</time>
+    <tavg/>
+    <prcp/>
+    <high_humidity>92.56946103301397</high_humidity>
+    <flood_risk>65.53477145789108</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-22 00:00:00</time>
+    <tavg>24.0</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>82.54644010257113</high_humidity>
+    <flood_risk>52.48528556326555</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-23 00:00:00</time>
+    <tavg>22.2</tavg>
+    <prcp>10.3</prcp>
+    <high_humidity>85.77110334183531</high_humidity>
+    <flood_risk>37.79050585827519</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-24 00:00:00</time>
+    <tavg>22.3</tavg>
+    <prcp>4.0</prcp>
+    <high_humidity>92.73137861220368</high_humidity>
+    <flood_risk>14.38657971634526</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-25 00:00:00</time>
+    <tavg>22.2</tavg>
+    <prcp>25.8</prcp>
+    <high_humidity>86.10138416490705</high_humidity>
+    <flood_risk>3.6843411610337107</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-26 00:00:00</time>
+    <tavg>18.0</tavg>
+    <prcp>0.2</prcp>
+    <high_humidity>72.95891926228178</high_humidity>
+    <flood_risk>97.39161124496692</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-27 00:00:00</time>
+    <tavg>18.5</tavg>
+    <prcp>0.2</prcp>
+    <high_humidity>80.8478824896626</high_humidity>
+    <flood_risk>74.33520620012038</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-28 00:00:00</time>
+    <tavg>19.6</tavg>
+    <prcp>2.2</prcp>
+    <high_humidity>79.77064585849158</high_humidity>
+    <flood_risk>48.02707444136608</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-29 00:00:00</time>
+    <tavg>20.7</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>86.42862642334018</high_humidity>
+    <flood_risk>10.079842181755726</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-30 00:00:00</time>
+    <tavg>19.5</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>81.0637743482675</high_humidity>
+    <flood_risk>79.43070998038777</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-03-31 00:00:00</time>
+    <tavg>20.3</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>75.99148239322247</high_humidity>
+    <flood_risk>70.55454119434863</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-01 00:00:00</time>
+    <tavg>19.0</tavg>
+    <prcp>15.4</prcp>
+    <high_humidity>83.84510726077288</high_humidity>
+    <flood_risk>30.766323375627902</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-02 00:00:00</time>
+    <tavg>16.7</tavg>
+    <prcp>0.4</prcp>
+    <high_humidity>92.37260274509023</high_humidity>
+    <flood_risk>34.49508693278606</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-03 00:00:00</time>
+    <tavg>17.7</tavg>
+    <prcp>0.9</prcp>
+    <high_humidity>70.79993240306132</high_humidity>
+    <flood_risk>35.65132214398591</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-04 00:00:00</time>
+    <tavg>18.7</tavg>
+    <prcp>6.3</prcp>
+    <high_humidity>94.48499561155674</high_humidity>
+    <flood_risk>32.730769790913314</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-05 00:00:00</time>
+    <tavg>16.4</tavg>
+    <prcp>5.9</prcp>
+    <high_humidity>75.17632893371255</high_humidity>
+    <flood_risk>2.9970444188428425</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-06 00:00:00</time>
+    <tavg>17.3</tavg>
+    <prcp>4.1</prcp>
+    <high_humidity>70.6834559517714</high_humidity>
+    <flood_risk>61.93280069181354</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-07 00:00:00</time>
+    <tavg>19.9</tavg>
+    <prcp>0.3</prcp>
+    <high_humidity>82.5060887781147</high_humidity>
+    <flood_risk>48.116828374759116</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-08 00:00:00</time>
+    <tavg>20.6</tavg>
+    <prcp>1.7</prcp>
+    <high_humidity>75.6404822650341</high_humidity>
+    <flood_risk>12.865321950813724</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-09 00:00:00</time>
+    <tavg>19.4</tavg>
+    <prcp>5.1</prcp>
+    <high_humidity>78.31104463833893</high_humidity>
+    <flood_risk>63.28788202475655</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-10 00:00:00</time>
+    <tavg>16.9</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>73.84603421437974</high_humidity>
+    <flood_risk>30.57745612805336</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-11 00:00:00</time>
+    <tavg>17.4</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>92.66336916558882</high_humidity>
+    <flood_risk>6.918521277173351</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-12 00:00:00</time>
+    <tavg>20.2</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>78.61815036701203</high_humidity>
+    <flood_risk>79.95735108839173</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-13 00:00:00</time>
+    <tavg>20.6</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>72.54618528639656</high_humidity>
+    <flood_risk>66.1271251152789</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-14 00:00:00</time>
+    <tavg>15.1</tavg>
+    <prcp>3.1</prcp>
+    <high_humidity>74.82210349805125</high_humidity>
+    <flood_risk>79.83402828330024</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-15 00:00:00</time>
+    <tavg>14.3</tavg>
+    <prcp>2.7</prcp>
+    <high_humidity>77.3999342215077</high_humidity>
+    <flood_risk>75.2414167282224</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-16 00:00:00</time>
+    <tavg>13.7</tavg>
+    <prcp>28.8</prcp>
+    <high_humidity>89.82354351509032</high_humidity>
+    <flood_risk>91.97098982316817</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-17 00:00:00</time>
+    <tavg>13.8</tavg>
+    <prcp>1.2</prcp>
+    <high_humidity>81.54476134326698</high_humidity>
+    <flood_risk>74.64969241162093</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-18 00:00:00</time>
+    <tavg>15.9</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>76.07359140247715</high_humidity>
+    <flood_risk>60.68024993807464</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-19 00:00:00</time>
+    <tavg>17.6</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>76.89233126795955</high_humidity>
+    <flood_risk>45.32721359271906</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-20 00:00:00</time>
+    <tavg>17.5</tavg>
+    <prcp>12.7</prcp>
+    <high_humidity>74.14010843506132</high_humidity>
+    <flood_risk>33.91208160192024</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-21 00:00:00</time>
+    <tavg>16.1</tavg>
+    <prcp>4.8</prcp>
+    <high_humidity>72.86701310877247</high_humidity>
+    <flood_risk>90.21313530931269</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-22 00:00:00</time>
+    <tavg>14.5</tavg>
+    <prcp>14.6</prcp>
+    <high_humidity>91.83471105445541</high_humidity>
+    <flood_risk>12.861519984593016</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-23 00:00:00</time>
+    <tavg>14.6</tavg>
+    <prcp>2.2</prcp>
+    <high_humidity>85.2546501965081</high_humidity>
+    <flood_risk>66.49349668075905</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-24 00:00:00</time>
+    <tavg>16.3</tavg>
+    <prcp>1.9</prcp>
+    <high_humidity>77.59714106143689</high_humidity>
+    <flood_risk>0.03942664951651631</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-25 00:00:00</time>
+    <tavg>17.2</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>70.04354814421615</high_humidity>
+    <flood_risk>71.38803720498964</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-26 00:00:00</time>
+    <tavg>16.6</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>70.18513917640024</high_humidity>
+    <flood_risk>80.62129488928855</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-27 00:00:00</time>
+    <tavg>17.5</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>85.86948221617722</high_humidity>
+    <flood_risk>58.47959406583828</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-28 00:00:00</time>
+    <tavg>19.2</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>91.51699612761752</high_humidity>
+    <flood_risk>42.411230780776485</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-29 00:00:00</time>
+    <tavg>19.7</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>94.70185848965255</high_humidity>
+    <flood_risk>91.85092820984268</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-04-30 00:00:00</time>
+    <tavg>17.8</tavg>
+    <prcp>10.3</prcp>
+    <high_humidity>83.34363752234178</high_humidity>
+    <flood_risk>77.35856300688216</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-01 00:00:00</time>
+    <tavg>15.0</tavg>
+    <prcp>4.7</prcp>
+    <high_humidity>75.71592233094711</high_humidity>
+    <flood_risk>99.26872735692707</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-02 00:00:00</time>
+    <tavg>13.0</tavg>
+    <prcp>0.2</prcp>
+    <high_humidity>88.18658159206723</high_humidity>
+    <flood_risk>73.44177615310433</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-03 00:00:00</time>
+    <tavg>11.9</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>93.74864350140929</high_humidity>
+    <flood_risk>5.535593740202593</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-04 00:00:00</time>
+    <tavg>12.4</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>77.22036149823515</high_humidity>
+    <flood_risk>70.25474603458409</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-05 00:00:00</time>
+    <tavg>15.8</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>83.62375214395617</high_humidity>
+    <flood_risk>38.675069582390265</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-06 00:00:00</time>
+    <tavg>17.9</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>72.15586464812107</high_humidity>
+    <flood_risk>4.873201032590691</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-07 00:00:00</time>
+    <tavg>18.8</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>70.98869887959238</high_humidity>
+    <flood_risk>61.21653346950836</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-08 00:00:00</time>
+    <tavg>19.6</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>92.09579362553454</high_humidity>
+    <flood_risk>27.897999399279318</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-09 00:00:00</time>
+    <tavg>20.0</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>72.53893596227866</high_humidity>
+    <flood_risk>20.872808002498864</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-10 00:00:00</time>
+    <tavg>19.2</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>87.15456426476814</high_humidity>
+    <flood_risk>96.65496228412536</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-11 00:00:00</time>
+    <tavg>13.3</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>88.89911871639242</high_humidity>
+    <flood_risk>11.48099457354057</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-12 00:00:00</time>
+    <tavg>12.0</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>85.27371969003038</high_humidity>
+    <flood_risk>31.751516664379064</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-13 00:00:00</time>
+    <tavg>14.7</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>86.83050260849797</high_humidity>
+    <flood_risk>66.0936929652005</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-14 00:00:00</time>
+    <tavg>16.8</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>94.28851204371549</high_humidity>
+    <flood_risk>47.930502563431155</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-15 00:00:00</time>
+    <tavg>17.2</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>72.42424795146835</high_humidity>
+    <flood_risk>83.4442514842768</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-16 00:00:00</time>
+    <tavg>17.1</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>70.72776335239567</high_humidity>
+    <flood_risk>24.362272916782256</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-17 00:00:00</time>
+    <tavg>17.4</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>75.19495539512629</high_humidity>
+    <flood_risk>10.522397955568142</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-18 00:00:00</time>
+    <tavg>16.5</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>90.33435185068575</high_humidity>
+    <flood_risk>21.937276247798422</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-19 00:00:00</time>
+    <tavg>17.8</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>92.38733631192184</high_humidity>
+    <flood_risk>59.18806345059204</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-20 00:00:00</time>
+    <tavg>20.0</tavg>
+    <prcp>2.2</prcp>
+    <high_humidity>89.42105868854841</high_humidity>
+    <flood_risk>93.46249624210076</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-21 00:00:00</time>
+    <tavg>13.2</tavg>
+    <prcp>5.8</prcp>
+    <high_humidity>78.50572517911428</high_humidity>
+    <flood_risk>55.1370354085816</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-22 00:00:00</time>
+    <tavg>14.0</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>79.77666022163791</high_humidity>
+    <flood_risk>73.9559246858337</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-23 00:00:00</time>
+    <tavg>11.6</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>89.7079449148167</high_humidity>
+    <flood_risk>0.3558036109571505</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-24 00:00:00</time>
+    <tavg>13.0</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>89.57588277817445</high_humidity>
+    <flood_risk>21.489648013776897</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-25 00:00:00</time>
+    <tavg>14.2</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>80.78524616827019</high_humidity>
+    <flood_risk>95.75598330455647</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-26 00:00:00</time>
+    <tavg>14.8</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>90.74999319287045</high_humidity>
+    <flood_risk>51.96399579948705</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-27 00:00:00</time>
+    <tavg>12.9</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>80.60142047823801</high_humidity>
+    <flood_risk>43.43795122405386</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-28 00:00:00</time>
+    <tavg>16.2</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>70.19146758856144</high_humidity>
+    <flood_risk>78.32324749516202</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-29 00:00:00</time>
+    <tavg>16.7</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>86.2290447572442</high_humidity>
+    <flood_risk>7.798315582228055</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-30 00:00:00</time>
+    <tavg>14.6</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>74.18514372104609</high_humidity>
+    <flood_risk>82.13955913140315</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-05-31 00:00:00</time>
+    <tavg>11.2</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>89.31509365045838</high_humidity>
+    <flood_risk>94.16065763701498</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-01 00:00:00</time>
+    <tavg>11.6</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>91.10327324012039</high_humidity>
+    <flood_risk>13.651810080133709</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-02 00:00:00</time>
+    <tavg>12.5</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>75.91788513605741</high_humidity>
+    <flood_risk>99.64128275683093</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-03 00:00:00</time>
+    <tavg>13.8</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>86.79245216357316</high_humidity>
+    <flood_risk>93.91434612519122</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-04 00:00:00</time>
+    <tavg>9.8</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>72.84310341099243</high_humidity>
+    <flood_risk>86.20410200657518</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-05 00:00:00</time>
+    <tavg>12.4</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>72.48674878054808</high_humidity>
+    <flood_risk>37.81927788903935</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-06 00:00:00</time>
+    <tavg>18.6</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>88.08741975519617</high_humidity>
+    <flood_risk>13.403245456880308</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-07 00:00:00</time>
+    <tavg>18.2</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>90.79805252734323</high_humidity>
+    <flood_risk>7.637647967544048</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-08 00:00:00</time>
+    <tavg>13.3</tavg>
+    <prcp>12.4</prcp>
+    <high_humidity>78.62318105995445</high_humidity>
+    <flood_risk>89.98928628163053</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-09 00:00:00</time>
+    <tavg>9.7</tavg>
+    <prcp>58.9</prcp>
+    <high_humidity>72.19241818044779</high_humidity>
+    <flood_risk>7.088570097970215</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-10 00:00:00</time>
+    <tavg>10.3</tavg>
+    <prcp>65.1</prcp>
+    <high_humidity>89.2206097972522</high_humidity>
+    <flood_risk>97.73917019212207</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-11 00:00:00</time>
+    <tavg>11.3</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>94.2171666253223</high_humidity>
+    <flood_risk>44.82456665391166</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-12 00:00:00</time>
+    <tavg>10.0</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>82.5617674570606</high_humidity>
+    <flood_risk>24.32444385699689</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-13 00:00:00</time>
+    <tavg>11.5</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>73.07680615247158</high_humidity>
+    <flood_risk>19.785649508848625</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-14 00:00:00</time>
+    <tavg>11.9</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>84.289689847883</high_humidity>
+    <flood_risk>70.80825671705279</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-15 00:00:00</time>
+    <tavg>13.0</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>88.48387386211198</high_humidity>
+    <flood_risk>15.934360670835856</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-16 00:00:00</time>
+    <tavg>12.5</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>90.63372781743925</high_humidity>
+    <flood_risk>21.043862420256954</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-17 00:00:00</time>
+    <tavg>12.9</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>91.60969934407038</high_humidity>
+    <flood_risk>11.858655455327483</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-18 00:00:00</time>
+    <tavg>11.6</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>93.96952620585327</high_humidity>
+    <flood_risk>56.16099487224319</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-19 00:00:00</time>
+    <tavg>9.4</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>77.82718108325108</high_humidity>
+    <flood_risk>17.010974966222182</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-20 00:00:00</time>
+    <tavg>10.8</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>71.10197329816523</high_humidity>
+    <flood_risk>76.51514162238546</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-21 00:00:00</time>
+    <tavg>11.8</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>85.37497204425286</high_humidity>
+    <flood_risk>53.51429174263358</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-22 00:00:00</time>
+    <tavg>10.0</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>85.44598174507351</high_humidity>
+    <flood_risk>80.12216827726043</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-23 00:00:00</time>
+    <tavg>11.5</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>82.72146260391898</high_humidity>
+    <flood_risk>33.87620532369737</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-24 00:00:00</time>
+    <tavg>10.7</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>80.03399861753786</high_humidity>
+    <flood_risk>88.10595336618452</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-25 00:00:00</time>
+    <tavg>15.7</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>86.81762106481875</high_humidity>
+    <flood_risk>69.39722309340789</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-26 00:00:00</time>
+    <tavg>14.8</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>72.1548172840159</high_humidity>
+    <flood_risk>44.29094295235747</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-27 00:00:00</time>
+    <tavg>9.7</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>93.43545697304398</high_humidity>
+    <flood_risk>3.131150892858492</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-28 00:00:00</time>
+    <tavg>8.3</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>73.68908092727295</high_humidity>
+    <flood_risk>82.97176523759835</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-29 00:00:00</time>
+    <tavg>10.7</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>92.98391240795857</high_humidity>
+    <flood_risk>12.928702174519247</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-06-30 00:00:00</time>
+    <tavg>11.0</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>89.44369017589734</high_humidity>
+    <flood_risk>67.52003505134755</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-01 00:00:00</time>
+    <tavg>11.9</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>78.94824501633448</high_humidity>
+    <flood_risk>46.19341628675742</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-02 00:00:00</time>
+    <tavg>13.7</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>70.0627649720615</high_humidity>
+    <flood_risk>91.17857444544254</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-03 00:00:00</time>
+    <tavg>12.5</tavg>
+    <prcp>8.0</prcp>
+    <high_humidity>85.83590305743087</high_humidity>
+    <flood_risk>63.52823038802181</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-04 00:00:00</time>
+    <tavg>12.8</tavg>
+    <prcp>0.1</prcp>
+    <high_humidity>90.2680286920258</high_humidity>
+    <flood_risk>88.08845427528134</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-05 00:00:00</time>
+    <tavg>11.2</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>77.4896028247671</high_humidity>
+    <flood_risk>98.5442371894098</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-06 00:00:00</time>
+    <tavg>8.2</tavg>
+    <prcp>2.5</prcp>
+    <high_humidity>77.99254868537602</high_humidity>
+    <flood_risk>98.19538975195213</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-07 00:00:00</time>
+    <tavg>8.8</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>87.62175864950217</high_humidity>
+    <flood_risk>92.99294025288738</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-08 00:00:00</time>
+    <tavg>8.0</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>90.19739831559926</high_humidity>
+    <flood_risk>7.5320380687385775</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-09 00:00:00</time>
+    <tavg>11.4</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>72.85394083865947</high_humidity>
+    <flood_risk>67.24485368642353</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-10 00:00:00</time>
+    <tavg>13.0</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>72.2317854143299</high_humidity>
+    <flood_risk>38.64450190597781</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-11 00:00:00</time>
+    <tavg>14.1</tavg>
+    <prcp>0.2</prcp>
+    <high_humidity>76.60714061355196</high_humidity>
+    <flood_risk>26.618415952629782</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-12 00:00:00</time>
+    <tavg>10.3</tavg>
+    <prcp>3.5</prcp>
+    <high_humidity>90.75327810577886</high_humidity>
+    <flood_risk>69.53738936264317</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-13 00:00:00</time>
+    <tavg>16.2</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>71.20428440207569</high_humidity>
+    <flood_risk>68.95676627090916</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-14 00:00:00</time>
+    <tavg>13.6</tavg>
+    <prcp>0.6</prcp>
+    <high_humidity>84.70018990579567</high_humidity>
+    <flood_risk>25.874191467518003</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-15 00:00:00</time>
+    <tavg>13.6</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>76.570847629682</high_humidity>
+    <flood_risk>71.95248571157613</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-16 00:00:00</time>
+    <tavg>14.8</tavg>
+    <prcp>1.5</prcp>
+    <high_humidity>75.93397214186406</high_humidity>
+    <flood_risk>2.073673511351337</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-17 00:00:00</time>
+    <tavg>14.6</tavg>
+    <prcp>4.8</prcp>
+    <high_humidity>84.6292253190925</high_humidity>
+    <flood_risk>26.882015219578225</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-18 00:00:00</time>
+    <tavg>11.7</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>82.3734455399063</high_humidity>
+    <flood_risk>44.115342207112384</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-19 00:00:00</time>
+    <tavg>11.8</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>72.51025544878863</high_humidity>
+    <flood_risk>37.5849173378209</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-20 00:00:00</time>
+    <tavg>15.1</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>94.73973499000151</high_humidity>
+    <flood_risk>57.48786958307937</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-21 00:00:00</time>
+    <tavg>16.8</tavg>
+    <prcp>3.7</prcp>
+    <high_humidity>84.34240257916142</high_humidity>
+    <flood_risk>44.387497208008575</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-22 00:00:00</time>
+    <tavg>11.2</tavg>
+    <prcp>4.2</prcp>
+    <high_humidity>91.23693394224982</high_humidity>
+    <flood_risk>2.661743433425434</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-23 00:00:00</time>
+    <tavg>12.7</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>70.65356931753418</high_humidity>
+    <flood_risk>95.09387099749641</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-24 00:00:00</time>
+    <tavg>14.9</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>93.94598977894198</high_humidity>
+    <flood_risk>34.92464418989404</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-25 00:00:00</time>
+    <tavg>14.3</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>89.22140281326996</high_humidity>
+    <flood_risk>89.65422548264009</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-26 00:00:00</time>
+    <tavg>10.2</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>72.07908411252079</high_humidity>
+    <flood_risk>64.70869831787958</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-27 00:00:00</time>
+    <tavg>9.3</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>80.05562259871435</high_humidity>
+    <flood_risk>61.974483988244145</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-28 00:00:00</time>
+    <tavg>10.1</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>73.893857998291</high_humidity>
+    <flood_risk>53.6776891615058</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-29 00:00:00</time>
+    <tavg>13.1</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>93.52464857928484</high_humidity>
+    <flood_risk>51.586697822485036</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-30 00:00:00</time>
+    <tavg>15.5</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>94.36740576955044</high_humidity>
+    <flood_risk>71.54581831251987</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-07-31 00:00:00</time>
+    <tavg>17.0</tavg>
+    <prcp>0.2</prcp>
+    <high_humidity>76.34897290521226</high_humidity>
+    <flood_risk>99.12445541488538</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-01 00:00:00</time>
+    <tavg>10.0</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>89.88288875700192</high_humidity>
+    <flood_risk>23.839665964147095</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-02 00:00:00</time>
+    <tavg>8.9</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>73.06165977487137</high_humidity>
+    <flood_risk>90.84195006042447</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-03 00:00:00</time>
+    <tavg>13.8</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>90.36132310107233</high_humidity>
+    <flood_risk>41.553892406866346</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-04 00:00:00</time>
+    <tavg>15.3</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>77.14909269231192</high_humidity>
+    <flood_risk>55.26167945173675</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-05 00:00:00</time>
+    <tavg>16.3</tavg>
+    <prcp>0.3</prcp>
+    <high_humidity>91.74695309479912</high_humidity>
+    <flood_risk>73.37463732422384</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-06 00:00:00</time>
+    <tavg>10.1</tavg>
+    <prcp>10.6</prcp>
+    <high_humidity>90.93104498675372</high_humidity>
+    <flood_risk>24.87172502770948</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-07 00:00:00</time>
+    <tavg>11.5</tavg>
+    <prcp>0.2</prcp>
+    <high_humidity>91.56698801507684</high_humidity>
+    <flood_risk>29.880705358218396</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-08 00:00:00</time>
+    <tavg>12.6</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>77.67117331012776</high_humidity>
+    <flood_risk>15.833706674134273</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-09 00:00:00</time>
+    <tavg>15.2</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>77.67590392151614</high_humidity>
+    <flood_risk>42.67528120973789</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-10 00:00:00</time>
+    <tavg>14.5</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>76.34449972629557</high_humidity>
+    <flood_risk>64.71930417849543</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-11 00:00:00</time>
+    <tavg>10.2</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>92.21592195699097</high_humidity>
+    <flood_risk>48.01946576317878</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-12 00:00:00</time>
+    <tavg>13.7</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>84.24695761266075</high_humidity>
+    <flood_risk>26.531344699574767</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-13 00:00:00</time>
+    <tavg>17.2</tavg>
+    <prcp>1.1</prcp>
+    <high_humidity>82.86936206962804</high_humidity>
+    <flood_risk>51.96393720058175</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-14 00:00:00</time>
+    <tavg>14.8</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>73.62005335830868</high_humidity>
+    <flood_risk>63.72411544140417</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-15 00:00:00</time>
+    <tavg>17.3</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>91.42132685299782</high_humidity>
+    <flood_risk>21.911558294223344</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-16 00:00:00</time>
+    <tavg>16.0</tavg>
+    <prcp>2.2</prcp>
+    <high_humidity>87.5161056788269</high_humidity>
+    <flood_risk>78.31929679432837</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-17 00:00:00</time>
+    <tavg>16.0</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>81.35107248825494</high_humidity>
+    <flood_risk>32.49391982966697</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-18 00:00:00</time>
+    <tavg>19.0</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>83.42503926248654</high_humidity>
+    <flood_risk>34.60621956813483</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-19 00:00:00</time>
+    <tavg>14.9</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>72.01688181214104</high_humidity>
+    <flood_risk>68.71791935979493</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-20 00:00:00</time>
+    <tavg>14.3</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>84.45219129681512</high_humidity>
+    <flood_risk>28.786715816056642</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-21 00:00:00</time>
+    <tavg>13.9</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>78.9741054964917</high_humidity>
+    <flood_risk>3.123640289897922</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-22 00:00:00</time>
+    <tavg>13.5</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>93.8677576713325</high_humidity>
+    <flood_risk>84.63820493794788</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-23 00:00:00</time>
+    <tavg>14.1</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>88.48648044520382</high_humidity>
+    <flood_risk>95.97876823727115</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-24 00:00:00</time>
+    <tavg>12.0</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>84.70855061481508</high_humidity>
+    <flood_risk>70.78261287946556</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-25 00:00:00</time>
+    <tavg>15.2</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>83.48547169810654</high_humidity>
+    <flood_risk>16.246343308898503</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-26 00:00:00</time>
+    <tavg>12.7</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>76.53712143317956</high_humidity>
+    <flood_risk>91.63601880788353</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-27 00:00:00</time>
+    <tavg>13.9</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>83.0113610892649</high_humidity>
+    <flood_risk>3.583296476255504</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-28 00:00:00</time>
+    <tavg>16.1</tavg>
+    <prcp>0.9</prcp>
+    <high_humidity>88.82290764611125</high_humidity>
+    <flood_risk>21.955970566169047</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-29 00:00:00</time>
+    <tavg>18.3</tavg>
+    <prcp>2.1</prcp>
+    <high_humidity>74.45086977575049</high_humidity>
+    <flood_risk>88.00630250777222</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-30 00:00:00</time>
+    <tavg>16.5</tavg>
+    <prcp>0.5</prcp>
+    <high_humidity>80.8479637694298</high_humidity>
+    <flood_risk>93.02496154463317</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-08-31 00:00:00</time>
+    <tavg>19.0</tavg>
+    <prcp>0.2</prcp>
+    <high_humidity>85.35687767895216</high_humidity>
+    <flood_risk>46.343328891561356</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-01 00:00:00</time>
+    <tavg>13.9</tavg>
+    <prcp>4.8</prcp>
+    <high_humidity>85.99434687530697</high_humidity>
+    <flood_risk>31.76013533437927</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-02 00:00:00</time>
+    <tavg>17.9</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>83.48591049925169</high_humidity>
+    <flood_risk>75.50490115337973</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-03 00:00:00</time>
+    <tavg>16.2</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>82.21637468189901</high_humidity>
+    <flood_risk>93.8073723896067</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-04 00:00:00</time>
+    <tavg>16.0</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>71.12882136515739</high_humidity>
+    <flood_risk>44.4113241959838</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-05 00:00:00</time>
+    <tavg>16.1</tavg>
+    <prcp>0.9</prcp>
+    <high_humidity>78.85475267348744</high_humidity>
+    <flood_risk>22.32508875360566</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-06 00:00:00</time>
+    <tavg>13.6</tavg>
+    <prcp>6.4</prcp>
+    <high_humidity>89.93168868870873</high_humidity>
+    <flood_risk>34.806883103466745</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-07 00:00:00</time>
+    <tavg>16.3</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>76.49759135469112</high_humidity>
+    <flood_risk>45.79616100077042</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-08 00:00:00</time>
+    <tavg>16.2</tavg>
+    <prcp>0.5</prcp>
+    <high_humidity>83.69990759278133</high_humidity>
+    <flood_risk>0.7036283885309413</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-09 00:00:00</time>
+    <tavg>20.5</tavg>
+    <prcp>7.6</prcp>
+    <high_humidity>82.35817781743648</high_humidity>
+    <flood_risk>0.25230615602883644</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-10 00:00:00</time>
+    <tavg>21.3</tavg>
+    <prcp>0.3</prcp>
+    <high_humidity>93.23562629949974</high_humidity>
+    <flood_risk>62.26815385563772</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-11 00:00:00</time>
+    <tavg>20.0</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>93.87624281131072</high_humidity>
+    <flood_risk>86.53042800866466</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-12 00:00:00</time>
+    <tavg>15.8</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>72.9322746175525</high_humidity>
+    <flood_risk>26.224391543760785</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-13 00:00:00</time>
+    <tavg>15.8</tavg>
+    <prcp>5.3</prcp>
+    <high_humidity>90.38060584414208</high_humidity>
+    <flood_risk>5.702499867720157</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-14 00:00:00</time>
+    <tavg>15.1</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>93.29220739040552</high_humidity>
+    <flood_risk>70.11599456447709</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-15 00:00:00</time>
+    <tavg>18.9</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>78.20478017869361</high_humidity>
+    <flood_risk>91.3456492930348</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-16 00:00:00</time>
+    <tavg>18.1</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>75.32879613558421</high_humidity>
+    <flood_risk>83.86319257259584</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-17 00:00:00</time>
+    <tavg>13.1</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>72.0013406720476</high_humidity>
+    <flood_risk>41.78011104972141</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-18 00:00:00</time>
+    <tavg>13.6</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>92.17261889428062</high_humidity>
+    <flood_risk>76.84435106578067</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-19 00:00:00</time>
+    <tavg>14.6</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>79.89635226943233</high_humidity>
+    <flood_risk>57.79112943808173</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-20 00:00:00</time>
+    <tavg>17.9</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>70.04009383084872</high_humidity>
+    <flood_risk>65.52245366272501</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-21 00:00:00</time>
+    <tavg>19.4</tavg>
+    <prcp>0.2</prcp>
+    <high_humidity>77.5910332561801</high_humidity>
+    <flood_risk>82.79124903922884</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-22 00:00:00</time>
+    <tavg>19.5</tavg>
+    <prcp>1.3</prcp>
+    <high_humidity>85.23186065840086</high_humidity>
+    <flood_risk>12.747601714931644</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-23 00:00:00</time>
+    <tavg>13.5</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>91.31667378801988</high_humidity>
+    <flood_risk>97.17947950131745</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-24 00:00:00</time>
+    <tavg>11.7</tavg>
+    <prcp>7.2</prcp>
+    <high_humidity>72.81594329306128</high_humidity>
+    <flood_risk>53.64225529410365</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-25 00:00:00</time>
+    <tavg>12.4</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>88.73590765750747</high_humidity>
+    <flood_risk>81.68266019655313</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-26 00:00:00</time>
+    <tavg>14.0</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>93.41363513474384</high_humidity>
+    <flood_risk>28.862381429740747</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-27 00:00:00</time>
+    <tavg>17.5</tavg>
+    <prcp>0.3</prcp>
+    <high_humidity>77.71311888917057</high_humidity>
+    <flood_risk>35.83017927449858</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-28 00:00:00</time>
+    <tavg>14.8</tavg>
+    <prcp>7.3</prcp>
+    <high_humidity>88.83914831129371</high_humidity>
+    <flood_risk>33.40800435877562</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-29 00:00:00</time>
+    <tavg>11.6</tavg>
+    <prcp>8.6</prcp>
+    <high_humidity>80.6027992064253</high_humidity>
+    <flood_risk>73.44074216877922</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-09-30 00:00:00</time>
+    <tavg>14.5</tavg>
+    <prcp>1.2</prcp>
+    <high_humidity>76.47189267096573</high_humidity>
+    <flood_risk>61.52081896589997</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-01 00:00:00</time>
+    <tavg>21.2</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>91.15889839445086</high_humidity>
+    <flood_risk>1.8360403585268026</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-02 00:00:00</time>
+    <tavg>13.0</tavg>
+    <prcp>1.2</prcp>
+    <high_humidity>93.85321762821926</high_humidity>
+    <flood_risk>41.852298811727906</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-03 00:00:00</time>
+    <tavg>10.7</tavg>
+    <prcp>1.4</prcp>
+    <high_humidity>79.85535217443076</high_humidity>
+    <flood_risk>66.1966917440113</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-04 00:00:00</time>
+    <tavg>17.9</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>74.84443596824724</high_humidity>
+    <flood_risk>4.443434471334628</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-05 00:00:00</time>
+    <tavg>18.2</tavg>
+    <prcp>0.6</prcp>
+    <high_humidity>85.3803971029291</high_humidity>
+    <flood_risk>25.41183391043874</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-06 00:00:00</time>
+    <tavg>17.0</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>72.88247506199288</high_humidity>
+    <flood_risk>86.60561270238598</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-07 00:00:00</time>
+    <tavg>16.3</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>92.16619396497566</high_humidity>
+    <flood_risk>47.49706494811702</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-08 00:00:00</time>
+    <tavg>16.3</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>83.32175439562388</high_humidity>
+    <flood_risk>90.22365444620445</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-09 00:00:00</time>
+    <tavg>17.0</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>75.43145768401264</high_humidity>
+    <flood_risk>70.37121642518372</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-10 00:00:00</time>
+    <tavg>23.5</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>75.70219992356074</high_humidity>
+    <flood_risk>66.58595174867142</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-11 00:00:00</time>
+    <tavg>19.5</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>92.70150184180183</high_humidity>
+    <flood_risk>33.85974180712659</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-12 00:00:00</time>
+    <tavg>16.2</tavg>
+    <prcp>6.8</prcp>
+    <high_humidity>79.4145629277028</high_humidity>
+    <flood_risk>1.0806714516475746</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-13 00:00:00</time>
+    <tavg>19.1</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>90.45179829361254</high_humidity>
+    <flood_risk>17.142663358783437</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-14 00:00:00</time>
+    <tavg>21.4</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>91.57993038960285</high_humidity>
+    <flood_risk>63.75422645953797</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-15 00:00:00</time>
+    <tavg>16.5</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>77.33843079111163</high_humidity>
+    <flood_risk>40.275985744098264</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-16 00:00:00</time>
+    <tavg>15.0</tavg>
+    <prcp>0.1</prcp>
+    <high_humidity>73.80231662939785</high_humidity>
+    <flood_risk>65.56158327212796</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-17 00:00:00</time>
+    <tavg>16.1</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>74.2450415386321</high_humidity>
+    <flood_risk>57.29893584296458</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-18 00:00:00</time>
+    <tavg>19.4</tavg>
+    <prcp>0.2</prcp>
+    <high_humidity>75.17914478932032</high_humidity>
+    <flood_risk>12.59720168774152</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-19 00:00:00</time>
+    <tavg>14.3</tavg>
+    <prcp>6.5</prcp>
+    <high_humidity>86.98316684440029</high_humidity>
+    <flood_risk>75.75111525349855</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-20 00:00:00</time>
+    <tavg>13.9</tavg>
+    <prcp>2.7</prcp>
+    <high_humidity>81.30032982738811</high_humidity>
+    <flood_risk>83.19979482390055</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-21 00:00:00</time>
+    <tavg>16.5</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>86.03834486393515</high_humidity>
+    <flood_risk>54.596040801890624</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-22 00:00:00</time>
+    <tavg>22.5</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>82.0197350430527</high_humidity>
+    <flood_risk>9.423551282482489</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-23 00:00:00</time>
+    <tavg>27.2</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>78.45782423374614</high_humidity>
+    <flood_risk>50.10522430639374</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-24 00:00:00</time>
+    <tavg>19.4</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>79.8075503531986</high_humidity>
+    <flood_risk>90.82459312491285</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-25 00:00:00</time>
+    <tavg>18.5</tavg>
+    <prcp>3.0</prcp>
+    <high_humidity>75.83513716344828</high_humidity>
+    <flood_risk>78.96947013052711</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-26 00:00:00</time>
+    <tavg>13.7</tavg>
+    <prcp>10.3</prcp>
+    <high_humidity>79.50954221481452</high_humidity>
+    <flood_risk>15.28019716150334</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-27 00:00:00</time>
+    <tavg>14.4</tavg>
+    <prcp>0.9</prcp>
+    <high_humidity>91.87640932480504</high_humidity>
+    <flood_risk>68.30813430602234</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-28 00:00:00</time>
+    <tavg>17.8</tavg>
+    <prcp>0.0</prcp>
+    <high_humidity>80.5869766856213</high_humidity>
+    <flood_risk>42.92711688794001</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-29 00:00:00</time>
+    <tavg>18.3</tavg>
+    <prcp>5.5</prcp>
+    <high_humidity>82.05548231172519</high_humidity>
+    <flood_risk>72.41979913802811</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-30 00:00:00</time>
+    <tavg>16.3</tavg>
+    <prcp>4.3</prcp>
+    <high_humidity>78.85078230837233</high_humidity>
+    <flood_risk>88.39716109077574</flood_risk>
+    <thunderstorm_days>1</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-10-31 00:00:00</time>
+    <tavg>22.1</tavg>
+    <prcp>0.9</prcp>
+    <high_humidity>86.47236445295012</high_humidity>
+    <flood_risk>31.728505054922373</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+  <day>
+    <time>2025-11-01 00:00:00</time>
+    <tavg>16.8</tavg>
+    <prcp>2.8</prcp>
+    <high_humidity>86.64169098164287</high_humidity>
+    <flood_risk>94.06101006413188</flood_risk>
+    <thunderstorm_days>0</thunderstorm_days>
+  </day>
+</weather>

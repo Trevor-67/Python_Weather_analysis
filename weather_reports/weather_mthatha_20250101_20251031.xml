@@ -1,0 +1,1827 @@
+<?xml version='1.0' encoding='utf-8'?>
+<weather>
+  <day>
+    <time>2025-01-01 00:00:00</time>
+    <tavg>19.2</tavg>
+    <prcp>0.9</prcp>
+    <flood_risk>38.27436996494305</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-02 00:00:00</time>
+    <tavg>21.9</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>69.53995451662651</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-03 00:00:00</time>
+    <tavg>27.9</tavg>
+    <prcp>0.6</prcp>
+    <flood_risk>34.8781005365931</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-04 00:00:00</time>
+    <tavg>27.7</tavg>
+    <prcp>9.3</prcp>
+    <flood_risk>65.56623252250697</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-05 00:00:00</time>
+    <tavg>21.8</tavg>
+    <prcp>9.3</prcp>
+    <flood_risk>4.102282833073301</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-06 00:00:00</time>
+    <tavg>18.6</tavg>
+    <prcp>7.5</prcp>
+    <flood_risk>53.88285536658167</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-07 00:00:00</time>
+    <tavg>21.4</tavg>
+    <prcp>4.8</prcp>
+    <flood_risk>41.99382308252682</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-08 00:00:00</time>
+    <tavg>20.0</tavg>
+    <prcp>4.3</prcp>
+    <flood_risk>61.569587148704144</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-09 00:00:00</time>
+    <tavg>23.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>54.76213237952463</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-10 00:00:00</time>
+    <tavg>21.9</tavg>
+    <prcp>0.8</prcp>
+    <flood_risk>28.481965785151065</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-11 00:00:00</time>
+    <tavg>23.5</tavg>
+    <prcp>11.0</prcp>
+    <flood_risk>84.37467510061086</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-12 00:00:00</time>
+    <tavg>20.1</tavg>
+    <prcp>9.4</prcp>
+    <flood_risk>71.78179399887054</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-13 00:00:00</time>
+    <tavg>17.5</tavg>
+    <prcp>7.3</prcp>
+    <flood_risk>89.17342154145861</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-14 00:00:00</time>
+    <tavg>23.0</tavg>
+    <prcp>0.1</prcp>
+    <flood_risk>47.93605198825451</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-15 00:00:00</time>
+    <tavg>15.8</tavg>
+    <prcp>4.3</prcp>
+    <flood_risk>41.94938152495319</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-16 00:00:00</time>
+    <tavg>15.3</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>44.70673056357476</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-17 00:00:00</time>
+    <tavg>19.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>35.78573051881182</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-18 00:00:00</time>
+    <tavg>25.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>5.446754048370384</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-19 00:00:00</time>
+    <tavg>25.3</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>73.99719704661663</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-20 00:00:00</time>
+    <tavg>19.4</tavg>
+    <prcp>7.6</prcp>
+    <flood_risk>79.74641386020217</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-21 00:00:00</time>
+    <tavg>17.9</tavg>
+    <prcp>6.9</prcp>
+    <flood_risk>91.2668639173925</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-22 00:00:00</time>
+    <tavg>20.8</tavg>
+    <prcp>0.1</prcp>
+    <flood_risk>94.16914221900451</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-23 00:00:00</time>
+    <tavg>23.4</tavg>
+    <prcp>0.9</prcp>
+    <flood_risk>71.43004929471539</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-24 00:00:00</time>
+    <tavg>22.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>29.52447985693687</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-25 00:00:00</time>
+    <tavg>22.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>79.33648504813343</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-26 00:00:00</time>
+    <tavg>25.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>59.49634373880396</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-27 00:00:00</time>
+    <tavg>22.7</tavg>
+    <prcp>4.7</prcp>
+    <flood_risk>96.9149347626437</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-28 00:00:00</time>
+    <tavg>21.8</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>84.00052993392066</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-29 00:00:00</time>
+    <tavg>23.7</tavg>
+    <prcp>6.8</prcp>
+    <flood_risk>52.58101621141551</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-30 00:00:00</time>
+    <tavg>24.8</tavg>
+    <prcp>0.3</prcp>
+    <flood_risk>17.024211147437175</flood_risk>
+  </day>
+  <day>
+    <time>2025-01-31 00:00:00</time>
+    <tavg>21.8</tavg>
+    <prcp>2.6</prcp>
+    <flood_risk>92.37252969513716</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-01 00:00:00</time>
+    <tavg>19.4</tavg>
+    <prcp>2.1</prcp>
+    <flood_risk>66.02062827519505</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-02 00:00:00</time>
+    <tavg>21.7</tavg>
+    <prcp>2.7</prcp>
+    <flood_risk>52.444179565909174</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-03 00:00:00</time>
+    <tavg>19.9</tavg>
+    <prcp>1.9</prcp>
+    <flood_risk>38.04535954663217</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-04 00:00:00</time>
+    <tavg>25.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>83.84864584932187</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-05 00:00:00</time>
+    <tavg>21.7</tavg>
+    <prcp>22.3</prcp>
+    <flood_risk>1.785451733021648</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-06 00:00:00</time>
+    <tavg>18.3</tavg>
+    <prcp>5.4</prcp>
+    <flood_risk>25.515415710270883</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-07 00:00:00</time>
+    <tavg>20.7</tavg>
+    <prcp>3.0</prcp>
+    <flood_risk>2.536819544758462</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-08 00:00:00</time>
+    <tavg>23.8</tavg>
+    <prcp>5.0</prcp>
+    <flood_risk>91.62282708255674</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-09 00:00:00</time>
+    <tavg>19.0</tavg>
+    <prcp>3.4</prcp>
+    <flood_risk>96.93398692019319</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-10 00:00:00</time>
+    <tavg>16.9</tavg>
+    <prcp>4.6</prcp>
+    <flood_risk>76.25765399611642</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-11 00:00:00</time>
+    <tavg>17.5</tavg>
+    <prcp>2.4</prcp>
+    <flood_risk>10.322708103858858</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-12 00:00:00</time>
+    <tavg>22.5</tavg>
+    <prcp>0.4</prcp>
+    <flood_risk>72.3639031382106</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-13 00:00:00</time>
+    <tavg>20.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>51.83768468828607</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-14 00:00:00</time>
+    <tavg>21.1</tavg>
+    <prcp>1.7</prcp>
+    <flood_risk>90.97946475069341</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-15 00:00:00</time>
+    <tavg>17.8</tavg>
+    <prcp>0.9</prcp>
+    <flood_risk>34.10048616973801</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-16 00:00:00</time>
+    <tavg>21.4</tavg>
+    <prcp>6.1</prcp>
+    <flood_risk>24.567437336771825</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-17 00:00:00</time>
+    <tavg>22.2</tavg>
+    <prcp>0.6</prcp>
+    <flood_risk>91.31773409602641</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-18 00:00:00</time>
+    <tavg>21.6</tavg>
+    <prcp>26.3</prcp>
+    <flood_risk>22.305326463283272</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-19 00:00:00</time>
+    <tavg>16.7</tavg>
+    <prcp>15.5</prcp>
+    <flood_risk>72.11848246813453</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-20 00:00:00</time>
+    <tavg>20.8</tavg>
+    <prcp>0.6</prcp>
+    <flood_risk>1.79903703516614</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-21 00:00:00</time>
+    <tavg>22.9</tavg>
+    <prcp>4.8</prcp>
+    <flood_risk>58.22335399497943</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-22 00:00:00</time>
+    <tavg>21.5</tavg>
+    <prcp>3.6</prcp>
+    <flood_risk>88.40489390663629</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-23 00:00:00</time>
+    <tavg>21.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>6.699503410911589</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-24 00:00:00</time>
+    <tavg>22.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>64.72499967258483</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-25 00:00:00</time>
+    <tavg>21.3</tavg>
+    <prcp>26.5</prcp>
+    <flood_risk>82.74562336843937</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-26 00:00:00</time>
+    <tavg>18.8</tavg>
+    <prcp>5.0</prcp>
+    <flood_risk>85.36749015588391</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-27 00:00:00</time>
+    <tavg>19.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>17.19606212660363</flood_risk>
+  </day>
+  <day>
+    <time>2025-02-28 00:00:00</time>
+    <tavg>19.4</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>72.37720018527644</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-01 00:00:00</time>
+    <tavg>20.9</tavg>
+    <prcp>0.3</prcp>
+    <flood_risk>30.96709976297487</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-02 00:00:00</time>
+    <tavg>21.1</tavg>
+    <prcp>6.0</prcp>
+    <flood_risk>49.81067055163943</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-03 00:00:00</time>
+    <tavg>22.4</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>78.6142242156111</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-04 00:00:00</time>
+    <tavg>22.1</tavg>
+    <prcp>1.4</prcp>
+    <flood_risk>28.52263025249222</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-05 00:00:00</time>
+    <tavg>23.6</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>23.32001651733153</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-06 00:00:00</time>
+    <tavg>26.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>28.942327706568406</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-07 00:00:00</time>
+    <tavg>20.9</tavg>
+    <prcp>1.8</prcp>
+    <flood_risk>91.7150037777469</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-08 00:00:00</time>
+    <tavg>24.0</tavg>
+    <prcp>0.7</prcp>
+    <flood_risk>58.92059236518802</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-09 00:00:00</time>
+    <tavg>24.4</tavg>
+    <prcp>8.4</prcp>
+    <flood_risk>89.82504464141043</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-10 00:00:00</time>
+    <tavg>18.3</tavg>
+    <prcp>4.6</prcp>
+    <flood_risk>27.341290758649638</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-11 00:00:00</time>
+    <tavg>20.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>3.1329252452284684</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-12 00:00:00</time>
+    <tavg>20.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>74.22282133812361</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-13 00:00:00</time>
+    <tavg>20.0</tavg>
+    <prcp>12.1</prcp>
+    <flood_risk>55.87653201743673</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-14 00:00:00</time>
+    <tavg>16.7</tavg>
+    <prcp/>
+    <flood_risk>57.08844578534043</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-15 00:00:00</time>
+    <tavg/>
+    <prcp/>
+    <flood_risk>10.846620681633645</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-16 00:00:00</time>
+    <tavg/>
+    <prcp/>
+    <flood_risk>15.961613416655373</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-17 00:00:00</time>
+    <tavg/>
+    <prcp/>
+    <flood_risk>13.26686823554104</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-18 00:00:00</time>
+    <tavg/>
+    <prcp/>
+    <flood_risk>70.6086829450111</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-19 00:00:00</time>
+    <tavg/>
+    <prcp/>
+    <flood_risk>7.787450430855126</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-20 00:00:00</time>
+    <tavg/>
+    <prcp/>
+    <flood_risk>7.336415062759727</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-21 00:00:00</time>
+    <tavg/>
+    <prcp/>
+    <flood_risk>72.12307424689249</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-22 00:00:00</time>
+    <tavg>24.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>26.931838557848543</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-23 00:00:00</time>
+    <tavg>22.2</tavg>
+    <prcp>10.3</prcp>
+    <flood_risk>70.8412092384867</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-24 00:00:00</time>
+    <tavg>22.3</tavg>
+    <prcp>4.0</prcp>
+    <flood_risk>97.30100538340952</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-25 00:00:00</time>
+    <tavg>22.2</tavg>
+    <prcp>25.8</prcp>
+    <flood_risk>33.34276270752065</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-26 00:00:00</time>
+    <tavg>18.0</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>80.55937314001154</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-27 00:00:00</time>
+    <tavg>18.5</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>6.5522941218684405</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-28 00:00:00</time>
+    <tavg>19.6</tavg>
+    <prcp>2.2</prcp>
+    <flood_risk>36.07626027196503</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-29 00:00:00</time>
+    <tavg>20.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>79.47606237425553</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-30 00:00:00</time>
+    <tavg>19.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>99.91920871246764</flood_risk>
+  </day>
+  <day>
+    <time>2025-03-31 00:00:00</time>
+    <tavg>20.3</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>6.77741599127798</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-01 00:00:00</time>
+    <tavg>19.0</tavg>
+    <prcp>15.4</prcp>
+    <flood_risk>61.12652837127525</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-02 00:00:00</time>
+    <tavg>16.7</tavg>
+    <prcp>0.4</prcp>
+    <flood_risk>17.22325583506824</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-03 00:00:00</time>
+    <tavg>17.7</tavg>
+    <prcp>0.9</prcp>
+    <flood_risk>66.23698843420311</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-04 00:00:00</time>
+    <tavg>18.7</tavg>
+    <prcp>6.3</prcp>
+    <flood_risk>97.17407914191766</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-05 00:00:00</time>
+    <tavg>16.4</tavg>
+    <prcp>5.9</prcp>
+    <flood_risk>89.39889131210793</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-06 00:00:00</time>
+    <tavg>17.3</tavg>
+    <prcp>4.1</prcp>
+    <flood_risk>43.23230860048412</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-07 00:00:00</time>
+    <tavg>19.9</tavg>
+    <prcp>0.3</prcp>
+    <flood_risk>58.67097148104183</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-08 00:00:00</time>
+    <tavg>20.6</tavg>
+    <prcp>1.7</prcp>
+    <flood_risk>49.63353548806126</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-09 00:00:00</time>
+    <tavg>19.4</tavg>
+    <prcp>5.1</prcp>
+    <flood_risk>29.34873839771962</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-10 00:00:00</time>
+    <tavg>16.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>57.789705842241936</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-11 00:00:00</time>
+    <tavg>17.4</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>19.216629596364186</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-12 00:00:00</time>
+    <tavg>20.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>26.656265382500077</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-13 00:00:00</time>
+    <tavg>20.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>11.900326969996867</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-14 00:00:00</time>
+    <tavg>15.1</tavg>
+    <prcp>3.1</prcp>
+    <flood_risk>36.68282366243645</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-15 00:00:00</time>
+    <tavg>14.3</tavg>
+    <prcp>2.7</prcp>
+    <flood_risk>11.51263648709091</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-16 00:00:00</time>
+    <tavg>13.7</tavg>
+    <prcp>28.8</prcp>
+    <flood_risk>31.677287791325735</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-17 00:00:00</time>
+    <tavg>13.8</tavg>
+    <prcp>1.2</prcp>
+    <flood_risk>39.27135499020409</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-18 00:00:00</time>
+    <tavg>15.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>34.31657306032897</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-19 00:00:00</time>
+    <tavg>17.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>53.42904552436245</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-20 00:00:00</time>
+    <tavg>17.5</tavg>
+    <prcp>12.7</prcp>
+    <flood_risk>63.79235375075728</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-21 00:00:00</time>
+    <tavg>16.1</tavg>
+    <prcp>4.8</prcp>
+    <flood_risk>8.288396841523404</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-22 00:00:00</time>
+    <tavg>14.5</tavg>
+    <prcp>14.6</prcp>
+    <flood_risk>45.37919401640582</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-23 00:00:00</time>
+    <tavg>14.6</tavg>
+    <prcp>2.2</prcp>
+    <flood_risk>41.02028933489832</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-24 00:00:00</time>
+    <tavg>16.3</tavg>
+    <prcp>1.9</prcp>
+    <flood_risk>59.421443577678254</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-25 00:00:00</time>
+    <tavg>17.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>17.00770986358078</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-26 00:00:00</time>
+    <tavg>16.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>15.280577997521439</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-27 00:00:00</time>
+    <tavg>17.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>17.364424259795886</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-28 00:00:00</time>
+    <tavg>19.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>12.709864198460197</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-29 00:00:00</time>
+    <tavg>19.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>87.77034687710328</flood_risk>
+  </day>
+  <day>
+    <time>2025-04-30 00:00:00</time>
+    <tavg>17.8</tavg>
+    <prcp>10.3</prcp>
+    <flood_risk>2.3972977560650532</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-01 00:00:00</time>
+    <tavg>15.0</tavg>
+    <prcp>4.7</prcp>
+    <flood_risk>34.28637866128052</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-02 00:00:00</time>
+    <tavg>13.0</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>34.49865029778925</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-03 00:00:00</time>
+    <tavg>11.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>26.945238648463587</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-04 00:00:00</time>
+    <tavg>12.4</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>61.37249422737172</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-05 00:00:00</time>
+    <tavg>15.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>88.75136890027632</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-06 00:00:00</time>
+    <tavg>17.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>10.741323232525957</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-07 00:00:00</time>
+    <tavg>18.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>53.34472599490091</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-08 00:00:00</time>
+    <tavg>19.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>94.93491085441318</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-09 00:00:00</time>
+    <tavg>20.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>65.02188549871363</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-10 00:00:00</time>
+    <tavg>19.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>64.05655701209352</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-11 00:00:00</time>
+    <tavg>13.3</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>3.3821619131153557</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-12 00:00:00</time>
+    <tavg>12.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>12.953211531396713</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-13 00:00:00</time>
+    <tavg>14.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>62.567301696653246</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-14 00:00:00</time>
+    <tavg>16.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>52.10861165819315</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-15 00:00:00</time>
+    <tavg>17.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>31.74285511630055</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-16 00:00:00</time>
+    <tavg>17.1</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>41.590830595044224</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-17 00:00:00</time>
+    <tavg>17.4</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>32.114785225123974</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-18 00:00:00</time>
+    <tavg>16.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>64.26594047832405</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-19 00:00:00</time>
+    <tavg>17.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>6.381980879285775</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-20 00:00:00</time>
+    <tavg>20.0</tavg>
+    <prcp>2.2</prcp>
+    <flood_risk>87.80640332407913</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-21 00:00:00</time>
+    <tavg>13.2</tavg>
+    <prcp>5.8</prcp>
+    <flood_risk>30.010981529741553</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-22 00:00:00</time>
+    <tavg>14.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>94.44640373366886</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-23 00:00:00</time>
+    <tavg>11.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>40.99683340558957</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-24 00:00:00</time>
+    <tavg>13.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>15.50516056761172</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-25 00:00:00</time>
+    <tavg>14.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>60.86921737018323</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-26 00:00:00</time>
+    <tavg>14.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>76.46849962901564</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-27 00:00:00</time>
+    <tavg>12.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>95.46966156311018</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-28 00:00:00</time>
+    <tavg>16.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>68.12459358316605</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-29 00:00:00</time>
+    <tavg>16.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>5.480530252018722</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-30 00:00:00</time>
+    <tavg>14.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>27.562311424077457</flood_risk>
+  </day>
+  <day>
+    <time>2025-05-31 00:00:00</time>
+    <tavg>11.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>58.05848218248717</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-01 00:00:00</time>
+    <tavg>11.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>87.1831957603756</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-02 00:00:00</time>
+    <tavg>12.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>79.04739643432468</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-03 00:00:00</time>
+    <tavg>13.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>23.268792896466472</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-04 00:00:00</time>
+    <tavg>9.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>35.002320495772295</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-05 00:00:00</time>
+    <tavg>12.4</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>59.14598811453294</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-06 00:00:00</time>
+    <tavg>18.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>2.18776059160406</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-07 00:00:00</time>
+    <tavg>18.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>70.09601581546914</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-08 00:00:00</time>
+    <tavg>13.3</tavg>
+    <prcp>12.4</prcp>
+    <flood_risk>72.38716506264917</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-09 00:00:00</time>
+    <tavg>9.7</tavg>
+    <prcp>58.9</prcp>
+    <flood_risk>24.032658961588417</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-10 00:00:00</time>
+    <tavg>10.3</tavg>
+    <prcp>65.1</prcp>
+    <flood_risk>2.0246366740967026</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-11 00:00:00</time>
+    <tavg>11.3</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>43.92286480629144</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-12 00:00:00</time>
+    <tavg>10.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>39.54283273154454</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-13 00:00:00</time>
+    <tavg>11.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>40.885851669288286</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-14 00:00:00</time>
+    <tavg>11.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>47.13026696375826</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-15 00:00:00</time>
+    <tavg>13.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>57.81264564361531</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-16 00:00:00</time>
+    <tavg>12.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>31.209869437914584</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-17 00:00:00</time>
+    <tavg>12.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>86.36112283085092</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-18 00:00:00</time>
+    <tavg>11.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>52.225603271771824</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-19 00:00:00</time>
+    <tavg>9.4</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>76.78969780872438</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-20 00:00:00</time>
+    <tavg>10.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>74.11854527273259</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-21 00:00:00</time>
+    <tavg>11.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>23.261475127284882</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-22 00:00:00</time>
+    <tavg>10.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>64.22229646219012</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-23 00:00:00</time>
+    <tavg>11.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>82.32628252103397</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-24 00:00:00</time>
+    <tavg>10.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>3.8188141959956456</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-25 00:00:00</time>
+    <tavg>15.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>17.511053045765536</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-26 00:00:00</time>
+    <tavg>14.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>31.92890534922741</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-27 00:00:00</time>
+    <tavg>9.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>83.22783536694553</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-28 00:00:00</time>
+    <tavg>8.3</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>15.852027337680552</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-29 00:00:00</time>
+    <tavg>10.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>12.856182852383158</flood_risk>
+  </day>
+  <day>
+    <time>2025-06-30 00:00:00</time>
+    <tavg>11.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>87.4069219254349</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-01 00:00:00</time>
+    <tavg>11.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>20.523791985592176</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-02 00:00:00</time>
+    <tavg>13.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>33.4651703482836</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-03 00:00:00</time>
+    <tavg>12.5</tavg>
+    <prcp>8.0</prcp>
+    <flood_risk>7.919780572604651</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-04 00:00:00</time>
+    <tavg>12.8</tavg>
+    <prcp>0.1</prcp>
+    <flood_risk>70.36900424162513</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-05 00:00:00</time>
+    <tavg>11.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>95.15289167132809</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-06 00:00:00</time>
+    <tavg>8.2</tavg>
+    <prcp>2.5</prcp>
+    <flood_risk>62.34366565325607</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-07 00:00:00</time>
+    <tavg>8.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>32.445801560741174</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-08 00:00:00</time>
+    <tavg>8.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>91.93106089557463</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-09 00:00:00</time>
+    <tavg>11.4</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>3.6355104486347045</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-10 00:00:00</time>
+    <tavg>13.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>95.09786896929859</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-11 00:00:00</time>
+    <tavg>14.1</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>16.572353848574483</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-12 00:00:00</time>
+    <tavg>10.3</tavg>
+    <prcp>3.5</prcp>
+    <flood_risk>23.863606823693083</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-13 00:00:00</time>
+    <tavg>16.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>16.940526201106508</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-14 00:00:00</time>
+    <tavg>13.6</tavg>
+    <prcp>0.6</prcp>
+    <flood_risk>1.140168979336531</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-15 00:00:00</time>
+    <tavg>13.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>89.92378988145006</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-16 00:00:00</time>
+    <tavg>14.8</tavg>
+    <prcp>1.5</prcp>
+    <flood_risk>95.94248770403667</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-17 00:00:00</time>
+    <tavg>14.6</tavg>
+    <prcp>4.8</prcp>
+    <flood_risk>45.945795724069185</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-18 00:00:00</time>
+    <tavg>11.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>8.777352570825192</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-19 00:00:00</time>
+    <tavg>11.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>77.07812107130519</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-20 00:00:00</time>
+    <tavg>15.1</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>33.63791240597973</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-21 00:00:00</time>
+    <tavg>16.8</tavg>
+    <prcp>3.7</prcp>
+    <flood_risk>63.95584986984302</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-22 00:00:00</time>
+    <tavg>11.2</tavg>
+    <prcp>4.2</prcp>
+    <flood_risk>43.982255589485945</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-23 00:00:00</time>
+    <tavg>12.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>25.323010920309507</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-24 00:00:00</time>
+    <tavg>14.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>84.5094324436788</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-25 00:00:00</time>
+    <tavg>14.3</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>26.85056615820962</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-26 00:00:00</time>
+    <tavg>10.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>58.3578200496596</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-27 00:00:00</time>
+    <tavg>9.3</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>76.12020558711939</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-28 00:00:00</time>
+    <tavg>10.1</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>95.72736555252504</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-29 00:00:00</time>
+    <tavg>13.1</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>47.94297128849026</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-30 00:00:00</time>
+    <tavg>15.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>45.58736815991379</flood_risk>
+  </day>
+  <day>
+    <time>2025-07-31 00:00:00</time>
+    <tavg>17.0</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>75.87422982062145</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-01 00:00:00</time>
+    <tavg>10.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>37.98487700121472</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-02 00:00:00</time>
+    <tavg>8.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>52.559907597743894</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-03 00:00:00</time>
+    <tavg>13.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>57.87253426460784</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-04 00:00:00</time>
+    <tavg>15.3</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>2.114213610638105</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-05 00:00:00</time>
+    <tavg>16.3</tavg>
+    <prcp>0.3</prcp>
+    <flood_risk>97.61274952542138</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-06 00:00:00</time>
+    <tavg>10.1</tavg>
+    <prcp>10.6</prcp>
+    <flood_risk>4.244521883382557</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-07 00:00:00</time>
+    <tavg>11.5</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>54.70878506734016</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-08 00:00:00</time>
+    <tavg>12.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>28.236212893362232</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-09 00:00:00</time>
+    <tavg>15.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>57.36994777169882</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-10 00:00:00</time>
+    <tavg>14.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>48.31478691638685</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-11 00:00:00</time>
+    <tavg>10.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>32.597266744003925</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-12 00:00:00</time>
+    <tavg>13.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>95.79915860479818</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-13 00:00:00</time>
+    <tavg>17.2</tavg>
+    <prcp>1.1</prcp>
+    <flood_risk>85.47605599942327</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-14 00:00:00</time>
+    <tavg>14.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>38.35069531653057</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-15 00:00:00</time>
+    <tavg>17.3</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>4.633626648036171</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-16 00:00:00</time>
+    <tavg>16.0</tavg>
+    <prcp>2.2</prcp>
+    <flood_risk>29.829512461602558</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-17 00:00:00</time>
+    <tavg>16.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>17.03178375103991</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-18 00:00:00</time>
+    <tavg>19.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>12.478446542898403</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-19 00:00:00</time>
+    <tavg>14.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>17.342041325978418</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-20 00:00:00</time>
+    <tavg>14.3</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>44.020086849266434</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-21 00:00:00</time>
+    <tavg>13.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>52.70162297012833</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-22 00:00:00</time>
+    <tavg>13.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>75.8549287741148</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-23 00:00:00</time>
+    <tavg>14.1</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>65.03811725229926</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-24 00:00:00</time>
+    <tavg>12.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>67.64411443491188</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-25 00:00:00</time>
+    <tavg>15.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>91.17800342075874</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-26 00:00:00</time>
+    <tavg>12.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>9.827646353114904</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-27 00:00:00</time>
+    <tavg>13.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>18.735185819779133</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-28 00:00:00</time>
+    <tavg>16.1</tavg>
+    <prcp>0.9</prcp>
+    <flood_risk>28.01098216961836</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-29 00:00:00</time>
+    <tavg>18.3</tavg>
+    <prcp>2.1</prcp>
+    <flood_risk>64.75403624084393</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-30 00:00:00</time>
+    <tavg>16.5</tavg>
+    <prcp>0.5</prcp>
+    <flood_risk>6.812719088800656</flood_risk>
+  </day>
+  <day>
+    <time>2025-08-31 00:00:00</time>
+    <tavg>19.0</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>90.92079297593808</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-01 00:00:00</time>
+    <tavg>13.9</tavg>
+    <prcp>4.8</prcp>
+    <flood_risk>79.48442774202917</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-02 00:00:00</time>
+    <tavg>17.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>17.171703476654088</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-03 00:00:00</time>
+    <tavg>16.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>9.175730086655653</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-04 00:00:00</time>
+    <tavg>16.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>78.6629245708635</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-05 00:00:00</time>
+    <tavg>16.1</tavg>
+    <prcp>0.9</prcp>
+    <flood_risk>28.42801651681025</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-06 00:00:00</time>
+    <tavg>13.6</tavg>
+    <prcp>6.4</prcp>
+    <flood_risk>84.55806796717756</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-07 00:00:00</time>
+    <tavg>16.3</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>24.289931083284856</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-08 00:00:00</time>
+    <tavg>16.2</tavg>
+    <prcp>0.5</prcp>
+    <flood_risk>50.85480726913539</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-09 00:00:00</time>
+    <tavg>20.5</tavg>
+    <prcp>7.6</prcp>
+    <flood_risk>57.11498899658706</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-10 00:00:00</time>
+    <tavg>21.3</tavg>
+    <prcp>0.3</prcp>
+    <flood_risk>7.5811442811475</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-11 00:00:00</time>
+    <tavg>20.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>61.3377732564418</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-12 00:00:00</time>
+    <tavg>15.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>9.64904381012155</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-13 00:00:00</time>
+    <tavg>15.8</tavg>
+    <prcp>5.3</prcp>
+    <flood_risk>13.82013288763596</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-14 00:00:00</time>
+    <tavg>15.1</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>38.01574521968912</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-15 00:00:00</time>
+    <tavg>18.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>95.30061409446388</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-16 00:00:00</time>
+    <tavg>18.1</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>46.574272480372024</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-17 00:00:00</time>
+    <tavg>13.1</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>49.45294028403787</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-18 00:00:00</time>
+    <tavg>13.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>82.06589782726586</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-19 00:00:00</time>
+    <tavg>14.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>25.351653012725773</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-20 00:00:00</time>
+    <tavg>17.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>85.27192792856255</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-21 00:00:00</time>
+    <tavg>19.4</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>36.26611669584365</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-22 00:00:00</time>
+    <tavg>19.5</tavg>
+    <prcp>1.3</prcp>
+    <flood_risk>44.28540190911997</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-23 00:00:00</time>
+    <tavg>13.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>77.94914529395587</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-24 00:00:00</time>
+    <tavg>11.7</tavg>
+    <prcp>7.2</prcp>
+    <flood_risk>35.45648305061305</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-25 00:00:00</time>
+    <tavg>12.4</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>90.31299893892316</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-26 00:00:00</time>
+    <tavg>14.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>7.121318478102035</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-27 00:00:00</time>
+    <tavg>17.5</tavg>
+    <prcp>0.3</prcp>
+    <flood_risk>87.50871927706305</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-28 00:00:00</time>
+    <tavg>14.8</tavg>
+    <prcp>7.3</prcp>
+    <flood_risk>39.64149611768815</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-29 00:00:00</time>
+    <tavg>11.6</tavg>
+    <prcp>8.6</prcp>
+    <flood_risk>69.17606773144252</flood_risk>
+  </day>
+  <day>
+    <time>2025-09-30 00:00:00</time>
+    <tavg>14.5</tavg>
+    <prcp>1.2</prcp>
+    <flood_risk>40.44706347686654</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-01 00:00:00</time>
+    <tavg>21.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>18.703149966534383</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-02 00:00:00</time>
+    <tavg>13.0</tavg>
+    <prcp>1.2</prcp>
+    <flood_risk>50.22186404922536</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-03 00:00:00</time>
+    <tavg>10.7</tavg>
+    <prcp>1.4</prcp>
+    <flood_risk>55.409430930620196</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-04 00:00:00</time>
+    <tavg>17.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>70.51524001447304</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-05 00:00:00</time>
+    <tavg>18.2</tavg>
+    <prcp>0.6</prcp>
+    <flood_risk>82.31350870828624</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-06 00:00:00</time>
+    <tavg>17.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>67.07866416065775</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-07 00:00:00</time>
+    <tavg>16.3</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>40.780753360411126</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-08 00:00:00</time>
+    <tavg>16.3</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>97.87577853778238</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-09 00:00:00</time>
+    <tavg>17.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>35.37445756708553</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-10 00:00:00</time>
+    <tavg>23.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>64.85091617710242</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-11 00:00:00</time>
+    <tavg>19.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>21.1420900777479</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-12 00:00:00</time>
+    <tavg>16.2</tavg>
+    <prcp>6.8</prcp>
+    <flood_risk>57.60411696660487</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-13 00:00:00</time>
+    <tavg>19.1</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>86.46345157044045</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-14 00:00:00</time>
+    <tavg>21.4</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>44.86060181384032</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-15 00:00:00</time>
+    <tavg>16.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>21.960170429402716</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-16 00:00:00</time>
+    <tavg>15.0</tavg>
+    <prcp>0.1</prcp>
+    <flood_risk>42.33329550394171</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-17 00:00:00</time>
+    <tavg>16.1</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>86.3513165261951</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-18 00:00:00</time>
+    <tavg>19.4</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>48.601776865270566</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-19 00:00:00</time>
+    <tavg>14.3</tavg>
+    <prcp>6.5</prcp>
+    <flood_risk>91.29461905530925</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-20 00:00:00</time>
+    <tavg>13.9</tavg>
+    <prcp>2.7</prcp>
+    <flood_risk>29.332829769924373</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-21 00:00:00</time>
+    <tavg>16.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>8.686438418883192</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-22 00:00:00</time>
+    <tavg>22.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>55.24566421206853</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-23 00:00:00</time>
+    <tavg>27.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>52.91375261127376</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-24 00:00:00</time>
+    <tavg>19.4</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>67.65452861664959</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-25 00:00:00</time>
+    <tavg>18.5</tavg>
+    <prcp>3.0</prcp>
+    <flood_risk>26.798669499027216</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-26 00:00:00</time>
+    <tavg>13.7</tavg>
+    <prcp>10.3</prcp>
+    <flood_risk>18.025734594148513</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-27 00:00:00</time>
+    <tavg>14.4</tavg>
+    <prcp>0.9</prcp>
+    <flood_risk>80.69523295175723</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-28 00:00:00</time>
+    <tavg>17.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>12.993227137754248</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-29 00:00:00</time>
+    <tavg>18.3</tavg>
+    <prcp>5.5</prcp>
+    <flood_risk>78.51411953149557</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-30 00:00:00</time>
+    <tavg>16.3</tavg>
+    <prcp>4.3</prcp>
+    <flood_risk>98.90048874212192</flood_risk>
+  </day>
+  <day>
+    <time>2025-10-31 00:00:00</time>
+    <tavg>22.1</tavg>
+    <prcp>0.9</prcp>
+    <flood_risk>0.6263142269072763</flood_risk>
+  </day>
+</weather>

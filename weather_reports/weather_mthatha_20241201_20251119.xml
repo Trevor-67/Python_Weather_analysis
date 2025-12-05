@@ -1,0 +1,2460 @@
+<?xml version='1.0' encoding='utf-8'?>
+<weather>
+  <day>
+    <time>2024-12-01 00:00:00</time>
+    <tavg>18.6</tavg>
+    <prcp>0.5</prcp>
+    <flood_risk>68.33583494813185</flood_risk>
+    <erosion_index>13.10121260035958</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-02 00:00:00</time>
+    <tavg>17.1</tavg>
+    <prcp>3.5</prcp>
+    <flood_risk>78.19891000863961</flood_risk>
+    <erosion_index>17.44964014959873</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-03 00:00:00</time>
+    <tavg>20.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>47.42792497555779</flood_risk>
+    <erosion_index>5.437995814758806</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-04 00:00:00</time>
+    <tavg>19.0</tavg>
+    <prcp>0.4</prcp>
+    <flood_risk>52.330657466940366</flood_risk>
+    <erosion_index>3.880841959084147</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-05 00:00:00</time>
+    <tavg>20.9</tavg>
+    <prcp>3.2</prcp>
+    <flood_risk>47.308328190082975</flood_risk>
+    <erosion_index>40.31057288104909</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-06 00:00:00</time>
+    <tavg>20.6</tavg>
+    <prcp>2.9</prcp>
+    <flood_risk>83.29408915039193</flood_risk>
+    <erosion_index>39.133651070928</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-07 00:00:00</time>
+    <tavg>19.1</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>14.071584994264763</flood_risk>
+    <erosion_index>47.156353902836344</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-08 00:00:00</time>
+    <tavg>22.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>35.31378939227688</flood_risk>
+    <erosion_index>1.2699915472983714</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-09 00:00:00</time>
+    <tavg>24.1</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>15.577206276754652</flood_risk>
+    <erosion_index>44.902683835990004</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-10 00:00:00</time>
+    <tavg/>
+    <prcp/>
+    <flood_risk>63.501016383606526</flood_risk>
+    <erosion_index>49.067503842220084</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-11 00:00:00</time>
+    <tavg/>
+    <prcp/>
+    <flood_risk>66.28058937467402</flood_risk>
+    <erosion_index>32.74988870810952</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-12 00:00:00</time>
+    <tavg>20.6</tavg>
+    <prcp/>
+    <flood_risk>63.499080873422706</flood_risk>
+    <erosion_index>45.03774269585539</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-13 00:00:00</time>
+    <tavg>16.8</tavg>
+    <prcp/>
+    <flood_risk>45.85162478104212</flood_risk>
+    <erosion_index>17.58048093675486</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-14 00:00:00</time>
+    <tavg>18.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>37.57352126649505</flood_risk>
+    <erosion_index>1.52428755621416</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-15 00:00:00</time>
+    <tavg>24.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>20.220152587914086</flood_risk>
+    <erosion_index>41.338070718703094</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-16 00:00:00</time>
+    <tavg>18.2</tavg>
+    <prcp>2.0</prcp>
+    <flood_risk>40.57257515080309</flood_risk>
+    <erosion_index>46.02927273719731</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-17 00:00:00</time>
+    <tavg>18.5</tavg>
+    <prcp>4.1</prcp>
+    <flood_risk>43.524709449248455</flood_risk>
+    <erosion_index>9.140249268048601</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-18 00:00:00</time>
+    <tavg>19.1</tavg>
+    <prcp>4.0</prcp>
+    <flood_risk>10.096516312159043</flood_risk>
+    <erosion_index>32.666895351875425</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-19 00:00:00</time>
+    <tavg>17.8</tavg>
+    <prcp>3.4</prcp>
+    <flood_risk>93.27009549795372</flood_risk>
+    <erosion_index>47.524477199586045</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-20 00:00:00</time>
+    <tavg>22.4</tavg>
+    <prcp>2.0</prcp>
+    <flood_risk>70.64619609571511</flood_risk>
+    <erosion_index>28.450144022836433</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-21 00:00:00</time>
+    <tavg>21.7</tavg>
+    <prcp>1.3</prcp>
+    <flood_risk>19.91100197201704</flood_risk>
+    <erosion_index>7.739087585589327</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-22 00:00:00</time>
+    <tavg>22.5</tavg>
+    <prcp>0.4</prcp>
+    <flood_risk>52.10105204653115</flood_risk>
+    <erosion_index>42.64265926867409</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-23 00:00:00</time>
+    <tavg>18.4</tavg>
+    <prcp>10.8</prcp>
+    <flood_risk>60.496536307560476</flood_risk>
+    <erosion_index>13.291206274837286</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-24 00:00:00</time>
+    <tavg>16.8</tavg>
+    <prcp>1.7</prcp>
+    <flood_risk>82.41189830195856</flood_risk>
+    <erosion_index>37.650998710038046</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-25 00:00:00</time>
+    <tavg>21.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>89.92783232265384</flood_risk>
+    <erosion_index>27.644456387015776</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-26 00:00:00</time>
+    <tavg>24.7</tavg>
+    <prcp>1.2</prcp>
+    <flood_risk>45.82153358306401</flood_risk>
+    <erosion_index>20.96747717951452</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-27 00:00:00</time>
+    <tavg>24.9</tavg>
+    <prcp>11.1</prcp>
+    <flood_risk>80.85916025921699</flood_risk>
+    <erosion_index>16.889453800446525</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-28 00:00:00</time>
+    <tavg>20.4</tavg>
+    <prcp>0.7</prcp>
+    <flood_risk>10.789553127467922</flood_risk>
+    <erosion_index>30.356415572277445</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-29 00:00:00</time>
+    <tavg>22.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>2.2553532468742254</flood_risk>
+    <erosion_index>38.23521557686141</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-30 00:00:00</time>
+    <tavg>27.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>20.06487952191993</flood_risk>
+    <erosion_index>25.293407433676812</erosion_index>
+  </day>
+  <day>
+    <time>2024-12-31 00:00:00</time>
+    <tavg>23.1</tavg>
+    <prcp>4.9</prcp>
+    <flood_risk>97.25725666365787</flood_risk>
+    <erosion_index>13.516108310880364</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-01 00:00:00</time>
+    <tavg>19.2</tavg>
+    <prcp>0.9</prcp>
+    <flood_risk>8.872665395365853</flood_risk>
+    <erosion_index>10.053998541909165</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-02 00:00:00</time>
+    <tavg>21.9</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>52.16424188635885</flood_risk>
+    <erosion_index>24.333049167428804</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-03 00:00:00</time>
+    <tavg>27.9</tavg>
+    <prcp>0.6</prcp>
+    <flood_risk>52.326249529805146</flood_risk>
+    <erosion_index>26.22705159693694</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-04 00:00:00</time>
+    <tavg>27.7</tavg>
+    <prcp>9.3</prcp>
+    <flood_risk>61.62129805460782</flood_risk>
+    <erosion_index>20.752841505771386</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-05 00:00:00</time>
+    <tavg>21.8</tavg>
+    <prcp>9.3</prcp>
+    <flood_risk>74.90801272534212</flood_risk>
+    <erosion_index>25.382735060281576</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-06 00:00:00</time>
+    <tavg>18.6</tavg>
+    <prcp>7.5</prcp>
+    <flood_risk>56.29318837231768</flood_risk>
+    <erosion_index>8.110745098742523</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-07 00:00:00</time>
+    <tavg>21.4</tavg>
+    <prcp>4.8</prcp>
+    <flood_risk>64.49563322417039</flood_risk>
+    <erosion_index>13.466737641594683</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-08 00:00:00</time>
+    <tavg>20.0</tavg>
+    <prcp>4.3</prcp>
+    <flood_risk>14.597710759326365</flood_risk>
+    <erosion_index>34.10554588906493</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-09 00:00:00</time>
+    <tavg>23.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>1.3224091488258205</flood_risk>
+    <erosion_index>25.11271367384722</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-10 00:00:00</time>
+    <tavg>21.9</tavg>
+    <prcp>0.8</prcp>
+    <flood_risk>12.77253039288877</flood_risk>
+    <erosion_index>13.991893622413858</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-11 00:00:00</time>
+    <tavg>23.5</tavg>
+    <prcp>11.0</prcp>
+    <flood_risk>45.86329081444834</flood_risk>
+    <erosion_index>1.8031039358977707</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-12 00:00:00</time>
+    <tavg>20.1</tavg>
+    <prcp>9.4</prcp>
+    <flood_risk>87.09424954860361</flood_risk>
+    <erosion_index>22.29747532110134</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-13 00:00:00</time>
+    <tavg>17.5</tavg>
+    <prcp>7.3</prcp>
+    <flood_risk>72.52435076355609</flood_risk>
+    <erosion_index>2.7959866785307597</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-14 00:00:00</time>
+    <tavg>23.0</tavg>
+    <prcp>0.1</prcp>
+    <flood_risk>43.932345105511374</flood_risk>
+    <erosion_index>32.94997034486581</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-15 00:00:00</time>
+    <tavg>15.8</tavg>
+    <prcp>4.3</prcp>
+    <flood_risk>87.10733105466565</flood_risk>
+    <erosion_index>35.59815304559205</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-16 00:00:00</time>
+    <tavg>15.3</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>39.77682005006674</flood_risk>
+    <erosion_index>39.378472015143</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-17 00:00:00</time>
+    <tavg>19.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>54.33257092931648</flood_risk>
+    <erosion_index>20.764093084297343</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-18 00:00:00</time>
+    <tavg>25.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>54.56764109690676</flood_risk>
+    <erosion_index>3.7414982867250925</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-19 00:00:00</time>
+    <tavg>25.3</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>27.157975510328626</flood_risk>
+    <erosion_index>47.44446579566042</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-20 00:00:00</time>
+    <tavg>19.4</tavg>
+    <prcp>7.6</prcp>
+    <flood_risk>84.38120480579335</flood_risk>
+    <erosion_index>9.8484425667476</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-21 00:00:00</time>
+    <tavg>17.9</tavg>
+    <prcp>6.9</prcp>
+    <flood_risk>45.9458134873673</flood_risk>
+    <erosion_index>15.76005511346571</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-22 00:00:00</time>
+    <tavg>20.8</tavg>
+    <prcp>0.1</prcp>
+    <flood_risk>32.0417707802227</flood_risk>
+    <erosion_index>48.48784294784941</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-23 00:00:00</time>
+    <tavg>23.4</tavg>
+    <prcp>0.9</prcp>
+    <flood_risk>7.114223295235256</flood_risk>
+    <erosion_index>2.9171828889386298</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-24 00:00:00</time>
+    <tavg>22.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>51.684114799360934</flood_risk>
+    <erosion_index>15.040787285678558</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-25 00:00:00</time>
+    <tavg>22.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>67.57595225126124</flood_risk>
+    <erosion_index>3.0008470446582503</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-26 00:00:00</time>
+    <tavg>25.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>65.95644712863378</flood_risk>
+    <erosion_index>5.714196407960598</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-27 00:00:00</time>
+    <tavg>22.7</tavg>
+    <prcp>4.7</prcp>
+    <flood_risk>17.537572581197136</flood_risk>
+    <erosion_index>40.98200782669071</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-28 00:00:00</time>
+    <tavg>21.8</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>93.01971293756351</flood_risk>
+    <erosion_index>12.030880073449868</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-29 00:00:00</time>
+    <tavg>23.7</tavg>
+    <prcp>6.8</prcp>
+    <flood_risk>94.66128290460668</flood_risk>
+    <erosion_index>6.3566275271761565</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-30 00:00:00</time>
+    <tavg>24.8</tavg>
+    <prcp>0.3</prcp>
+    <flood_risk>93.4025578206706</flood_risk>
+    <erosion_index>8.262442441755436</erosion_index>
+  </day>
+  <day>
+    <time>2025-01-31 00:00:00</time>
+    <tavg>21.8</tavg>
+    <prcp>2.6</prcp>
+    <flood_risk>45.354158368185594</flood_risk>
+    <erosion_index>22.91109209473418</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-01 00:00:00</time>
+    <tavg>19.4</tavg>
+    <prcp>2.1</prcp>
+    <flood_risk>66.79653575657628</flood_risk>
+    <erosion_index>30.744865281296406</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-02 00:00:00</time>
+    <tavg>21.7</tavg>
+    <prcp>2.7</prcp>
+    <flood_risk>7.865063416120577</flood_risk>
+    <erosion_index>27.22425572473113</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-03 00:00:00</time>
+    <tavg>19.9</tavg>
+    <prcp>1.9</prcp>
+    <flood_risk>15.158251474124796</flood_risk>
+    <erosion_index>5.433663724519455</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-04 00:00:00</time>
+    <tavg>25.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>43.882570581974555</flood_risk>
+    <erosion_index>15.487587621050986</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-05 00:00:00</time>
+    <tavg>21.7</tavg>
+    <prcp>22.3</prcp>
+    <flood_risk>87.79906062719786</flood_risk>
+    <erosion_index>21.369696950744782</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-06 00:00:00</time>
+    <tavg>18.3</tavg>
+    <prcp>5.4</prcp>
+    <flood_risk>5.934205976716966</flood_risk>
+    <erosion_index>27.59448760746207</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-07 00:00:00</time>
+    <tavg>20.7</tavg>
+    <prcp>3.0</prcp>
+    <flood_risk>21.266570528946637</flood_risk>
+    <erosion_index>32.872575976982155</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-08 00:00:00</time>
+    <tavg>23.8</tavg>
+    <prcp>5.0</prcp>
+    <flood_risk>0.8486737552982682</flood_risk>
+    <erosion_index>37.412407281407845</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-09 00:00:00</time>
+    <tavg>19.0</tavg>
+    <prcp>3.4</prcp>
+    <flood_risk>53.0049568265056</flood_risk>
+    <erosion_index>32.56562111365375</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-10 00:00:00</time>
+    <tavg>16.9</tavg>
+    <prcp>4.6</prcp>
+    <flood_risk>24.942388827762606</flood_risk>
+    <erosion_index>49.13078290767691</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-11 00:00:00</time>
+    <tavg>17.5</tavg>
+    <prcp>2.4</prcp>
+    <flood_risk>28.962311158421596</flood_risk>
+    <erosion_index>20.544986240974282</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-12 00:00:00</time>
+    <tavg>22.5</tavg>
+    <prcp>0.4</prcp>
+    <flood_risk>88.8712264445125</flood_risk>
+    <erosion_index>28.228881651553216</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-13 00:00:00</time>
+    <tavg>20.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>82.75882866987557</flood_risk>
+    <erosion_index>37.872017591971506</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-14 00:00:00</time>
+    <tavg>21.1</tavg>
+    <prcp>1.7</prcp>
+    <flood_risk>58.10076212304447</flood_risk>
+    <erosion_index>36.37857754798851</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-15 00:00:00</time>
+    <tavg>17.8</tavg>
+    <prcp>0.9</prcp>
+    <flood_risk>14.612719116189442</flood_risk>
+    <erosion_index>31.342463557811897</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-16 00:00:00</time>
+    <tavg>21.4</tavg>
+    <prcp>6.1</prcp>
+    <flood_risk>58.8283504610708</flood_risk>
+    <erosion_index>46.31127821696183</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-17 00:00:00</time>
+    <tavg>22.2</tavg>
+    <prcp>0.6</prcp>
+    <flood_risk>7.737121051491059</flood_risk>
+    <erosion_index>21.35403147437372</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-18 00:00:00</time>
+    <tavg>21.6</tavg>
+    <prcp>26.3</prcp>
+    <flood_risk>1.5548632842741106</flood_risk>
+    <erosion_index>10.359893613530897</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-19 00:00:00</time>
+    <tavg>16.7</tavg>
+    <prcp>15.5</prcp>
+    <flood_risk>49.929128396142886</flood_risk>
+    <erosion_index>32.87833153008477</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-20 00:00:00</time>
+    <tavg>20.8</tavg>
+    <prcp>0.6</prcp>
+    <flood_risk>83.74639199512328</flood_risk>
+    <erosion_index>16.159801730521288</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-21 00:00:00</time>
+    <tavg>22.9</tavg>
+    <prcp>4.8</prcp>
+    <flood_risk>11.570766843005476</flood_risk>
+    <erosion_index>28.204780147069513</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-22 00:00:00</time>
+    <tavg>21.5</tavg>
+    <prcp>3.6</prcp>
+    <flood_risk>25.864717299880446</flood_risk>
+    <erosion_index>44.17581699996704</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-23 00:00:00</time>
+    <tavg>21.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>38.6431440906893</flood_risk>
+    <erosion_index>28.18402222579664</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-24 00:00:00</time>
+    <tavg>22.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>62.004401411393594</flood_risk>
+    <erosion_index>24.16437984236492</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-25 00:00:00</time>
+    <tavg>21.3</tavg>
+    <prcp>26.5</prcp>
+    <flood_risk>31.970925404322116</flood_risk>
+    <erosion_index>37.85709348564477</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-26 00:00:00</time>
+    <tavg>18.8</tavg>
+    <prcp>5.0</prcp>
+    <flood_risk>46.73438406683593</flood_risk>
+    <erosion_index>10.427304807561221</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-27 00:00:00</time>
+    <tavg>19.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>23.20840340842585</flood_risk>
+    <erosion_index>12.399843001624228</erosion_index>
+  </day>
+  <day>
+    <time>2025-02-28 00:00:00</time>
+    <tavg>19.4</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>2.4629201505415477</flood_risk>
+    <erosion_index>9.822496316989614</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-01 00:00:00</time>
+    <tavg>20.9</tavg>
+    <prcp>0.3</prcp>
+    <flood_risk>10.06879732943078</flood_risk>
+    <erosion_index>31.839706284285167</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-02 00:00:00</time>
+    <tavg>21.1</tavg>
+    <prcp>6.0</prcp>
+    <flood_risk>19.982662202809408</flood_risk>
+    <erosion_index>40.25443442532167</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-03 00:00:00</time>
+    <tavg>22.4</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>43.39472378375071</flood_risk>
+    <erosion_index>3.47256569238924</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-04 00:00:00</time>
+    <tavg>22.1</tavg>
+    <prcp>1.4</prcp>
+    <flood_risk>75.92746843272542</flood_risk>
+    <erosion_index>37.41577669095816</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-05 00:00:00</time>
+    <tavg>23.6</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>75.91743791972691</flood_risk>
+    <erosion_index>29.699557731317306</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-06 00:00:00</time>
+    <tavg>26.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>34.96917162537112</flood_risk>
+    <erosion_index>38.37021451582997</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-07 00:00:00</time>
+    <tavg>20.9</tavg>
+    <prcp>1.8</prcp>
+    <flood_risk>35.70685523196245</flood_risk>
+    <erosion_index>46.00460373713328</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-08 00:00:00</time>
+    <tavg>24.0</tavg>
+    <prcp>0.7</prcp>
+    <flood_risk>43.179037738185</flood_risk>
+    <erosion_index>1.2968474398041607</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-09 00:00:00</time>
+    <tavg>24.4</tavg>
+    <prcp>8.4</prcp>
+    <flood_risk>7.490506041807333</flood_risk>
+    <erosion_index>34.51505367557798</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-10 00:00:00</time>
+    <tavg>18.3</tavg>
+    <prcp>4.6</prcp>
+    <flood_risk>85.52430420278937</flood_risk>
+    <erosion_index>1.4029681348793233</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-11 00:00:00</time>
+    <tavg>20.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>26.091648214044728</flood_risk>
+    <erosion_index>42.59524962770454</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-12 00:00:00</time>
+    <tavg>20.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>22.33622312027388</flood_risk>
+    <erosion_index>16.0255803037528</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-13 00:00:00</time>
+    <tavg>20.0</tavg>
+    <prcp>12.1</prcp>
+    <flood_risk>29.502762264952743</flood_risk>
+    <erosion_index>38.11247047924018</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-14 00:00:00</time>
+    <tavg>16.7</tavg>
+    <prcp/>
+    <flood_risk>48.0947384543155</flood_risk>
+    <erosion_index>17.939179717791053</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-15 00:00:00</time>
+    <tavg/>
+    <prcp/>
+    <flood_risk>88.1102108336887</flood_risk>
+    <erosion_index>48.438585202362084</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-16 00:00:00</time>
+    <tavg/>
+    <prcp/>
+    <flood_risk>93.54061242882361</flood_risk>
+    <erosion_index>39.120859203759174</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-17 00:00:00</time>
+    <tavg/>
+    <prcp/>
+    <flood_risk>93.50869824972378</flood_risk>
+    <erosion_index>36.45934348308246</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-18 00:00:00</time>
+    <tavg/>
+    <prcp/>
+    <flood_risk>25.180710441783873</flood_risk>
+    <erosion_index>3.4786006012158532</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-19 00:00:00</time>
+    <tavg/>
+    <prcp/>
+    <flood_risk>36.60914662310084</flood_risk>
+    <erosion_index>48.134472809905866</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-20 00:00:00</time>
+    <tavg/>
+    <prcp/>
+    <flood_risk>79.55127019290826</flood_risk>
+    <erosion_index>43.224249626337006</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-21 00:00:00</time>
+    <tavg/>
+    <prcp/>
+    <flood_risk>57.12640695296213</flood_risk>
+    <erosion_index>8.66428006684301</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-22 00:00:00</time>
+    <tavg>24.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>39.56888209526003</flood_risk>
+    <erosion_index>48.66552395300406</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-23 00:00:00</time>
+    <tavg>22.2</tavg>
+    <prcp>10.3</prcp>
+    <flood_risk>57.59544395659233</flood_risk>
+    <erosion_index>17.957503881348767</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-24 00:00:00</time>
+    <tavg>22.3</tavg>
+    <prcp>4.0</prcp>
+    <flood_risk>76.49585117892403</flood_risk>
+    <erosion_index>34.374722147597325</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-25 00:00:00</time>
+    <tavg>22.2</tavg>
+    <prcp>25.8</prcp>
+    <flood_risk>30.520932023875737</flood_risk>
+    <erosion_index>12.199125326510801</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-26 00:00:00</time>
+    <tavg>18.0</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>62.236127751306924</flood_risk>
+    <erosion_index>33.88578943733951</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-27 00:00:00</time>
+    <tavg>18.5</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>20.930898094336627</flood_risk>
+    <erosion_index>26.475372694760026</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-28 00:00:00</time>
+    <tavg>19.6</tavg>
+    <prcp>2.2</prcp>
+    <flood_risk>28.643365075078474</flood_risk>
+    <erosion_index>1.1359780238937744</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-29 00:00:00</time>
+    <tavg>20.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>19.31177288470314</flood_risk>
+    <erosion_index>12.766805839139428</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-30 00:00:00</time>
+    <tavg>19.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>64.57350179045662</flood_risk>
+    <erosion_index>15.49973607027672</erosion_index>
+  </day>
+  <day>
+    <time>2025-03-31 00:00:00</time>
+    <tavg>20.3</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>1.306483138795178</flood_risk>
+    <erosion_index>48.149964689947225</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-01 00:00:00</time>
+    <tavg>19.0</tavg>
+    <prcp>15.4</prcp>
+    <flood_risk>43.62190324529678</flood_risk>
+    <erosion_index>36.77401470851691</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-02 00:00:00</time>
+    <tavg>16.7</tavg>
+    <prcp>0.4</prcp>
+    <flood_risk>28.939192497916576</flood_risk>
+    <erosion_index>36.31554888893557</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-03 00:00:00</time>
+    <tavg>17.7</tavg>
+    <prcp>0.9</prcp>
+    <flood_risk>33.2332761395416</flood_risk>
+    <erosion_index>5.053247935226512</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-04 00:00:00</time>
+    <tavg>18.7</tavg>
+    <prcp>6.3</prcp>
+    <flood_risk>47.26065658872633</flood_risk>
+    <erosion_index>8.295445902890485</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-05 00:00:00</time>
+    <tavg>16.4</tavg>
+    <prcp>5.9</prcp>
+    <flood_risk>79.14797190876757</flood_risk>
+    <erosion_index>41.64230691201114</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-06 00:00:00</time>
+    <tavg>17.3</tavg>
+    <prcp>4.1</prcp>
+    <flood_risk>39.561897283493984</flood_risk>
+    <erosion_index>40.15111808929292</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-07 00:00:00</time>
+    <tavg>19.9</tavg>
+    <prcp>0.3</prcp>
+    <flood_risk>74.52104535946182</flood_risk>
+    <erosion_index>8.812409594603544</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-08 00:00:00</time>
+    <tavg>20.6</tavg>
+    <prcp>1.7</prcp>
+    <flood_risk>7.23600640985993</flood_risk>
+    <erosion_index>47.39088238622605</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-09 00:00:00</time>
+    <tavg>19.4</tavg>
+    <prcp>5.1</prcp>
+    <flood_risk>22.780507937913907</flood_risk>
+    <erosion_index>39.86108071748002</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-10 00:00:00</time>
+    <tavg>16.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>90.60828042261583</flood_risk>
+    <erosion_index>31.530811909552448</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-11 00:00:00</time>
+    <tavg>17.4</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>42.73089718362638</flood_risk>
+    <erosion_index>9.65379173237036</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-12 00:00:00</time>
+    <tavg>20.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>36.295975333770656</flood_risk>
+    <erosion_index>19.794637630689714</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-13 00:00:00</time>
+    <tavg>20.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>4.95602566032235</flood_risk>
+    <erosion_index>47.16421654464475</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-14 00:00:00</time>
+    <tavg>15.1</tavg>
+    <prcp>3.1</prcp>
+    <flood_risk>47.759093916641106</flood_risk>
+    <erosion_index>41.99137828765927</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-15 00:00:00</time>
+    <tavg>14.3</tavg>
+    <prcp>2.7</prcp>
+    <flood_risk>79.90045509668408</flood_risk>
+    <erosion_index>46.124505346267156</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-16 00:00:00</time>
+    <tavg>13.7</tavg>
+    <prcp>28.8</prcp>
+    <flood_risk>12.34810081533798</flood_risk>
+    <erosion_index>39.30587235900255</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-17 00:00:00</time>
+    <tavg>13.8</tavg>
+    <prcp>1.2</prcp>
+    <flood_risk>83.6678788365745</flood_risk>
+    <erosion_index>14.987884743814806</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-18 00:00:00</time>
+    <tavg>15.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>55.53643375004867</flood_risk>
+    <erosion_index>49.1612114551888</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-19 00:00:00</time>
+    <tavg>17.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>67.36046844959743</flood_risk>
+    <erosion_index>26.384287302970712</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-20 00:00:00</time>
+    <tavg>17.5</tavg>
+    <prcp>12.7</prcp>
+    <flood_risk>50.846646229256486</flood_risk>
+    <erosion_index>3.3595463758488653</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-21 00:00:00</time>
+    <tavg>16.1</tavg>
+    <prcp>4.8</prcp>
+    <flood_risk>8.925135607383039</flood_risk>
+    <erosion_index>23.541741730152783</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-22 00:00:00</time>
+    <tavg>14.5</tavg>
+    <prcp>14.6</prcp>
+    <flood_risk>6.869590403319692</flood_risk>
+    <erosion_index>22.389838338969646</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-23 00:00:00</time>
+    <tavg>14.6</tavg>
+    <prcp>2.2</prcp>
+    <flood_risk>81.12607100730862</flood_risk>
+    <erosion_index>47.76098715827675</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-24 00:00:00</time>
+    <tavg>16.3</tavg>
+    <prcp>1.9</prcp>
+    <flood_risk>75.47795919148915</flood_risk>
+    <erosion_index>30.399813830169403</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-25 00:00:00</time>
+    <tavg>17.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>47.09999615777786</flood_risk>
+    <erosion_index>6.217096109592091</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-26 00:00:00</time>
+    <tavg>16.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>66.21655867322495</flood_risk>
+    <erosion_index>3.5845960296983392</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-27 00:00:00</time>
+    <tavg>17.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>43.70238354954691</flood_risk>
+    <erosion_index>9.678094951206145</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-28 00:00:00</time>
+    <tavg>19.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>48.807620966968926</flood_risk>
+    <erosion_index>33.37403040671239</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-29 00:00:00</time>
+    <tavg>19.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>10.404756338189136</flood_risk>
+    <erosion_index>33.31048126124209</erosion_index>
+  </day>
+  <day>
+    <time>2025-04-30 00:00:00</time>
+    <tavg>17.8</tavg>
+    <prcp>10.3</prcp>
+    <flood_risk>28.96559654505494</flood_risk>
+    <erosion_index>23.674166248818935</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-01 00:00:00</time>
+    <tavg>15.0</tavg>
+    <prcp>4.7</prcp>
+    <flood_risk>79.22827431994173</flood_risk>
+    <erosion_index>2.7554568397016865</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-02 00:00:00</time>
+    <tavg>13.0</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>40.71892298367942</flood_risk>
+    <erosion_index>33.9017382967419</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-03 00:00:00</time>
+    <tavg>11.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>45.3915031964943</flood_risk>
+    <erosion_index>41.221433954874286</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-04 00:00:00</time>
+    <tavg>12.4</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>48.06928487446429</flood_risk>
+    <erosion_index>49.058358491817295</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-05 00:00:00</time>
+    <tavg>15.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>6.018200709921773</flood_risk>
+    <erosion_index>0.061349455744780235</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-06 00:00:00</time>
+    <tavg>17.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>93.47303949703996</flood_risk>
+    <erosion_index>27.97502795216461</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-07 00:00:00</time>
+    <tavg>18.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>16.29315624120372</flood_risk>
+    <erosion_index>12.70474801386029</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-08 00:00:00</time>
+    <tavg>19.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>92.72820307188442</flood_risk>
+    <erosion_index>43.76374241695217</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-09 00:00:00</time>
+    <tavg>20.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>98.66492392720883</flood_risk>
+    <erosion_index>16.53130971195809</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-10 00:00:00</time>
+    <tavg>19.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>5.872145943915141</flood_risk>
+    <erosion_index>13.137460957595431</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-11 00:00:00</time>
+    <tavg>13.3</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>23.070451535028326</flood_risk>
+    <erosion_index>39.95205144408829</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-12 00:00:00</time>
+    <tavg>12.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>45.935098450629106</flood_risk>
+    <erosion_index>7.620023218793875</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-13 00:00:00</time>
+    <tavg>14.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>80.98029820834606</flood_risk>
+    <erosion_index>25.298318689996318</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-14 00:00:00</time>
+    <tavg>16.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>22.41486215576607</flood_risk>
+    <erosion_index>20.10199472006315</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-15 00:00:00</time>
+    <tavg>17.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>45.634838145526594</flood_risk>
+    <erosion_index>36.676577545314935</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-16 00:00:00</time>
+    <tavg>17.1</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>6.648840393176814</flood_risk>
+    <erosion_index>34.15641099162655</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-17 00:00:00</time>
+    <tavg>17.4</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>45.82538340726523</flood_risk>
+    <erosion_index>27.35444730722738</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-18 00:00:00</time>
+    <tavg>16.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>38.2686516637815</flood_risk>
+    <erosion_index>15.4154652344771</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-19 00:00:00</time>
+    <tavg>17.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>8.172548858999019</flood_risk>
+    <erosion_index>15.990023550333971</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-20 00:00:00</time>
+    <tavg>20.0</tavg>
+    <prcp>2.2</prcp>
+    <flood_risk>92.48967558414243</flood_risk>
+    <erosion_index>32.142372566913494</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-21 00:00:00</time>
+    <tavg>13.2</tavg>
+    <prcp>5.8</prcp>
+    <flood_risk>70.48056209225568</flood_risk>
+    <erosion_index>47.42938766964437</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-22 00:00:00</time>
+    <tavg>14.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>78.26905390132922</flood_risk>
+    <erosion_index>16.508402184396804</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-23 00:00:00</time>
+    <tavg>11.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>97.9141181875343</flood_risk>
+    <erosion_index>32.288045745634</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-24 00:00:00</time>
+    <tavg>13.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>44.62092753326867</flood_risk>
+    <erosion_index>0.6246583274931883</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-25 00:00:00</time>
+    <tavg>14.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>0.3628381432449368</flood_risk>
+    <erosion_index>5.641637264721738</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-26 00:00:00</time>
+    <tavg>14.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>8.28948815974041</flood_risk>
+    <erosion_index>25.473051474417097</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-27 00:00:00</time>
+    <tavg>12.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>25.568965642320197</flood_risk>
+    <erosion_index>7.069120925036398</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-28 00:00:00</time>
+    <tavg>16.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>5.219342683712802</flood_risk>
+    <erosion_index>38.89536865610347</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-29 00:00:00</time>
+    <tavg>16.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>96.49684532674956</flood_risk>
+    <erosion_index>37.15054030793205</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-30 00:00:00</time>
+    <tavg>14.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>12.143935146837103</flood_risk>
+    <erosion_index>9.204311622297384</erosion_index>
+  </day>
+  <day>
+    <time>2025-05-31 00:00:00</time>
+    <tavg>11.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>27.603731528963927</flood_risk>
+    <erosion_index>4.879566019235954</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-01 00:00:00</time>
+    <tavg>11.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>11.635609390191426</flood_risk>
+    <erosion_index>32.02289099699988</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-02 00:00:00</time>
+    <tavg>12.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>48.12855553859525</flood_risk>
+    <erosion_index>29.633052896612888</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-03 00:00:00</time>
+    <tavg>13.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>29.714045256223866</flood_risk>
+    <erosion_index>2.0382934821598586</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-04 00:00:00</time>
+    <tavg>9.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>13.524091337988775</flood_risk>
+    <erosion_index>1.2116674096948055</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-05 00:00:00</time>
+    <tavg>12.4</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>73.6663520698507</flood_risk>
+    <erosion_index>8.464602562127249</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-06 00:00:00</time>
+    <tavg>18.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>85.38767099306217</flood_risk>
+    <erosion_index>30.349090822782642</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-07 00:00:00</time>
+    <tavg>18.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>2.1838508707037074</flood_risk>
+    <erosion_index>29.721901717549287</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-08 00:00:00</time>
+    <tavg>13.3</tavg>
+    <prcp>12.4</prcp>
+    <flood_risk>3.3651561015272113</flood_risk>
+    <erosion_index>29.958931956399372</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-09 00:00:00</time>
+    <tavg>9.7</tavg>
+    <prcp>58.9</prcp>
+    <flood_risk>77.41991764885216</flood_risk>
+    <erosion_index>25.985199826380562</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-10 00:00:00</time>
+    <tavg>10.3</tavg>
+    <prcp>65.1</prcp>
+    <flood_risk>91.27636636252315</flood_risk>
+    <erosion_index>10.907291874528324</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-11 00:00:00</time>
+    <tavg>11.3</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>43.69848338328982</flood_risk>
+    <erosion_index>41.54531273308592</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-12 00:00:00</time>
+    <tavg>10.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>15.657577954056745</flood_risk>
+    <erosion_index>36.478780350549414</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-13 00:00:00</time>
+    <tavg>11.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>46.600870804832425</flood_risk>
+    <erosion_index>45.59585467991158</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-14 00:00:00</time>
+    <tavg>11.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>47.83676512887012</flood_risk>
+    <erosion_index>20.005990605016017</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-15 00:00:00</time>
+    <tavg>13.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>85.35950998821255</flood_risk>
+    <erosion_index>26.55172816741248</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-16 00:00:00</time>
+    <tavg>12.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>2.9170531827886537</flood_risk>
+    <erosion_index>29.805440793197157</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-17 00:00:00</time>
+    <tavg>12.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>38.913040474942854</flood_risk>
+    <erosion_index>42.26437824559539</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-18 00:00:00</time>
+    <tavg>11.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>84.82892973507583</flood_risk>
+    <erosion_index>46.143232160581874</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-19 00:00:00</time>
+    <tavg>9.4</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>68.58212195327678</flood_risk>
+    <erosion_index>35.29009387233949</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-20 00:00:00</time>
+    <tavg>10.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>42.255833973472846</flood_risk>
+    <erosion_index>14.371678247547326</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-21 00:00:00</time>
+    <tavg>11.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>35.39924898605965</flood_risk>
+    <erosion_index>10.149718335297763</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-22 00:00:00</time>
+    <tavg>10.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>3.295603665401281</flood_risk>
+    <erosion_index>43.38895694103935</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-23 00:00:00</time>
+    <tavg>11.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>68.19869355562514</flood_risk>
+    <erosion_index>1.4439906573570027</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-24 00:00:00</time>
+    <tavg>10.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>13.797612651518554</flood_risk>
+    <erosion_index>18.819074483380277</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-25 00:00:00</time>
+    <tavg>15.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>61.127987336712344</flood_risk>
+    <erosion_index>24.03668661748307</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-26 00:00:00</time>
+    <tavg>14.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>14.015106220798579</flood_risk>
+    <erosion_index>43.207744845362484</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-27 00:00:00</time>
+    <tavg>9.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>61.03138696375876</flood_risk>
+    <erosion_index>15.239495466613262</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-28 00:00:00</time>
+    <tavg>8.3</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>91.4887816223712</flood_risk>
+    <erosion_index>10.41254917256394</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-29 00:00:00</time>
+    <tavg>10.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>11.665896507219543</flood_risk>
+    <erosion_index>0.4502547806937651</erosion_index>
+  </day>
+  <day>
+    <time>2025-06-30 00:00:00</time>
+    <tavg>11.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>62.519809437559914</flood_risk>
+    <erosion_index>22.850850803439844</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-01 00:00:00</time>
+    <tavg>11.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>94.53199818306317</flood_risk>
+    <erosion_index>36.153073469981635</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-02 00:00:00</time>
+    <tavg>13.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>92.89136751620784</flood_risk>
+    <erosion_index>32.87214171146082</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-03 00:00:00</time>
+    <tavg>12.5</tavg>
+    <prcp>8.0</prcp>
+    <flood_risk>24.519366226337958</flood_risk>
+    <erosion_index>14.113704154132018</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-04 00:00:00</time>
+    <tavg>12.8</tavg>
+    <prcp>0.1</prcp>
+    <flood_risk>14.963548386516</flood_risk>
+    <erosion_index>10.615590984766909</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-05 00:00:00</time>
+    <tavg>11.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>17.380774614128804</flood_risk>
+    <erosion_index>10.52553193520967</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-06 00:00:00</time>
+    <tavg>8.2</tavg>
+    <prcp>2.5</prcp>
+    <flood_risk>59.07407079618589</flood_risk>
+    <erosion_index>27.006736704407768</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-07 00:00:00</time>
+    <tavg>8.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>21.176600090824614</flood_risk>
+    <erosion_index>27.291719819683973</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-08 00:00:00</time>
+    <tavg>8.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>86.1161213789326</flood_risk>
+    <erosion_index>35.19146114723582</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-09 00:00:00</time>
+    <tavg>11.4</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>17.68451672970204</flood_risk>
+    <erosion_index>40.424040865775055</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-10 00:00:00</time>
+    <tavg>13.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>10.246030623311132</flood_risk>
+    <erosion_index>36.501437221704066</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-11 00:00:00</time>
+    <tavg>14.1</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>0.9118802941403548</flood_risk>
+    <erosion_index>11.874582804673045</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-12 00:00:00</time>
+    <tavg>10.3</tavg>
+    <prcp>3.5</prcp>
+    <flood_risk>0.9113615942796693</flood_risk>
+    <erosion_index>12.806036363400676</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-13 00:00:00</time>
+    <tavg>16.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>40.07889585887023</flood_risk>
+    <erosion_index>14.198763879941783</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-14 00:00:00</time>
+    <tavg>13.6</tavg>
+    <prcp>0.6</prcp>
+    <flood_risk>75.49114980422631</flood_risk>
+    <erosion_index>24.87889112547154</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-15 00:00:00</time>
+    <tavg>13.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>19.94367879708543</flood_risk>
+    <erosion_index>22.464298242324954</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-16 00:00:00</time>
+    <tavg>14.8</tavg>
+    <prcp>1.5</prcp>
+    <flood_risk>75.35964744191709</flood_risk>
+    <erosion_index>46.866149703177065</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-17 00:00:00</time>
+    <tavg>14.6</tavg>
+    <prcp>4.8</prcp>
+    <flood_risk>63.36825422837765</flood_risk>
+    <erosion_index>9.38810421766284</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-18 00:00:00</time>
+    <tavg>11.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>89.6786450275106</flood_risk>
+    <erosion_index>15.29403437965226</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-19 00:00:00</time>
+    <tavg>11.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>8.765397974288403</flood_risk>
+    <erosion_index>46.090851803188194</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-20 00:00:00</time>
+    <tavg>15.1</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>65.63048967164193</flood_risk>
+    <erosion_index>37.74166791256429</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-21 00:00:00</time>
+    <tavg>16.8</tavg>
+    <prcp>3.7</prcp>
+    <flood_risk>74.28917610826326</flood_risk>
+    <erosion_index>35.26581397669856</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-22 00:00:00</time>
+    <tavg>11.2</tavg>
+    <prcp>4.2</prcp>
+    <flood_risk>65.99691208743637</flood_risk>
+    <erosion_index>1.1253940318947497</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-23 00:00:00</time>
+    <tavg>12.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>35.457974982528704</flood_risk>
+    <erosion_index>9.139635449005484</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-24 00:00:00</time>
+    <tavg>14.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>89.38912242484436</flood_risk>
+    <erosion_index>22.510757408092978</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-25 00:00:00</time>
+    <tavg>14.3</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>82.63646260949105</flood_risk>
+    <erosion_index>36.56014768435565</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-26 00:00:00</time>
+    <tavg>10.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>25.196130852865963</flood_risk>
+    <erosion_index>46.694587661222386</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-27 00:00:00</time>
+    <tavg>9.3</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>25.961958040635903</flood_risk>
+    <erosion_index>40.686273966042066</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-28 00:00:00</time>
+    <tavg>10.1</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>9.011858504351212</flood_risk>
+    <erosion_index>0.758811994910602</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-29 00:00:00</time>
+    <tavg>13.1</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>43.60254933712644</flood_risk>
+    <erosion_index>9.523162104289717</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-30 00:00:00</time>
+    <tavg>15.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>96.63389665559296</flood_risk>
+    <erosion_index>39.91974633413662</erosion_index>
+  </day>
+  <day>
+    <time>2025-07-31 00:00:00</time>
+    <tavg>17.0</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>1.5408817701506483</flood_risk>
+    <erosion_index>8.48317797466725</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-01 00:00:00</time>
+    <tavg>10.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>13.607291474748983</flood_risk>
+    <erosion_index>21.896107720990944</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-02 00:00:00</time>
+    <tavg>8.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>52.41431447111147</flood_risk>
+    <erosion_index>8.195375856831832</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-03 00:00:00</time>
+    <tavg>13.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>80.46818610367168</flood_risk>
+    <erosion_index>25.03410663827757</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-04 00:00:00</time>
+    <tavg>15.3</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>5.3226503714216005</flood_risk>
+    <erosion_index>29.94145678146988</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-05 00:00:00</time>
+    <tavg>16.3</tavg>
+    <prcp>0.3</prcp>
+    <flood_risk>21.717912662473392</flood_risk>
+    <erosion_index>24.634198023208377</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-06 00:00:00</time>
+    <tavg>10.1</tavg>
+    <prcp>10.6</prcp>
+    <flood_risk>57.11831027923906</flood_risk>
+    <erosion_index>31.52594947072317</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-07 00:00:00</time>
+    <tavg>11.5</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>34.9691280165592</flood_risk>
+    <erosion_index>24.981030183900828</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-08 00:00:00</time>
+    <tavg>12.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>66.38655721423179</flood_risk>
+    <erosion_index>1.554407033017341</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-09 00:00:00</time>
+    <tavg>15.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>31.67593800495555</flood_risk>
+    <erosion_index>21.264317795337877</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-10 00:00:00</time>
+    <tavg>14.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>85.39811811588373</flood_risk>
+    <erosion_index>17.752174272624742</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-11 00:00:00</time>
+    <tavg>10.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>32.59544803182317</flood_risk>
+    <erosion_index>41.22046420220959</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-12 00:00:00</time>
+    <tavg>13.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>23.957093161394326</flood_risk>
+    <erosion_index>21.868486693910615</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-13 00:00:00</time>
+    <tavg>17.2</tavg>
+    <prcp>1.1</prcp>
+    <flood_risk>6.157311092992302</flood_risk>
+    <erosion_index>39.58535799111437</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-14 00:00:00</time>
+    <tavg>14.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>48.393347827749054</flood_risk>
+    <erosion_index>23.108255225108493</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-15 00:00:00</time>
+    <tavg>17.3</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>68.67461888369957</flood_risk>
+    <erosion_index>35.006241113069144</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-16 00:00:00</time>
+    <tavg>16.0</tavg>
+    <prcp>2.2</prcp>
+    <flood_risk>75.85206560841485</flood_risk>
+    <erosion_index>30.735037780316482</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-17 00:00:00</time>
+    <tavg>16.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>46.65228873392462</flood_risk>
+    <erosion_index>26.280716842107616</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-18 00:00:00</time>
+    <tavg>19.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>97.58762464463335</flood_risk>
+    <erosion_index>19.764033884568637</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-19 00:00:00</time>
+    <tavg>14.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>96.299365390497</flood_risk>
+    <erosion_index>33.8485915447255</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-20 00:00:00</time>
+    <tavg>14.3</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>6.864835054329066</flood_risk>
+    <erosion_index>0.05520428566359592</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-21 00:00:00</time>
+    <tavg>13.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>96.96900775052423</flood_risk>
+    <erosion_index>44.8643007952687</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-22 00:00:00</time>
+    <tavg>13.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>9.56890799652632</flood_risk>
+    <erosion_index>30.91519157222319</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-23 00:00:00</time>
+    <tavg>14.1</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>74.54968024094066</flood_risk>
+    <erosion_index>32.68017581012589</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-24 00:00:00</time>
+    <tavg>12.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>6.843407204694585</flood_risk>
+    <erosion_index>2.0591797638268297</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-25 00:00:00</time>
+    <tavg>15.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>30.424821953355885</flood_risk>
+    <erosion_index>33.06952350784396</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-26 00:00:00</time>
+    <tavg>12.7</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>86.97847926364791</flood_risk>
+    <erosion_index>29.41828799616208</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-27 00:00:00</time>
+    <tavg>13.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>34.59648166901965</flood_risk>
+    <erosion_index>44.47187661864217</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-28 00:00:00</time>
+    <tavg>16.1</tavg>
+    <prcp>0.9</prcp>
+    <flood_risk>45.56502356666689</flood_risk>
+    <erosion_index>28.046996532282233</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-29 00:00:00</time>
+    <tavg>18.3</tavg>
+    <prcp>2.1</prcp>
+    <flood_risk>83.50867291272124</flood_risk>
+    <erosion_index>17.606748435791154</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-30 00:00:00</time>
+    <tavg>16.5</tavg>
+    <prcp>0.5</prcp>
+    <flood_risk>83.19538661805522</flood_risk>
+    <erosion_index>11.925648948607376</erosion_index>
+  </day>
+  <day>
+    <time>2025-08-31 00:00:00</time>
+    <tavg>19.0</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>81.36299263515878</flood_risk>
+    <erosion_index>19.973214644909714</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-01 00:00:00</time>
+    <tavg>13.9</tavg>
+    <prcp>4.8</prcp>
+    <flood_risk>81.51312405904136</flood_risk>
+    <erosion_index>46.42399387093859</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-02 00:00:00</time>
+    <tavg>17.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>4.553828436647256</flood_risk>
+    <erosion_index>35.65004186117975</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-03 00:00:00</time>
+    <tavg>16.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>16.571409922410073</flood_risk>
+    <erosion_index>0.28334855627959454</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-04 00:00:00</time>
+    <tavg>16.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>27.783568460603313</flood_risk>
+    <erosion_index>10.433384182299383</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-05 00:00:00</time>
+    <tavg>16.1</tavg>
+    <prcp>0.9</prcp>
+    <flood_risk>42.506179486445895</flood_risk>
+    <erosion_index>31.841122781089183</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-06 00:00:00</time>
+    <tavg>13.6</tavg>
+    <prcp>6.4</prcp>
+    <flood_risk>63.50775122034188</flood_risk>
+    <erosion_index>38.058189095853784</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-07 00:00:00</time>
+    <tavg>16.3</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>77.09938547051276</flood_risk>
+    <erosion_index>20.769829170563476</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-08 00:00:00</time>
+    <tavg>16.2</tavg>
+    <prcp>0.5</prcp>
+    <flood_risk>1.760985474967891</flood_risk>
+    <erosion_index>35.5533035221054</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-09 00:00:00</time>
+    <tavg>20.5</tavg>
+    <prcp>7.6</prcp>
+    <flood_risk>35.56784639413919</flood_risk>
+    <erosion_index>18.243176768494774</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-10 00:00:00</time>
+    <tavg>21.3</tavg>
+    <prcp>0.3</prcp>
+    <flood_risk>22.22183248038645</flood_risk>
+    <erosion_index>31.070690185682853</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-11 00:00:00</time>
+    <tavg>20.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>34.520934332101916</flood_risk>
+    <erosion_index>10.239689307826922</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-12 00:00:00</time>
+    <tavg>15.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>3.5800652806816102</flood_risk>
+    <erosion_index>9.06433720610545</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-13 00:00:00</time>
+    <tavg>15.8</tavg>
+    <prcp>5.3</prcp>
+    <flood_risk>51.72391370954795</flood_risk>
+    <erosion_index>9.567842459294967</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-14 00:00:00</time>
+    <tavg>15.1</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>40.89980913743842</flood_risk>
+    <erosion_index>32.99957000117125</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-15 00:00:00</time>
+    <tavg>18.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>41.45565802885491</flood_risk>
+    <erosion_index>14.879458079730739</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-16 00:00:00</time>
+    <tavg>18.1</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>9.130197588914656</flood_risk>
+    <erosion_index>15.719960339524164</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-17 00:00:00</time>
+    <tavg>13.1</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>48.2740107964071</flood_risk>
+    <erosion_index>12.505996068451408</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-18 00:00:00</time>
+    <tavg>13.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>86.26970905134156</flood_risk>
+    <erosion_index>13.323147710008154</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-19 00:00:00</time>
+    <tavg>14.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>77.57093707173497</flood_risk>
+    <erosion_index>12.945762025090268</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-20 00:00:00</time>
+    <tavg>17.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>40.38445508105213</flood_risk>
+    <erosion_index>37.48378360056693</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-21 00:00:00</time>
+    <tavg>19.4</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>35.00617436975072</flood_risk>
+    <erosion_index>8.332666211253459</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-22 00:00:00</time>
+    <tavg>19.5</tavg>
+    <prcp>1.3</prcp>
+    <flood_risk>54.07580085850615</flood_risk>
+    <erosion_index>41.42734042821763</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-23 00:00:00</time>
+    <tavg>13.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>80.72744093847875</flood_risk>
+    <erosion_index>16.635207520181893</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-24 00:00:00</time>
+    <tavg>11.7</tavg>
+    <prcp>7.2</prcp>
+    <flood_risk>35.044218728352064</flood_risk>
+    <erosion_index>22.91176838490635</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-25 00:00:00</time>
+    <tavg>12.4</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>53.81935310267269</flood_risk>
+    <erosion_index>39.002886065373424</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-26 00:00:00</time>
+    <tavg>14.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>77.38800403649655</flood_risk>
+    <erosion_index>48.68116174829266</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-27 00:00:00</time>
+    <tavg>17.5</tavg>
+    <prcp>0.3</prcp>
+    <flood_risk>69.62860193470371</flood_risk>
+    <erosion_index>27.356675820971272</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-28 00:00:00</time>
+    <tavg>14.8</tavg>
+    <prcp>7.3</prcp>
+    <flood_risk>53.61008167784275</flood_risk>
+    <erosion_index>24.982661268742184</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-29 00:00:00</time>
+    <tavg>11.6</tavg>
+    <prcp>8.6</prcp>
+    <flood_risk>60.32042653315097</flood_risk>
+    <erosion_index>15.845594033420562</erosion_index>
+  </day>
+  <day>
+    <time>2025-09-30 00:00:00</time>
+    <tavg>14.5</tavg>
+    <prcp>1.2</prcp>
+    <flood_risk>15.42208518929673</flood_risk>
+    <erosion_index>30.212255768017393</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-01 00:00:00</time>
+    <tavg>21.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>51.1439656235289</flood_risk>
+    <erosion_index>35.42486697791396</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-02 00:00:00</time>
+    <tavg>13.0</tavg>
+    <prcp>1.2</prcp>
+    <flood_risk>44.02311939331679</flood_risk>
+    <erosion_index>27.11939658837809</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-03 00:00:00</time>
+    <tavg>10.7</tavg>
+    <prcp>1.4</prcp>
+    <flood_risk>24.37649376304938</flood_risk>
+    <erosion_index>43.716298620226404</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-04 00:00:00</time>
+    <tavg>17.9</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>59.596797499801156</flood_risk>
+    <erosion_index>5.054517152062315</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-05 00:00:00</time>
+    <tavg>18.2</tavg>
+    <prcp>0.6</prcp>
+    <flood_risk>63.0653331086708</flood_risk>
+    <erosion_index>41.250077510352575</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-06 00:00:00</time>
+    <tavg>17.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>59.61752587478348</flood_risk>
+    <erosion_index>43.21358895630206</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-07 00:00:00</time>
+    <tavg>16.3</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>87.69221161494588</flood_risk>
+    <erosion_index>34.397021495275744</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-08 00:00:00</time>
+    <tavg>16.3</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>39.878291123899345</flood_risk>
+    <erosion_index>15.758720797792304</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-09 00:00:00</time>
+    <tavg>17.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>93.16864044936274</flood_risk>
+    <erosion_index>49.66275489530594</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-10 00:00:00</time>
+    <tavg>23.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>37.31053151606931</flood_risk>
+    <erosion_index>5.905763371557543</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-11 00:00:00</time>
+    <tavg>19.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>9.470794045951603</flood_risk>
+    <erosion_index>37.84363383701539</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-12 00:00:00</time>
+    <tavg>16.2</tavg>
+    <prcp>6.8</prcp>
+    <flood_risk>46.84061893909161</flood_risk>
+    <erosion_index>23.542487093781965</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-13 00:00:00</time>
+    <tavg>19.1</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>94.13987887240776</flood_risk>
+    <erosion_index>15.56064477307893</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-14 00:00:00</time>
+    <tavg>21.4</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>31.68987277164137</flood_risk>
+    <erosion_index>28.566943329162225</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-15 00:00:00</time>
+    <tavg>16.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>2.66128903431494</flood_risk>
+    <erosion_index>41.297028345148576</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-16 00:00:00</time>
+    <tavg>15.0</tavg>
+    <prcp>0.1</prcp>
+    <flood_risk>38.41594391180475</flood_risk>
+    <erosion_index>34.596985587118915</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-17 00:00:00</time>
+    <tavg>16.1</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>11.987514063960447</flood_risk>
+    <erosion_index>17.09932641848267</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-18 00:00:00</time>
+    <tavg>19.4</tavg>
+    <prcp>0.2</prcp>
+    <flood_risk>55.23584015600397</flood_risk>
+    <erosion_index>22.47521650572034</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-19 00:00:00</time>
+    <tavg>14.3</tavg>
+    <prcp>6.5</prcp>
+    <flood_risk>72.55228128509592</flood_risk>
+    <erosion_index>38.546269476827064</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-20 00:00:00</time>
+    <tavg>13.9</tavg>
+    <prcp>2.7</prcp>
+    <flood_risk>34.58426703214496</flood_risk>
+    <erosion_index>14.767660824569056</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-21 00:00:00</time>
+    <tavg>16.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>23.550417078456675</flood_risk>
+    <erosion_index>12.125204965584308</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-22 00:00:00</time>
+    <tavg>22.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>57.25529256062665</flood_risk>
+    <erosion_index>28.661926803637</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-23 00:00:00</time>
+    <tavg>27.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>1.3232388941671225</flood_risk>
+    <erosion_index>10.774107578505626</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-24 00:00:00</time>
+    <tavg>19.4</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>61.70278985077243</flood_risk>
+    <erosion_index>43.368741132051895</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-25 00:00:00</time>
+    <tavg>18.5</tavg>
+    <prcp>3.0</prcp>
+    <flood_risk>95.68792681128632</flood_risk>
+    <erosion_index>26.021315686515432</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-26 00:00:00</time>
+    <tavg>13.7</tavg>
+    <prcp>10.3</prcp>
+    <flood_risk>21.219943262166552</flood_risk>
+    <erosion_index>7.391469898216895</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-27 00:00:00</time>
+    <tavg>14.4</tavg>
+    <prcp>0.9</prcp>
+    <flood_risk>71.22105925908664</flood_risk>
+    <erosion_index>37.984279807293206</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-28 00:00:00</time>
+    <tavg>17.8</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>60.95020661348881</flood_risk>
+    <erosion_index>31.239261503063716</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-29 00:00:00</time>
+    <tavg>18.3</tavg>
+    <prcp>5.5</prcp>
+    <flood_risk>17.790687874126455</flood_risk>
+    <erosion_index>18.925320985520372</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-30 00:00:00</time>
+    <tavg>16.3</tavg>
+    <prcp>4.3</prcp>
+    <flood_risk>72.01006450692216</flood_risk>
+    <erosion_index>19.68468462475587</erosion_index>
+  </day>
+  <day>
+    <time>2025-10-31 00:00:00</time>
+    <tavg>22.1</tavg>
+    <prcp>0.9</prcp>
+    <flood_risk>46.760828156940846</flood_risk>
+    <erosion_index>16.914453267053066</erosion_index>
+  </day>
+  <day>
+    <time>2025-11-01 00:00:00</time>
+    <tavg>16.8</tavg>
+    <prcp>2.8</prcp>
+    <flood_risk>14.961917619911425</flood_risk>
+    <erosion_index>27.100995510493163</erosion_index>
+  </day>
+  <day>
+    <time>2025-11-02 00:00:00</time>
+    <tavg>15.9</tavg>
+    <prcp>0.5</prcp>
+    <flood_risk>75.27820986546783</flood_risk>
+    <erosion_index>42.42419540309777</erosion_index>
+  </day>
+  <day>
+    <time>2025-11-03 00:00:00</time>
+    <tavg>22.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>26.551147532338426</flood_risk>
+    <erosion_index>15.161900550400093</erosion_index>
+  </day>
+  <day>
+    <time>2025-11-04 00:00:00</time>
+    <tavg>21.2</tavg>
+    <prcp>0.8</prcp>
+    <flood_risk>81.51974102761939</flood_risk>
+    <erosion_index>42.14770402174443</erosion_index>
+  </day>
+  <day>
+    <time>2025-11-05 00:00:00</time>
+    <tavg>16.2</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>11.291229435980066</flood_risk>
+    <erosion_index>21.6719039874594</erosion_index>
+  </day>
+  <day>
+    <time>2025-11-06 00:00:00</time>
+    <tavg>15.0</tavg>
+    <prcp>3.3</prcp>
+    <flood_risk>57.39419712516038</flood_risk>
+    <erosion_index>22.82552450533548</erosion_index>
+  </day>
+  <day>
+    <time>2025-11-07 00:00:00</time>
+    <tavg>16.8</tavg>
+    <prcp>1.0</prcp>
+    <flood_risk>90.0741444985491</flood_risk>
+    <erosion_index>35.38400120705226</erosion_index>
+  </day>
+  <day>
+    <time>2025-11-08 00:00:00</time>
+    <tavg>20.9</tavg>
+    <prcp>0.1</prcp>
+    <flood_risk>74.18962888276478</flood_risk>
+    <erosion_index>31.83714720468619</erosion_index>
+  </day>
+  <day>
+    <time>2025-11-09 00:00:00</time>
+    <tavg>19.6</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>42.0729391897395</flood_risk>
+    <erosion_index>4.1909566783584316</erosion_index>
+  </day>
+  <day>
+    <time>2025-11-10 00:00:00</time>
+    <tavg>19.6</tavg>
+    <prcp>2.8</prcp>
+    <flood_risk>66.82735074839489</flood_risk>
+    <erosion_index>48.32813040482428</erosion_index>
+  </day>
+  <day>
+    <time>2025-11-11 00:00:00</time>
+    <tavg>22.0</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>23.382106614217957</flood_risk>
+    <erosion_index>39.28065693452353</erosion_index>
+  </day>
+  <day>
+    <time>2025-11-12 00:00:00</time>
+    <tavg>21.5</tavg>
+    <prcp>0.0</prcp>
+    <flood_risk>14.24587481408902</flood_risk>
+    <erosion_index>10.093865432555017</erosion_index>
+  </day>
+  <day>
+    <time>2025-11-13 00:00:00</time>
+    <tavg>19.9</tavg>
+    <prcp>2.0</prcp>
+    <flood_risk>42.613863989107514</flood_risk>
+    <erosion_index>13.555028697732235</erosion_index>
+  </day>
+  <day>
+    <time>2025-11-14 00:00:00</time>
+    <tavg>20.1</tavg>
+    <prcp>0.3</prcp>
+    <flood_risk>28.22729456679317</flood_risk>
+    <erosion_index>39.90923866469977</erosion_index>
+  </day>
+  <day>
+    <time>2025-11-15 00:00:00</time>
+    <tavg>17.4</tavg>
+    <prcp>3.2</prcp>
+    <flood_risk>86.3112266934772</flood_risk>
+    <erosion_index>8.670293270098645</erosion_index>
+  </day>
+  <day>
+    <time>2025-11-16 00:00:00</time>
+    <tavg>13.7</tavg>
+    <prcp>3.7</prcp>
+    <flood_risk>43.3710064263405</flood_risk>
+    <erosion_index>0.269782599464774</erosion_index>
+  </day>
+</weather>

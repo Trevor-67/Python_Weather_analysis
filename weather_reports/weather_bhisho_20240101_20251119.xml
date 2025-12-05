@@ -1,0 +1,4119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<weather>
+  <day>
+    <time>2024-01-01 00:00:00</time>
+    <tavg>17.1</tavg>
+    <flood_risk>13.204215383097006</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-02 00:00:00</time>
+    <tavg>19.4</tavg>
+    <flood_risk>66.66298432265478</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-03 00:00:00</time>
+    <tavg>20.1</tavg>
+    <flood_risk>33.557650283045135</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-04 00:00:00</time>
+    <tavg>18.2</tavg>
+    <flood_risk>26.794907905576217</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-05 00:00:00</time>
+    <tavg>23.3</tavg>
+    <flood_risk>63.87689255691161</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-06 00:00:00</time>
+    <tavg>20.7</tavg>
+    <flood_risk>65.58379301606453</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-07 00:00:00</time>
+    <tavg>19.1</tavg>
+    <flood_risk>16.361397617996253</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-08 00:00:00</time>
+    <tavg>16.6</tavg>
+    <flood_risk>65.22008318264787</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-09 00:00:00</time>
+    <tavg>20.1</tavg>
+    <flood_risk>12.207564532931114</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-10 00:00:00</time>
+    <tavg>20.9</tavg>
+    <flood_risk>93.9266251863308</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-11 00:00:00</time>
+    <tavg>20.2</tavg>
+    <flood_risk>79.00815298011014</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-12 00:00:00</time>
+    <tavg>22.0</tavg>
+    <flood_risk>18.586073577011742</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-13 00:00:00</time>
+    <tavg>20.8</tavg>
+    <flood_risk>0.638694197987566</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-14 00:00:00</time>
+    <tavg>21.4</tavg>
+    <flood_risk>68.96415024808994</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-15 00:00:00</time>
+    <tavg>19.1</tavg>
+    <flood_risk>39.4903962300028</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-16 00:00:00</time>
+    <tavg>18.3</tavg>
+    <flood_risk>78.7030122008286</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-17 00:00:00</time>
+    <tavg>17.7</tavg>
+    <flood_risk>93.1832760269473</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-18 00:00:00</time>
+    <tavg>17.1</tavg>
+    <flood_risk>85.05931687930584</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-19 00:00:00</time>
+    <tavg>18.4</tavg>
+    <flood_risk>65.95389198260555</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-20 00:00:00</time>
+    <tavg>22.1</tavg>
+    <flood_risk>68.70130452233903</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-21 00:00:00</time>
+    <tavg>22.4</tavg>
+    <flood_risk>43.06692707980852</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-22 00:00:00</time>
+    <tavg>19.1</tavg>
+    <flood_risk>56.01345537791429</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-23 00:00:00</time>
+    <tavg>16.6</tavg>
+    <flood_risk>60.674098529384224</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-24 00:00:00</time>
+    <tavg>18.9</tavg>
+    <flood_risk>29.75247440861838</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-25 00:00:00</time>
+    <tavg>21.0</tavg>
+    <flood_risk>17.697038852121562</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-26 00:00:00</time>
+    <tavg>24.7</tavg>
+    <flood_risk>16.361057163206606</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-27 00:00:00</time>
+    <tavg>21.7</tavg>
+    <flood_risk>35.61529228591578</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-28 00:00:00</time>
+    <tavg>25.8</tavg>
+    <flood_risk>15.960032379562417</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-29 00:00:00</time>
+    <tavg>28.0</tavg>
+    <flood_risk>62.950321338223645</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-30 00:00:00</time>
+    <tavg>22.9</tavg>
+    <flood_risk>88.61922378571239</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-01-31 00:00:00</time>
+    <tavg>25.5</tavg>
+    <flood_risk>46.15295509830359</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-01 00:00:00</time>
+    <tavg>22.8</tavg>
+    <flood_risk>97.538980553844</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-02 00:00:00</time>
+    <tavg>25.1</tavg>
+    <flood_risk>59.330596210558184</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-03 00:00:00</time>
+    <tavg>25.5</tavg>
+    <flood_risk>83.8283993063709</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-04 00:00:00</time>
+    <tavg>24.3</tavg>
+    <flood_risk>12.848038842036292</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-05 00:00:00</time>
+    <tavg>25.2</tavg>
+    <flood_risk>40.19746428411578</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-06 00:00:00</time>
+    <tavg>24.3</tavg>
+    <flood_risk>1.8389012349857015</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-07 00:00:00</time>
+    <tavg>22.4</tavg>
+    <flood_risk>67.81893280674444</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-08 00:00:00</time>
+    <tavg>20.4</tavg>
+    <flood_risk>60.77706203808285</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-09 00:00:00</time>
+    <tavg>19.2</tavg>
+    <flood_risk>1.0405139550724973</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-10 00:00:00</time>
+    <tavg>18.3</tavg>
+    <flood_risk>43.22993786249095</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-11 00:00:00</time>
+    <tavg>18.9</tavg>
+    <flood_risk>1.346200529936159</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-12 00:00:00</time>
+    <tavg>23.4</tavg>
+    <flood_risk>12.874666618424701</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-13 00:00:00</time>
+    <tavg>23.2</tavg>
+    <flood_risk>28.161197640118562</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-14 00:00:00</time>
+    <tavg>21.1</tavg>
+    <flood_risk>81.25469509965052</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-15 00:00:00</time>
+    <tavg>19.6</tavg>
+    <flood_risk>23.05350601686441</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-16 00:00:00</time>
+    <tavg>18.9</tavg>
+    <flood_risk>48.74574538537196</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-17 00:00:00</time>
+    <tavg>18.2</tavg>
+    <flood_risk>25.95517658200135</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-18 00:00:00</time>
+    <tavg>18.8</tavg>
+    <flood_risk>34.868763812295114</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-19 00:00:00</time>
+    <tavg>20.8</tavg>
+    <flood_risk>2.5623066226513114</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-20 00:00:00</time>
+    <tavg>23.7</tavg>
+    <flood_risk>76.50319973739761</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-21 00:00:00</time>
+    <tavg>20.4</tavg>
+    <flood_risk>5.069048930075393</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-22 00:00:00</time>
+    <tavg>18.3</tavg>
+    <flood_risk>97.87527041157595</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-23 00:00:00</time>
+    <tavg>21.2</tavg>
+    <flood_risk>42.27027880168966</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-24 00:00:00</time>
+    <tavg>23.4</tavg>
+    <flood_risk>42.73883717870368</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-25 00:00:00</time>
+    <tavg>18.9</tavg>
+    <flood_risk>52.6185616823756</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-26 00:00:00</time>
+    <tavg>15.2</tavg>
+    <flood_risk>37.722111735195185</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-27 00:00:00</time>
+    <tavg>16.1</tavg>
+    <flood_risk>34.65510300610312</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-28 00:00:00</time>
+    <tavg>18.5</tavg>
+    <flood_risk>42.98308966608633</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-02-29 00:00:00</time>
+    <tavg>22.3</tavg>
+    <flood_risk>28.56911757611601</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-01 00:00:00</time>
+    <tavg>26.1</tavg>
+    <flood_risk>51.08918567888172</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-02 00:00:00</time>
+    <tavg>22.2</tavg>
+    <flood_risk>0.4046604174424484</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-03 00:00:00</time>
+    <tavg>21.3</tavg>
+    <flood_risk>40.63184418594982</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-04 00:00:00</time>
+    <tavg>25.1</tavg>
+    <flood_risk>35.6915303625891</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-05 00:00:00</time>
+    <tavg>21.2</tavg>
+    <flood_risk>24.37394460280158</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-06 00:00:00</time>
+    <tavg>18.8</tavg>
+    <flood_risk>88.38571960662583</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-07 00:00:00</time>
+    <tavg>22.6</tavg>
+    <flood_risk>94.25074013995126</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-08 00:00:00</time>
+    <tavg>21.0</tavg>
+    <flood_risk>11.667910721758723</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-09 00:00:00</time>
+    <tavg>22.4</tavg>
+    <flood_risk>21.883478776233723</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-10 00:00:00</time>
+    <tavg>22.8</tavg>
+    <flood_risk>28.01142111532824</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-11 00:00:00</time>
+    <tavg>24.3</tavg>
+    <flood_risk>89.86344750132335</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-12 00:00:00</time>
+    <tavg>26.1</tavg>
+    <flood_risk>73.1889650939593</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-13 00:00:00</time>
+    <tavg>19.6</tavg>
+    <flood_risk>44.859891260316395</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-14 00:00:00</time>
+    <tavg>17.1</tavg>
+    <flood_risk>2.3805590454507253</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-15 00:00:00</time>
+    <tavg>21.7</tavg>
+    <flood_risk>76.32437219555392</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-16 00:00:00</time>
+    <tavg>20.4</tavg>
+    <flood_risk>21.64541878479711</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-17 00:00:00</time>
+    <tavg>16.1</tavg>
+    <flood_risk>76.93312689489171</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-18 00:00:00</time>
+    <tavg>19.3</tavg>
+    <flood_risk>84.74338697695465</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-19 00:00:00</time>
+    <tavg>20.6</tavg>
+    <flood_risk>36.534830477679016</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-20 00:00:00</time>
+    <tavg>20.8</tavg>
+    <flood_risk>30.955086504879137</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-21 00:00:00</time>
+    <tavg>23.8</tavg>
+    <flood_risk>85.48223353321924</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-22 00:00:00</time>
+    <tavg>25.1</tavg>
+    <flood_risk>83.27532526400874</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-23 00:00:00</time>
+    <tavg>23.5</tavg>
+    <flood_risk>13.202617141072858</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-24 00:00:00</time>
+    <tavg>23.8</tavg>
+    <flood_risk>62.381979286375696</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-25 00:00:00</time>
+    <tavg>25.7</tavg>
+    <flood_risk>74.7281406751225</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-26 00:00:00</time>
+    <tavg>21.9</tavg>
+    <flood_risk>25.269211148064187</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-27 00:00:00</time>
+    <tavg>18.6</tavg>
+    <flood_risk>4.655632204449689</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-28 00:00:00</time>
+    <tavg>19.1</tavg>
+    <flood_risk>48.419618428873925</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-29 00:00:00</time>
+    <tavg>17.5</tavg>
+    <flood_risk>7.975563387021268</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-30 00:00:00</time>
+    <tavg>19.4</tavg>
+    <flood_risk>18.53111757520277</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-03-31 00:00:00</time>
+    <tavg>24.6</tavg>
+    <flood_risk>43.50585772605318</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-01 00:00:00</time>
+    <tavg>21.9</tavg>
+    <flood_risk>51.685855311366765</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-02 00:00:00</time>
+    <tavg>18.3</tavg>
+    <flood_risk>3.515687367308795</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-03 00:00:00</time>
+    <tavg>17.0</tavg>
+    <flood_risk>83.97765611082761</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-04 00:00:00</time>
+    <tavg>21.7</tavg>
+    <flood_risk>5.603993516932649</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-05 00:00:00</time>
+    <tavg>15.4</tavg>
+    <flood_risk>23.771541309525944</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-06 00:00:00</time>
+    <tavg>13.1</tavg>
+    <flood_risk>6.354357621756945</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-07 00:00:00</time>
+    <tavg>15.2</tavg>
+    <flood_risk>6.906618885227944</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-08 00:00:00</time>
+    <tavg>17.4</tavg>
+    <flood_risk>45.528115811138306</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-09 00:00:00</time>
+    <tavg>17.4</tavg>
+    <flood_risk>56.90088946336031</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-10 00:00:00</time>
+    <tavg>14.7</tavg>
+    <flood_risk>49.25018934643656</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-11 00:00:00</time>
+    <tavg>12.6</tavg>
+    <flood_risk>59.872404107168386</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-12 00:00:00</time>
+    <tavg>13.0</tavg>
+    <flood_risk>25.348664030972134</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-13 00:00:00</time>
+    <tavg>13.8</tavg>
+    <flood_risk>17.149010812113097</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-14 00:00:00</time>
+    <tavg>15.8</tavg>
+    <flood_risk>17.23511918566927</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-15 00:00:00</time>
+    <tavg>16.7</tavg>
+    <flood_risk>73.16776796746606</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-16 00:00:00</time>
+    <tavg>18.9</tavg>
+    <flood_risk>66.35706867416998</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-17 00:00:00</time>
+    <tavg>20.6</tavg>
+    <flood_risk>57.00652589058619</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-18 00:00:00</time>
+    <tavg>21.2</tavg>
+    <flood_risk>90.33921901505259</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-19 00:00:00</time>
+    <tavg>19.8</tavg>
+    <flood_risk>5.133116006752059</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-20 00:00:00</time>
+    <tavg>21.6</tavg>
+    <flood_risk>90.5812699366567</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-21 00:00:00</time>
+    <tavg>20.7</tavg>
+    <flood_risk>56.65096506764037</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-22 00:00:00</time>
+    <tavg>19.0</tavg>
+    <flood_risk>28.77776418276242</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-23 00:00:00</time>
+    <tavg>17.5</tavg>
+    <flood_risk>33.886093850318865</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-24 00:00:00</time>
+    <tavg>17.6</tavg>
+    <flood_risk>16.30104059071378</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-25 00:00:00</time>
+    <tavg>16.8</tavg>
+    <flood_risk>46.34265531239849</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-26 00:00:00</time>
+    <tavg>15.0</tavg>
+    <flood_risk>57.68984211939435</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-27 00:00:00</time>
+    <tavg>15.1</tavg>
+    <flood_risk>11.701562046721614</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-28 00:00:00</time>
+    <tavg>20.0</tavg>
+    <flood_risk>54.82646111787941</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-29 00:00:00</time>
+    <tavg>21.3</tavg>
+    <flood_risk>32.24847319748564</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-04-30 00:00:00</time>
+    <tavg>21.3</tavg>
+    <flood_risk>13.19299945305793</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-01 00:00:00</time>
+    <tavg>15.8</tavg>
+    <flood_risk>11.884250864845303</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-02 00:00:00</time>
+    <tavg>18.8</tavg>
+    <flood_risk>26.367692556597298</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-03 00:00:00</time>
+    <tavg>25.5</tavg>
+    <flood_risk>27.591640450444565</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-04 00:00:00</time>
+    <tavg>24.2</tavg>
+    <flood_risk>99.76522850099828</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-05 00:00:00</time>
+    <tavg>18.0</tavg>
+    <flood_risk>57.153247843109156</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-06 00:00:00</time>
+    <tavg>24.7</tavg>
+    <flood_risk>88.24545721777531</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-07 00:00:00</time>
+    <tavg>26.4</tavg>
+    <flood_risk>69.652369908412</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-08 00:00:00</time>
+    <tavg>17.5</tavg>
+    <flood_risk>50.22789177003736</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-09 00:00:00</time>
+    <tavg>19.4</tavg>
+    <flood_risk>84.26347894702751</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-10 00:00:00</time>
+    <tavg>19.8</tavg>
+    <flood_risk>62.61580074418983</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-11 00:00:00</time>
+    <tavg>14.2</tavg>
+    <flood_risk>82.41802482949352</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-12 00:00:00</time>
+    <tavg>12.6</tavg>
+    <flood_risk>83.19691653263804</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-13 00:00:00</time>
+    <tavg>14.9</tavg>
+    <flood_risk>37.340286237140376</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-14 00:00:00</time>
+    <tavg>20.0</tavg>
+    <flood_risk>73.27804965009305</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-15 00:00:00</time>
+    <tavg>18.4</tavg>
+    <flood_risk>59.831622509951764</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-16 00:00:00</time>
+    <tavg>19.7</tavg>
+    <flood_risk>0.27088725951270876</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-17 00:00:00</time>
+    <tavg>15.8</tavg>
+    <flood_risk>31.828095028499238</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-18 00:00:00</time>
+    <tavg>14.6</tavg>
+    <flood_risk>60.41852886329481</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-19 00:00:00</time>
+    <tavg>18.8</tavg>
+    <flood_risk>82.94532145612212</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-20 00:00:00</time>
+    <tavg>21.6</tavg>
+    <flood_risk>96.48545337071702</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-21 00:00:00</time>
+    <tavg>23.1</tavg>
+    <flood_risk>27.35530316383763</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-22 00:00:00</time>
+    <tavg>17.3</tavg>
+    <flood_risk>57.818148454059724</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-23 00:00:00</time>
+    <tavg>14.9</tavg>
+    <flood_risk>19.60292175051075</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-24 00:00:00</time>
+    <tavg>14.7</tavg>
+    <flood_risk>23.020746392946222</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-25 00:00:00</time>
+    <tavg>15.5</tavg>
+    <flood_risk>19.405201408570417</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-26 00:00:00</time>
+    <tavg>14.5</tavg>
+    <flood_risk>81.79339828723276</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-27 00:00:00</time>
+    <tavg>15.3</tavg>
+    <flood_risk>94.75067580848324</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-28 00:00:00</time>
+    <tavg>19.5</tavg>
+    <flood_risk>18.521241440057445</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-29 00:00:00</time>
+    <tavg>21.5</tavg>
+    <flood_risk>59.30892388960507</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-30 00:00:00</time>
+    <tavg>21.4</tavg>
+    <flood_risk>19.315828546156332</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-05-31 00:00:00</time>
+    <tavg>12.4</tavg>
+    <flood_risk>3.1441771533709306</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-01 00:00:00</time>
+    <tavg>13.0</tavg>
+    <flood_risk>55.68801115691484</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-02 00:00:00</time>
+    <tavg>14.0</tavg>
+    <flood_risk>21.969504199862932</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-03 00:00:00</time>
+    <tavg>12.9</tavg>
+    <flood_risk>39.84759054725653</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-04 00:00:00</time>
+    <tavg>11.4</tavg>
+    <flood_risk>81.00896483705867</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-05 00:00:00</time>
+    <tavg>14.3</tavg>
+    <flood_risk>41.34205408193735</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-06 00:00:00</time>
+    <tavg>13.6</tavg>
+    <flood_risk>16.33154931984159</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-07 00:00:00</time>
+    <tavg>10.3</tavg>
+    <flood_risk>90.3605498307517</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-08 00:00:00</time>
+    <tavg>10.8</tavg>
+    <flood_risk>47.301088771500886</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-09 00:00:00</time>
+    <tavg>13.0</tavg>
+    <flood_risk>92.67614017410418</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-10 00:00:00</time>
+    <tavg>15.3</tavg>
+    <flood_risk>54.2263238771167</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-11 00:00:00</time>
+    <tavg>16.0</tavg>
+    <flood_risk>94.58162000966752</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-12 00:00:00</time>
+    <tavg>16.3</tavg>
+    <flood_risk>38.71413081871358</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-13 00:00:00</time>
+    <tavg>12.7</tavg>
+    <flood_risk>46.44239344405854</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-14 00:00:00</time>
+    <tavg>15.8</tavg>
+    <flood_risk>75.33798246118434</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-15 00:00:00</time>
+    <tavg>15.1</tavg>
+    <flood_risk>31.760623013033662</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-16 00:00:00</time>
+    <tavg>14.1</tavg>
+    <flood_risk>94.7965239403513</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-17 00:00:00</time>
+    <tavg>18.0</tavg>
+    <flood_risk>89.92779479667125</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-18 00:00:00</time>
+    <tavg>14.6</tavg>
+    <flood_risk>45.01427385138118</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-19 00:00:00</time>
+    <tavg>12.4</tavg>
+    <flood_risk>81.73853417564995</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-20 00:00:00</time>
+    <tavg>12.2</tavg>
+    <flood_risk>28.10689653748889</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-21 00:00:00</time>
+    <tavg>20.3</tavg>
+    <flood_risk>41.16622581085794</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-22 00:00:00</time>
+    <tavg>12.2</tavg>
+    <flood_risk>0.12890167166075273</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-23 00:00:00</time>
+    <tavg>17.6</tavg>
+    <flood_risk>10.897004884359262</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-24 00:00:00</time>
+    <tavg>17.6</tavg>
+    <flood_risk>25.38064593785898</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-25 00:00:00</time>
+    <tavg>14.2</tavg>
+    <flood_risk>28.55928978654977</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-26 00:00:00</time>
+    <tavg>13.6</tavg>
+    <flood_risk>97.9918961206743</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-27 00:00:00</time>
+    <tavg>14.6</tavg>
+    <flood_risk>43.12851650555049</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-28 00:00:00</time>
+    <tavg>17.6</tavg>
+    <flood_risk>84.3638540334718</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-29 00:00:00</time>
+    <tavg>19.2</tavg>
+    <flood_risk>37.126578199142315</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-06-30 00:00:00</time>
+    <tavg>17.1</tavg>
+    <flood_risk>1.1319852716946466</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-01 00:00:00</time>
+    <tavg>16.3</tavg>
+    <flood_risk>55.259848976658965</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-02 00:00:00</time>
+    <tavg>14.9</tavg>
+    <flood_risk>89.60359725867082</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-03 00:00:00</time>
+    <tavg>11.7</tavg>
+    <flood_risk>0.6144604851932911</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-04 00:00:00</time>
+    <tavg>11.5</tavg>
+    <flood_risk>15.206869419925628</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-05 00:00:00</time>
+    <tavg>10.2</tavg>
+    <flood_risk>77.46506778839513</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-06 00:00:00</time>
+    <tavg>12.1</tavg>
+    <flood_risk>59.91866338146005</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-07 00:00:00</time>
+    <tavg>15.9</tavg>
+    <flood_risk>54.98424732582946</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-08 00:00:00</time>
+    <tavg>9.6</tavg>
+    <flood_risk>94.01758955344613</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-09 00:00:00</time>
+    <tavg>13.1</tavg>
+    <flood_risk>67.34719438313086</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-10 00:00:00</time>
+    <tavg>16.5</tavg>
+    <flood_risk>87.34752012597485</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-11 00:00:00</time>
+    <tavg>20.5</tavg>
+    <flood_risk>53.5565059460294</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-12 00:00:00</time>
+    <tavg>15.1</tavg>
+    <flood_risk>4.734555475589386</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-13 00:00:00</time>
+    <tavg>14.0</tavg>
+    <flood_risk>45.97019517803314</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-14 00:00:00</time>
+    <tavg>12.3</tavg>
+    <flood_risk>64.20231119342972</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-15 00:00:00</time>
+    <tavg>10.7</tavg>
+    <flood_risk>8.675457267099407</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-16 00:00:00</time>
+    <tavg>12.5</tavg>
+    <flood_risk>53.6605304160376</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-17 00:00:00</time>
+    <tavg>12.1</tavg>
+    <flood_risk>3.111535456366621</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-18 00:00:00</time>
+    <tavg>15.2</tavg>
+    <flood_risk>33.15262227554969</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-19 00:00:00</time>
+    <tavg>11.7</tavg>
+    <flood_risk>48.95993402939383</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-20 00:00:00</time>
+    <tavg>11.0</tavg>
+    <flood_risk>9.908177236285331</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-21 00:00:00</time>
+    <tavg>8.4</tavg>
+    <flood_risk>19.242796679407014</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-22 00:00:00</time>
+    <tavg>9.5</tavg>
+    <flood_risk>23.813712942718514</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-23 00:00:00</time>
+    <tavg>14.0</tavg>
+    <flood_risk>43.79514522960674</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-24 00:00:00</time>
+    <tavg>11.8</tavg>
+    <flood_risk>63.286311962968156</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-25 00:00:00</time>
+    <tavg>10.8</tavg>
+    <flood_risk>48.56344529651646</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-26 00:00:00</time>
+    <tavg>12.8</tavg>
+    <flood_risk>68.077191628485</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-27 00:00:00</time>
+    <tavg>13.8</tavg>
+    <flood_risk>18.639259232419214</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-28 00:00:00</time>
+    <tavg>9.8</tavg>
+    <flood_risk>49.90506230910074</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-29 00:00:00</time>
+    <tavg>9.4</tavg>
+    <flood_risk>27.681216086297223</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-30 00:00:00</time>
+    <tavg>8.7</tavg>
+    <flood_risk>36.34685812568693</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-07-31 00:00:00</time>
+    <tavg>9.8</tavg>
+    <flood_risk>72.42433507368644</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-01 00:00:00</time>
+    <tavg>11.1</tavg>
+    <flood_risk>30.441629787390657</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-02 00:00:00</time>
+    <tavg>11.7</tavg>
+    <flood_risk>12.772544091192517</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-03 00:00:00</time>
+    <tavg>16.0</tavg>
+    <flood_risk>15.603959011491785</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-04 00:00:00</time>
+    <tavg>16.4</tavg>
+    <flood_risk>59.014668525499815</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-05 00:00:00</time>
+    <tavg>9.9</tavg>
+    <flood_risk>99.23567010475655</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-06 00:00:00</time>
+    <tavg>12.4</tavg>
+    <flood_risk>88.11452277203068</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-07 00:00:00</time>
+    <tavg>15.8</tavg>
+    <flood_risk>96.15254588349306</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-08 00:00:00</time>
+    <tavg>17.2</tavg>
+    <flood_risk>61.77301456807523</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-09 00:00:00</time>
+    <tavg>15.1</tavg>
+    <flood_risk>47.71175459396392</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-10 00:00:00</time>
+    <tavg>18.0</tavg>
+    <flood_risk>15.237424032055834</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-11 00:00:00</time>
+    <tavg>13.6</tavg>
+    <flood_risk>69.38208340038267</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-12 00:00:00</time>
+    <tavg>11.9</tavg>
+    <flood_risk>64.7557717291499</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-13 00:00:00</time>
+    <tavg>17.5</tavg>
+    <flood_risk>93.48435936183623</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-14 00:00:00</time>
+    <tavg>13.1</tavg>
+    <flood_risk>37.594019202861176</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-15 00:00:00</time>
+    <tavg>11.0</tavg>
+    <flood_risk>88.61199138410629</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-16 00:00:00</time>
+    <tavg>15.4</tavg>
+    <flood_risk>38.46293562410944</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-17 00:00:00</time>
+    <tavg>18.3</tavg>
+    <flood_risk>10.148422592899875</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-18 00:00:00</time>
+    <tavg>14.4</tavg>
+    <flood_risk>73.03243401407632</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-19 00:00:00</time>
+    <tavg>16.8</tavg>
+    <flood_risk>48.3917866784733</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-20 00:00:00</time>
+    <tavg>23.3</tavg>
+    <flood_risk>36.87601482967074</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-21 00:00:00</time>
+    <tavg>16.1</tavg>
+    <flood_risk>0.0191685900843952</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-22 00:00:00</time>
+    <tavg>9.0</tavg>
+    <flood_risk>11.704187182996717</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-23 00:00:00</time>
+    <tavg>16.2</tavg>
+    <flood_risk>75.39405080655001</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-24 00:00:00</time>
+    <tavg>21.1</tavg>
+    <flood_risk>63.81596516201655</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-25 00:00:00</time>
+    <tavg>13.2</tavg>
+    <flood_risk>43.25657296823571</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-26 00:00:00</time>
+    <tavg>17.8</tavg>
+    <flood_risk>34.48798940559039</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-27 00:00:00</time>
+    <tavg>17.6</tavg>
+    <flood_risk>13.9572603846587</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-28 00:00:00</time>
+    <tavg>10.1</tavg>
+    <flood_risk>31.08308772117733</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-29 00:00:00</time>
+    <tavg>8.0</tavg>
+    <flood_risk>93.03312527160745</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-30 00:00:00</time>
+    <tavg>10.4</tavg>
+    <flood_risk>91.22035268546175</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-08-31 00:00:00</time>
+    <tavg>18.1</tavg>
+    <flood_risk>12.083871433725001</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-01 00:00:00</time>
+    <tavg>19.0</tavg>
+    <flood_risk>60.744580202248535</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-02 00:00:00</time>
+    <tavg>15.8</tavg>
+    <flood_risk>2.8231301999239844</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-03 00:00:00</time>
+    <tavg>25.0</tavg>
+    <flood_risk>4.98986130529625</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-04 00:00:00</time>
+    <tavg>16.4</tavg>
+    <flood_risk>33.30516768102579</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-05 00:00:00</time>
+    <tavg>11.6</tavg>
+    <flood_risk>58.19750359030825</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-06 00:00:00</time>
+    <tavg>11.0</tavg>
+    <flood_risk>16.087209742506168</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-07 00:00:00</time>
+    <tavg>11.4</tavg>
+    <flood_risk>49.47566345342729</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-08 00:00:00</time>
+    <tavg>11.4</tavg>
+    <flood_risk>98.36269525019387</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-09 00:00:00</time>
+    <tavg>8.8</tavg>
+    <flood_risk>54.022530778820865</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-10 00:00:00</time>
+    <tavg>10.8</tavg>
+    <flood_risk>71.6519745416957</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-11 00:00:00</time>
+    <tavg>13.2</tavg>
+    <flood_risk>91.97994518414072</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-12 00:00:00</time>
+    <tavg>16.3</tavg>
+    <flood_risk>21.852648721905855</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-13 00:00:00</time>
+    <tavg>16.4</tavg>
+    <flood_risk>49.37915853429139</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-14 00:00:00</time>
+    <tavg>14.6</tavg>
+    <flood_risk>59.76755262436237</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-15 00:00:00</time>
+    <tavg>15.0</tavg>
+    <flood_risk>94.40155501850253</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-16 00:00:00</time>
+    <tavg>14.0</tavg>
+    <flood_risk>64.84092091374679</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-17 00:00:00</time>
+    <tavg>16.3</tavg>
+    <flood_risk>31.243664753614063</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-18 00:00:00</time>
+    <tavg>14.7</tavg>
+    <flood_risk>50.99519551935733</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-19 00:00:00</time>
+    <tavg>9.5</tavg>
+    <flood_risk>15.595933551988061</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-20 00:00:00</time>
+    <tavg>8.7</tavg>
+    <flood_risk>31.388521723208562</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-21 00:00:00</time>
+    <tavg>10.6</tavg>
+    <flood_risk>64.48787588235396</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-22 00:00:00</time>
+    <tavg>12.7</tavg>
+    <flood_risk>94.36546212621126</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-23 00:00:00</time>
+    <tavg>16.7</tavg>
+    <flood_risk>89.7250589738838</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-24 00:00:00</time>
+    <tavg>20.7</tavg>
+    <flood_risk>92.04699892284836</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-25 00:00:00</time>
+    <tavg>16.1</tavg>
+    <flood_risk>44.23823471773073</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-26 00:00:00</time>
+    <tavg>13.3</tavg>
+    <flood_risk>43.253567482113944</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-27 00:00:00</time>
+    <tavg>15.0</tavg>
+    <flood_risk>33.41273443476413</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-28 00:00:00</time>
+    <tavg>18.1</tavg>
+    <flood_risk>26.394683806368658</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-29 00:00:00</time>
+    <tavg>10.9</tavg>
+    <flood_risk>61.32944644084735</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-09-30 00:00:00</time>
+    <tavg>10.0</tavg>
+    <flood_risk>77.64968806886846</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-01 00:00:00</time>
+    <tavg>10.2</tavg>
+    <flood_risk>23.2708393382829</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-02 00:00:00</time>
+    <tavg>12.2</tavg>
+    <flood_risk>15.165022844007648</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-03 00:00:00</time>
+    <tavg>14.7</tavg>
+    <flood_risk>31.206076379013894</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-04 00:00:00</time>
+    <tavg>17.7</tavg>
+    <flood_risk>96.81440204308205</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-05 00:00:00</time>
+    <tavg>25.0</tavg>
+    <flood_risk>60.169204663346164</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-06 00:00:00</time>
+    <tavg>23.7</tavg>
+    <flood_risk>96.5157411810782</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-07 00:00:00</time>
+    <tavg>15.1</tavg>
+    <flood_risk>43.35286089537816</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-08 00:00:00</time>
+    <tavg>15.3</tavg>
+    <flood_risk>75.14739200124113</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-09 00:00:00</time>
+    <tavg>22.1</tavg>
+    <flood_risk>89.62526819115996</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-10 00:00:00</time>
+    <tavg>24.6</tavg>
+    <flood_risk>25.858627723150473</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-11 00:00:00</time>
+    <tavg>16.4</tavg>
+    <flood_risk>37.6642152286817</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-12 00:00:00</time>
+    <tavg>20.1</tavg>
+    <flood_risk>5.365426747626789</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-13 00:00:00</time>
+    <tavg>18.5</tavg>
+    <flood_risk>83.4354818241757</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-14 00:00:00</time>
+    <tavg>13.8</tavg>
+    <flood_risk>25.469065514518828</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-15 00:00:00</time>
+    <tavg>11.1</tavg>
+    <flood_risk>61.40515623375828</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-16 00:00:00</time>
+    <tavg>17.0</tavg>
+    <flood_risk>38.501756885805584</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-17 00:00:00</time>
+    <tavg>17.6</tavg>
+    <flood_risk>7.013665544645886</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-18 00:00:00</time>
+    <tavg>14.4</tavg>
+    <flood_risk>23.587283985639175</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-19 00:00:00</time>
+    <tavg>12.9</tavg>
+    <flood_risk>81.72693798649289</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-20 00:00:00</time>
+    <tavg>11.5</tavg>
+    <flood_risk>90.01063083926931</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-21 00:00:00</time>
+    <tavg>12.0</tavg>
+    <flood_risk>7.95123380998235</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-22 00:00:00</time>
+    <tavg>14.1</tavg>
+    <flood_risk>66.88573243303384</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-23 00:00:00</time>
+    <tavg>15.5</tavg>
+    <flood_risk>36.51876702005686</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-24 00:00:00</time>
+    <tavg>18.9</tavg>
+    <flood_risk>64.13852925833514</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-25 00:00:00</time>
+    <tavg>15.0</tavg>
+    <flood_risk>40.742990438733315</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-26 00:00:00</time>
+    <tavg>15.5</tavg>
+    <flood_risk>13.358511323810685</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-27 00:00:00</time>
+    <tavg>16.2</tavg>
+    <flood_risk>9.660555910497104</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-28 00:00:00</time>
+    <tavg>15.6</tavg>
+    <flood_risk>95.50986298724416</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-29 00:00:00</time>
+    <tavg>13.6</tavg>
+    <flood_risk>91.19345566413996</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-30 00:00:00</time>
+    <tavg>14.1</tavg>
+    <flood_risk>36.95437378141443</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-10-31 00:00:00</time>
+    <tavg>15.4</tavg>
+    <flood_risk>49.03732600944801</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-01 00:00:00</time>
+    <tavg>18.1</tavg>
+    <flood_risk>37.36218598931126</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-02 00:00:00</time>
+    <tavg>19.8</tavg>
+    <flood_risk>31.695123077678865</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-03 00:00:00</time>
+    <tavg>17.6</tavg>
+    <flood_risk>89.49228909111494</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-04 00:00:00</time>
+    <tavg>12.1</tavg>
+    <flood_risk>70.10038002323161</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-05 00:00:00</time>
+    <tavg>9.4</tavg>
+    <flood_risk>47.936332566272846</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-06 00:00:00</time>
+    <tavg>11.6</tavg>
+    <flood_risk>94.54443912552148</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-07 00:00:00</time>
+    <tavg>12.8</tavg>
+    <flood_risk>75.25715603572425</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-08 00:00:00</time>
+    <tavg>19.0</tavg>
+    <flood_risk>62.226183947608625</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-09 00:00:00</time>
+    <tavg>16.4</tavg>
+    <flood_risk>98.07615379652832</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-10 00:00:00</time>
+    <tavg>13.8</tavg>
+    <flood_risk>41.604273764725534</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-11 00:00:00</time>
+    <tavg>14.2</tavg>
+    <flood_risk>68.6716497788226</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-12 00:00:00</time>
+    <tavg>19.3</tavg>
+    <flood_risk>58.98338370136248</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-13 00:00:00</time>
+    <tavg>14.6</tavg>
+    <flood_risk>29.019418429717703</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-14 00:00:00</time>
+    <tavg>14.6</tavg>
+    <flood_risk>54.893692328012655</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-15 00:00:00</time>
+    <tavg>18.6</tavg>
+    <flood_risk>61.51137714709256</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-16 00:00:00</time>
+    <tavg>19.5</tavg>
+    <flood_risk>4.032123624779615</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-17 00:00:00</time>
+    <tavg>19.1</tavg>
+    <flood_risk>2.090269440020398</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-18 00:00:00</time>
+    <tavg>20.1</tavg>
+    <flood_risk>73.14117971747591</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-19 00:00:00</time>
+    <tavg>18.7</tavg>
+    <flood_risk>47.63236934632105</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-20 00:00:00</time>
+    <tavg>22.5</tavg>
+    <flood_risk>57.88780903494032</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-21 00:00:00</time>
+    <tavg>22.2</tavg>
+    <flood_risk>68.52487594220663</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-22 00:00:00</time>
+    <tavg>21.1</tavg>
+    <flood_risk>91.39360159500157</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-23 00:00:00</time>
+    <tavg>19.2</tavg>
+    <flood_risk>59.51087882977048</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-24 00:00:00</time>
+    <tavg>20.9</tavg>
+    <flood_risk>88.0153381651479</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-25 00:00:00</time>
+    <tavg>21.1</tavg>
+    <flood_risk>3.1211914411743535</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-26 00:00:00</time>
+    <tavg>16.2</tavg>
+    <flood_risk>33.993043562436945</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-27 00:00:00</time>
+    <tavg>16.4</tavg>
+    <flood_risk>6.277134108683624</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-28 00:00:00</time>
+    <tavg>14.2</tavg>
+    <flood_risk>59.239896595710384</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-29 00:00:00</time>
+    <tavg>15.8</tavg>
+    <flood_risk>49.3978983578367</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-11-30 00:00:00</time>
+    <tavg>18.1</tavg>
+    <flood_risk>13.211843481911101</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-01 00:00:00</time>
+    <tavg>17.3</tavg>
+    <flood_risk>8.466949578024675</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-02 00:00:00</time>
+    <tavg>17.7</tavg>
+    <flood_risk>5.233517956715705</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-03 00:00:00</time>
+    <tavg>19.8</tavg>
+    <flood_risk>51.5667660749073</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-04 00:00:00</time>
+    <tavg>19.8</tavg>
+    <flood_risk>53.29234205229979</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-05 00:00:00</time>
+    <tavg>18.4</tavg>
+    <flood_risk>41.17961126577874</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-06 00:00:00</time>
+    <tavg>20.0</tavg>
+    <flood_risk>17.677788370755643</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-07 00:00:00</time>
+    <tavg>19.2</tavg>
+    <flood_risk>8.897017021295085</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-08 00:00:00</time>
+    <tavg>19.7</tavg>
+    <flood_risk>92.36089551692504</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-09 00:00:00</time>
+    <tavg>21.6</tavg>
+    <flood_risk>75.7833819632682</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-10 00:00:00</time>
+    <tavg/>
+    <flood_risk>13.055107785747888</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-11 00:00:00</time>
+    <tavg/>
+    <flood_risk>62.88906188525198</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-12 00:00:00</time>
+    <tavg>19.4</tavg>
+    <flood_risk>10.702527809183893</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-13 00:00:00</time>
+    <tavg>17.7</tavg>
+    <flood_risk>8.865518296599307</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-14 00:00:00</time>
+    <tavg>17.8</tavg>
+    <flood_risk>87.5647207569579</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-15 00:00:00</time>
+    <tavg>23.2</tavg>
+    <flood_risk>33.24318002617167</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-16 00:00:00</time>
+    <tavg>16.3</tavg>
+    <flood_risk>56.687885361748215</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-17 00:00:00</time>
+    <tavg>15.9</tavg>
+    <flood_risk>16.962358047020665</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-18 00:00:00</time>
+    <tavg>17.1</tavg>
+    <flood_risk>17.35054681339777</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-19 00:00:00</time>
+    <tavg>17.4</tavg>
+    <flood_risk>85.22759128595352</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-20 00:00:00</time>
+    <tavg>19.7</tavg>
+    <flood_risk>75.26530168597881</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-21 00:00:00</time>
+    <tavg>18.3</tavg>
+    <flood_risk>51.28482135446832</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-22 00:00:00</time>
+    <tavg>18.3</tavg>
+    <flood_risk>50.82955576575301</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-23 00:00:00</time>
+    <tavg>17.6</tavg>
+    <flood_risk>95.21434098570653</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-24 00:00:00</time>
+    <tavg>16.0</tavg>
+    <flood_risk>10.159164464334324</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-25 00:00:00</time>
+    <tavg>20.8</tavg>
+    <flood_risk>85.893022100205</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-26 00:00:00</time>
+    <tavg>25.6</tavg>
+    <flood_risk>88.2394795243537</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-27 00:00:00</time>
+    <tavg>26.6</tavg>
+    <flood_risk>55.83293910936603</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-28 00:00:00</time>
+    <tavg>19.0</tavg>
+    <flood_risk>36.95670798286106</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-29 00:00:00</time>
+    <tavg>21.4</tavg>
+    <flood_risk>68.85706416369585</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-30 00:00:00</time>
+    <tavg>25.5</tavg>
+    <flood_risk>72.65466164015156</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2024-12-31 00:00:00</time>
+    <tavg>20.5</tavg>
+    <flood_risk>96.47611903907696</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-01 00:00:00</time>
+    <tavg>21.8</tavg>
+    <flood_risk>62.327025099912106</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-02 00:00:00</time>
+    <tavg>20.0</tavg>
+    <flood_risk>84.015605672268</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-03 00:00:00</time>
+    <tavg>24.7</tavg>
+    <flood_risk>37.068574090653485</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-04 00:00:00</time>
+    <tavg>23.2</tavg>
+    <flood_risk>44.27780814989654</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-05 00:00:00</time>
+    <tavg>19.1</tavg>
+    <flood_risk>43.70290869820992</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-06 00:00:00</time>
+    <tavg>16.3</tavg>
+    <flood_risk>14.264684570999087</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-07 00:00:00</time>
+    <tavg>18.4</tavg>
+    <flood_risk>52.01571619931591</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-08 00:00:00</time>
+    <tavg>19.3</tavg>
+    <flood_risk>21.604455513830224</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-09 00:00:00</time>
+    <tavg>22.0</tavg>
+    <flood_risk>88.94861856592692</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-10 00:00:00</time>
+    <tavg>20.8</tavg>
+    <flood_risk>35.19131877145474</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-11 00:00:00</time>
+    <tavg>20.9</tavg>
+    <flood_risk>11.95561948124515</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-12 00:00:00</time>
+    <tavg>16.8</tavg>
+    <flood_risk>53.568694331308656</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-13 00:00:00</time>
+    <tavg>17.1</tavg>
+    <flood_risk>30.233065302928686</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-14 00:00:00</time>
+    <tavg>21.5</tavg>
+    <flood_risk>98.54173479323119</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-15 00:00:00</time>
+    <tavg>14.4</tavg>
+    <flood_risk>93.68815395665038</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-16 00:00:00</time>
+    <tavg>15.4</tavg>
+    <flood_risk>79.5097440081689</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-17 00:00:00</time>
+    <tavg>19.9</tavg>
+    <flood_risk>51.78806441259742</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-18 00:00:00</time>
+    <tavg>23.9</tavg>
+    <flood_risk>40.34515221788711</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-19 00:00:00</time>
+    <tavg>20.7</tavg>
+    <flood_risk>67.6533242513401</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-20 00:00:00</time>
+    <tavg>19.0</tavg>
+    <flood_risk>42.26394295932088</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-21 00:00:00</time>
+    <tavg>16.5</tavg>
+    <flood_risk>26.722350271324025</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-22 00:00:00</time>
+    <tavg>21.1</tavg>
+    <flood_risk>66.19184471684517</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-23 00:00:00</time>
+    <tavg>24.9</tavg>
+    <flood_risk>1.6967602633778722</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-24 00:00:00</time>
+    <tavg>22.2</tavg>
+    <flood_risk>17.037974847161497</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-25 00:00:00</time>
+    <tavg>22.8</tavg>
+    <flood_risk>64.54919497250373</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-26 00:00:00</time>
+    <tavg>24.2</tavg>
+    <flood_risk>42.67722845574697</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-27 00:00:00</time>
+    <tavg>21.6</tavg>
+    <flood_risk>35.289601765836856</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-28 00:00:00</time>
+    <tavg>20.9</tavg>
+    <flood_risk>30.447039599356962</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-29 00:00:00</time>
+    <tavg>24.3</tavg>
+    <flood_risk>56.64524127262063</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-30 00:00:00</time>
+    <tavg>24.7</tavg>
+    <flood_risk>11.098944973307034</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-01-31 00:00:00</time>
+    <tavg>20.7</tavg>
+    <flood_risk>54.043010806864125</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-01 00:00:00</time>
+    <tavg>20.0</tavg>
+    <flood_risk>17.178337823072244</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-02 00:00:00</time>
+    <tavg>20.2</tavg>
+    <flood_risk>40.78300340947879</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-03 00:00:00</time>
+    <tavg>19.7</tavg>
+    <flood_risk>46.827950638747886</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-04 00:00:00</time>
+    <tavg>24.3</tavg>
+    <flood_risk>71.49156727749751</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-05 00:00:00</time>
+    <tavg>21.4</tavg>
+    <flood_risk>54.597483438400786</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-06 00:00:00</time>
+    <tavg>17.6</tavg>
+    <flood_risk>70.600923709491</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-07 00:00:00</time>
+    <tavg>22.4</tavg>
+    <flood_risk>34.931344778013596</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-08 00:00:00</time>
+    <tavg>25.0</tavg>
+    <flood_risk>74.85546796802615</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-09 00:00:00</time>
+    <tavg>19.4</tavg>
+    <flood_risk>48.923769756272605</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-10 00:00:00</time>
+    <tavg>16.6</tavg>
+    <flood_risk>4.642491755687839</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-11 00:00:00</time>
+    <tavg>17.9</tavg>
+    <flood_risk>23.031992374162126</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-12 00:00:00</time>
+    <tavg>24.9</tavg>
+    <flood_risk>23.705435962482348</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-13 00:00:00</time>
+    <tavg>21.4</tavg>
+    <flood_risk>88.62858014365213</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-14 00:00:00</time>
+    <tavg>19.2</tavg>
+    <flood_risk>77.2689085206718</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-15 00:00:00</time>
+    <tavg>18.3</tavg>
+    <flood_risk>20.62013405710984</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-16 00:00:00</time>
+    <tavg>21.1</tavg>
+    <flood_risk>67.57980252223803</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-17 00:00:00</time>
+    <tavg>23.3</tavg>
+    <flood_risk>62.22593604309835</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-18 00:00:00</time>
+    <tavg>22.1</tavg>
+    <flood_risk>34.01653679702413</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-19 00:00:00</time>
+    <tavg>17.2</tavg>
+    <flood_risk>36.19785238814689</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-20 00:00:00</time>
+    <tavg>22.0</tavg>
+    <flood_risk>66.06986596097008</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-21 00:00:00</time>
+    <tavg>22.7</tavg>
+    <flood_risk>9.068292770816678</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-22 00:00:00</time>
+    <tavg>21.3</tavg>
+    <flood_risk>4.280354705495116</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-23 00:00:00</time>
+    <tavg>20.4</tavg>
+    <flood_risk>23.866002796134723</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-24 00:00:00</time>
+    <tavg>22.1</tavg>
+    <flood_risk>55.830641250903604</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-25 00:00:00</time>
+    <tavg>19.4</tavg>
+    <flood_risk>43.89143224104364</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-26 00:00:00</time>
+    <tavg>17.6</tavg>
+    <flood_risk>97.27264158466606</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-27 00:00:00</time>
+    <tavg>19.9</tavg>
+    <flood_risk>87.62500343969765</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-02-28 00:00:00</time>
+    <tavg>19.6</tavg>
+    <flood_risk>44.87893394901249</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-01 00:00:00</time>
+    <tavg>21.0</tavg>
+    <flood_risk>43.72336093506386</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-02 00:00:00</time>
+    <tavg>21.0</tavg>
+    <flood_risk>36.06740431978642</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-03 00:00:00</time>
+    <tavg>23.7</tavg>
+    <flood_risk>30.72061864004868</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-04 00:00:00</time>
+    <tavg>24.5</tavg>
+    <flood_risk>91.58248819174233</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-05 00:00:00</time>
+    <tavg>24.3</tavg>
+    <flood_risk>16.688308539368567</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-06 00:00:00</time>
+    <tavg>24.0</tavg>
+    <flood_risk>24.24955842841228</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-07 00:00:00</time>
+    <tavg>20.9</tavg>
+    <flood_risk>45.125185848051416</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-08 00:00:00</time>
+    <tavg>24.9</tavg>
+    <flood_risk>10.43853324120444</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-09 00:00:00</time>
+    <tavg>25.0</tavg>
+    <flood_risk>22.48939111388556</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-10 00:00:00</time>
+    <tavg>18.9</tavg>
+    <flood_risk>38.370384344206784</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-11 00:00:00</time>
+    <tavg>19.9</tavg>
+    <flood_risk>3.7968367920811485</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-12 00:00:00</time>
+    <tavg>21.2</tavg>
+    <flood_risk>44.66028765291625</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-13 00:00:00</time>
+    <tavg>19.2</tavg>
+    <flood_risk>47.43545700572638</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-14 00:00:00</time>
+    <tavg>16.0</tavg>
+    <flood_risk>77.68914051142808</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-15 00:00:00</time>
+    <tavg/>
+    <flood_risk>94.35961772576611</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-16 00:00:00</time>
+    <tavg/>
+    <flood_risk>68.32164906935103</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-17 00:00:00</time>
+    <tavg/>
+    <flood_risk>63.56029643580637</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-18 00:00:00</time>
+    <tavg/>
+    <flood_risk>46.737664005831945</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-19 00:00:00</time>
+    <tavg/>
+    <flood_risk>61.965462871125155</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-20 00:00:00</time>
+    <tavg/>
+    <flood_risk>54.442666934244755</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-21 00:00:00</time>
+    <tavg/>
+    <flood_risk>33.43838915480212</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-22 00:00:00</time>
+    <tavg>24.7</tavg>
+    <flood_risk>38.076776231376996</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-23 00:00:00</time>
+    <tavg>22.9</tavg>
+    <flood_risk>24.397185398775544</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-24 00:00:00</time>
+    <tavg>23.6</tavg>
+    <flood_risk>6.118103312842315</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-25 00:00:00</time>
+    <tavg>20.3</tavg>
+    <flood_risk>64.2819768644895</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-26 00:00:00</time>
+    <tavg>18.1</tavg>
+    <flood_risk>14.72958747703309</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-27 00:00:00</time>
+    <tavg>16.9</tavg>
+    <flood_risk>90.85766920638558</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-28 00:00:00</time>
+    <tavg>18.7</tavg>
+    <flood_risk>62.352970757431805</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-29 00:00:00</time>
+    <tavg>19.9</tavg>
+    <flood_risk>73.92571136748037</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-30 00:00:00</time>
+    <tavg>18.0</tavg>
+    <flood_risk>89.75024658550363</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-03-31 00:00:00</time>
+    <tavg>20.1</tavg>
+    <flood_risk>39.07772814008228</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-01 00:00:00</time>
+    <tavg>18.9</tavg>
+    <flood_risk>42.51511458044116</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-02 00:00:00</time>
+    <tavg>16.3</tavg>
+    <flood_risk>9.169890184618968</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-03 00:00:00</time>
+    <tavg>17.3</tavg>
+    <flood_risk>39.21733301183974</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-04 00:00:00</time>
+    <tavg>18.8</tavg>
+    <flood_risk>51.822158295821154</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-05 00:00:00</time>
+    <tavg>17.0</tavg>
+    <flood_risk>54.46820834782883</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-06 00:00:00</time>
+    <tavg>17.4</tavg>
+    <flood_risk>96.05896064867817</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-07 00:00:00</time>
+    <tavg>21.5</tavg>
+    <flood_risk>67.59441867682983</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-08 00:00:00</time>
+    <tavg>21.1</tavg>
+    <flood_risk>64.78404393048092</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-09 00:00:00</time>
+    <tavg>18.2</tavg>
+    <flood_risk>3.9009614208674215</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-10 00:00:00</time>
+    <tavg>16.7</tavg>
+    <flood_risk>55.27945171844413</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-11 00:00:00</time>
+    <tavg>17.9</tavg>
+    <flood_risk>36.09001469948484</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-12 00:00:00</time>
+    <tavg>20.5</tavg>
+    <flood_risk>25.1919856353917</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-13 00:00:00</time>
+    <tavg>18.0</tavg>
+    <flood_risk>66.82713264234769</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-14 00:00:00</time>
+    <tavg>15.0</tavg>
+    <flood_risk>15.113882942723167</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-15 00:00:00</time>
+    <tavg>14.5</tavg>
+    <flood_risk>29.005409359710598</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-16 00:00:00</time>
+    <tavg>14.0</tavg>
+    <flood_risk>70.51122100662775</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-17 00:00:00</time>
+    <tavg/>
+    <flood_risk>96.55140371408447</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-18 00:00:00</time>
+    <tavg/>
+    <flood_risk>75.43139862648054</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-19 00:00:00</time>
+    <tavg/>
+    <flood_risk>35.1111702648294</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-20 00:00:00</time>
+    <tavg/>
+    <flood_risk>63.05571883024507</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-21 00:00:00</time>
+    <tavg/>
+    <flood_risk>38.2630174648305</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-22 00:00:00</time>
+    <tavg/>
+    <flood_risk>22.16162026492575</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-23 00:00:00</time>
+    <tavg>14.7</tavg>
+    <flood_risk>63.66654369800299</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-24 00:00:00</time>
+    <tavg>15.7</tavg>
+    <flood_risk>9.083047585402504</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-25 00:00:00</time>
+    <tavg>17.1</tavg>
+    <flood_risk>54.812328004917774</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-26 00:00:00</time>
+    <tavg>18.6</tavg>
+    <flood_risk>13.158519101151667</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-27 00:00:00</time>
+    <tavg>19.6</tavg>
+    <flood_risk>39.174861753992204</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-28 00:00:00</time>
+    <tavg>20.8</tavg>
+    <flood_risk>26.725664454924715</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-29 00:00:00</time>
+    <tavg>19.7</tavg>
+    <flood_risk>91.13394817379233</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-04-30 00:00:00</time>
+    <tavg>16.0</tavg>
+    <flood_risk>47.28576604973787</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-01 00:00:00</time>
+    <tavg>13.1</tavg>
+    <flood_risk>41.88085989981839</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-02 00:00:00</time>
+    <tavg>11.4</tavg>
+    <flood_risk>72.09433392244682</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-03 00:00:00</time>
+    <tavg>11.8</tavg>
+    <flood_risk>73.69992586955996</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-04 00:00:00</time>
+    <tavg>12.6</tavg>
+    <flood_risk>49.469535264156136</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-05 00:00:00</time>
+    <tavg>17.6</tavg>
+    <flood_risk>3.5898070462418885</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-06 00:00:00</time>
+    <tavg>18.2</tavg>
+    <flood_risk>95.7180680375425</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-07 00:00:00</time>
+    <tavg>16.8</tavg>
+    <flood_risk>76.15864045664141</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-08 00:00:00</time>
+    <tavg>17.5</tavg>
+    <flood_risk>56.886649805270174</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-09 00:00:00</time>
+    <tavg>21.0</tavg>
+    <flood_risk>21.657958936791665</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-10 00:00:00</time>
+    <tavg>20.5</tavg>
+    <flood_risk>32.40644944297541</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-11 00:00:00</time>
+    <tavg>13.6</tavg>
+    <flood_risk>97.4143841375654</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-12 00:00:00</time>
+    <tavg>12.9</tavg>
+    <flood_risk>76.20245242050628</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-13 00:00:00</time>
+    <tavg>14.9</tavg>
+    <flood_risk>73.90727077787149</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-14 00:00:00</time>
+    <tavg>18.3</tavg>
+    <flood_risk>73.6943296191515</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-15 00:00:00</time>
+    <tavg>17.9</tavg>
+    <flood_risk>5.759246057164924</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-16 00:00:00</time>
+    <tavg>19.3</tavg>
+    <flood_risk>72.9945670293071</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-17 00:00:00</time>
+    <tavg>18.8</tavg>
+    <flood_risk>53.69971968813646</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-18 00:00:00</time>
+    <tavg>19.1</tavg>
+    <flood_risk>33.55984661094137</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-19 00:00:00</time>
+    <tavg>21.4</tavg>
+    <flood_risk>88.96140806050559</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-20 00:00:00</time>
+    <tavg>19.6</tavg>
+    <flood_risk>45.25452393352998</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-21 00:00:00</time>
+    <tavg>12.9</tavg>
+    <flood_risk>31.570756535794143</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-22 00:00:00</time>
+    <tavg>14.1</tavg>
+    <flood_risk>7.8559095644029515</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-23 00:00:00</time>
+    <tavg>12.2</tavg>
+    <flood_risk>27.16144903366824</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-24 00:00:00</time>
+    <tavg>14.6</tavg>
+    <flood_risk>76.68369575566149</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-25 00:00:00</time>
+    <tavg>16.6</tavg>
+    <flood_risk>33.97542626463934</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-26 00:00:00</time>
+    <tavg>16.0</tavg>
+    <flood_risk>32.649781218737296</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-27 00:00:00</time>
+    <tavg>13.5</tavg>
+    <flood_risk>42.54149064979128</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-28 00:00:00</time>
+    <tavg>20.9</tavg>
+    <flood_risk>38.5319393832852</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-29 00:00:00</time>
+    <tavg>16.6</tavg>
+    <flood_risk>87.5236860294738</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-30 00:00:00</time>
+    <tavg>14.4</tavg>
+    <flood_risk>89.99467133624199</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-05-31 00:00:00</time>
+    <tavg>11.5</tavg>
+    <flood_risk>47.746407671372324</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-01 00:00:00</time>
+    <tavg>11.4</tavg>
+    <flood_risk>13.121379949731171</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-02 00:00:00</time>
+    <tavg>12.5</tavg>
+    <flood_risk>79.8969794741069</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-03 00:00:00</time>
+    <tavg>12.4</tavg>
+    <flood_risk>56.136471862993695</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-04 00:00:00</time>
+    <tavg>11.3</tavg>
+    <flood_risk>76.22917650316369</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-05 00:00:00</time>
+    <tavg>13.6</tavg>
+    <flood_risk>5.534404438069929</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-06 00:00:00</time>
+    <tavg>13.5</tavg>
+    <flood_risk>71.67473663751068</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-07 00:00:00</time>
+    <tavg>15.7</tavg>
+    <flood_risk>64.41561344544537</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-08 00:00:00</time>
+    <tavg>12.1</tavg>
+    <flood_risk>34.92192317081292</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-09 00:00:00</time>
+    <tavg>9.5</tavg>
+    <flood_risk>84.06812469328241</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-10 00:00:00</time>
+    <tavg>10.5</tavg>
+    <flood_risk>41.403829431483544</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-11 00:00:00</time>
+    <tavg>11.0</tavg>
+    <flood_risk>58.52406139197529</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-12 00:00:00</time>
+    <tavg>11.0</tavg>
+    <flood_risk>78.45746207601067</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-13 00:00:00</time>
+    <tavg>13.4</tavg>
+    <flood_risk>63.633950005664516</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-14 00:00:00</time>
+    <tavg>14.1</tavg>
+    <flood_risk>63.99395157247654</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-15 00:00:00</time>
+    <tavg>14.9</tavg>
+    <flood_risk>47.86304047563211</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-16 00:00:00</time>
+    <tavg>14.8</tavg>
+    <flood_risk>37.81776983203299</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-17 00:00:00</time>
+    <tavg>12.8</tavg>
+    <flood_risk>65.7937976046576</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-18 00:00:00</time>
+    <tavg>12.6</tavg>
+    <flood_risk>51.745275145199685</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-19 00:00:00</time>
+    <tavg>9.7</tavg>
+    <flood_risk>21.056608130612485</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-20 00:00:00</time>
+    <tavg>12.2</tavg>
+    <flood_risk>62.187720791148706</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-21 00:00:00</time>
+    <tavg>12.8</tavg>
+    <flood_risk>35.54743920452314</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-22 00:00:00</time>
+    <tavg>13.2</tavg>
+    <flood_risk>42.33965009004456</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-23 00:00:00</time>
+    <tavg>11.2</tavg>
+    <flood_risk>53.48033128140916</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-24 00:00:00</time>
+    <tavg>12.2</tavg>
+    <flood_risk>89.75869559518149</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-25 00:00:00</time>
+    <tavg>20.6</tavg>
+    <flood_risk>63.58970373582149</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-26 00:00:00</time>
+    <tavg>13.7</tavg>
+    <flood_risk>49.24796649533205</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-27 00:00:00</time>
+    <tavg>10.4</tavg>
+    <flood_risk>2.438443245729738</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-28 00:00:00</time>
+    <tavg>11.4</tavg>
+    <flood_risk>51.16537899988185</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-29 00:00:00</time>
+    <tavg>12.9</tavg>
+    <flood_risk>82.92987900757355</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-06-30 00:00:00</time>
+    <tavg>14.3</tavg>
+    <flood_risk>78.14772311079851</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-01 00:00:00</time>
+    <tavg>18.4</tavg>
+    <flood_risk>54.89799797578206</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-02 00:00:00</time>
+    <tavg>18.5</tavg>
+    <flood_risk>90.9624633759753</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-03 00:00:00</time>
+    <tavg>15.6</tavg>
+    <flood_risk>87.20865512659356</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-04 00:00:00</time>
+    <tavg>12.3</tavg>
+    <flood_risk>30.330618098051808</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-05 00:00:00</time>
+    <tavg>12.0</tavg>
+    <flood_risk>39.10053948664676</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-06 00:00:00</time>
+    <tavg>10.9</tavg>
+    <flood_risk>8.206517605615915</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-07 00:00:00</time>
+    <tavg>9.4</tavg>
+    <flood_risk>79.10877008994247</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-08 00:00:00</time>
+    <tavg>9.3</tavg>
+    <flood_risk>8.414204424361838</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-09 00:00:00</time>
+    <tavg>15.3</tavg>
+    <flood_risk>69.06637811667161</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-10 00:00:00</time>
+    <tavg>16.6</tavg>
+    <flood_risk>67.70424174357079</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-11 00:00:00</time>
+    <tavg>16.9</tavg>
+    <flood_risk>20.04832640527049</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-12 00:00:00</time>
+    <tavg>11.1</tavg>
+    <flood_risk>41.83353199592087</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-13 00:00:00</time>
+    <tavg>16.0</tavg>
+    <flood_risk>1.932313776085759</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-14 00:00:00</time>
+    <tavg>11.6</tavg>
+    <flood_risk>95.26648203815417</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-15 00:00:00</time>
+    <tavg>11.8</tavg>
+    <flood_risk>5.458242664246149</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-16 00:00:00</time>
+    <tavg>12.7</tavg>
+    <flood_risk>91.85312464703436</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-17 00:00:00</time>
+    <tavg>12.9</tavg>
+    <flood_risk>9.158063262465376</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-18 00:00:00</time>
+    <tavg>10.2</tavg>
+    <flood_risk>9.39218257645874</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-19 00:00:00</time>
+    <tavg>11.2</tavg>
+    <flood_risk>60.97787827423623</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-20 00:00:00</time>
+    <tavg>17.8</tavg>
+    <flood_risk>22.055245458319874</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-21 00:00:00</time>
+    <tavg>14.1</tavg>
+    <flood_risk>9.048280895054617</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-22 00:00:00</time>
+    <tavg>11.5</tavg>
+    <flood_risk>93.92975332908868</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-23 00:00:00</time>
+    <tavg>13.7</tavg>
+    <flood_risk>76.4367403127821</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-24 00:00:00</time>
+    <tavg>15.6</tavg>
+    <flood_risk>23.261724480205658</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-25 00:00:00</time>
+    <tavg>11.5</tavg>
+    <flood_risk>58.35272735218173</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-26 00:00:00</time>
+    <tavg>9.8</tavg>
+    <flood_risk>64.98313111451294</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-27 00:00:00</time>
+    <tavg>9.1</tavg>
+    <flood_risk>11.29243894861094</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-28 00:00:00</time>
+    <tavg>10.2</tavg>
+    <flood_risk>3.383194575834092</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-29 00:00:00</time>
+    <tavg>15.3</tavg>
+    <flood_risk>89.64715585870799</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-30 00:00:00</time>
+    <tavg>20.5</tavg>
+    <flood_risk>2.0881681842324307</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-07-31 00:00:00</time>
+    <tavg>16.6</tavg>
+    <flood_risk>62.02382001747463</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-01 00:00:00</time>
+    <tavg>9.6</tavg>
+    <flood_risk>53.72172783220679</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-02 00:00:00</time>
+    <tavg>10.5</tavg>
+    <flood_risk>75.24013355082145</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-03 00:00:00</time>
+    <tavg>19.1</tavg>
+    <flood_risk>84.09970217887718</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-04 00:00:00</time>
+    <tavg>22.2</tavg>
+    <flood_risk>17.33564729435174</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-05 00:00:00</time>
+    <tavg>17.7</tavg>
+    <flood_risk>10.212260094309421</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-06 00:00:00</time>
+    <tavg>10.7</tavg>
+    <flood_risk>85.96066292825073</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-07 00:00:00</time>
+    <tavg>11.0</tavg>
+    <flood_risk>44.06186072292012</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-08 00:00:00</time>
+    <tavg>11.3</tavg>
+    <flood_risk>69.97751109021851</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-09 00:00:00</time>
+    <tavg>17.0</tavg>
+    <flood_risk>93.11185281923484</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-10 00:00:00</time>
+    <tavg>13.2</tavg>
+    <flood_risk>5.121078909174603</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-11 00:00:00</time>
+    <tavg>11.5</tavg>
+    <flood_risk>43.66348144435774</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-12 00:00:00</time>
+    <tavg>14.0</tavg>
+    <flood_risk>98.42492992275558</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-13 00:00:00</time>
+    <tavg>13.4</tavg>
+    <flood_risk>40.28782544621661</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-14 00:00:00</time>
+    <tavg>15.8</tavg>
+    <flood_risk>19.05140699333795</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-15 00:00:00</time>
+    <tavg>17.0</tavg>
+    <flood_risk>98.93816012299543</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-16 00:00:00</time>
+    <tavg>14.1</tavg>
+    <flood_risk>57.881562618272106</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-17 00:00:00</time>
+    <tavg>14.1</tavg>
+    <flood_risk>71.59168601305656</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-18 00:00:00</time>
+    <tavg>18.2</tavg>
+    <flood_risk>74.94446734172307</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-19 00:00:00</time>
+    <tavg>13.2</tavg>
+    <flood_risk>89.99858081351735</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-20 00:00:00</time>
+    <tavg>14.0</tavg>
+    <flood_risk>82.6771918076531</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-21 00:00:00</time>
+    <tavg>14.0</tavg>
+    <flood_risk>17.46593734742108</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-22 00:00:00</time>
+    <tavg>13.6</tavg>
+    <flood_risk>62.8468086419293</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-23 00:00:00</time>
+    <tavg>12.8</tavg>
+    <flood_risk>17.336569709711213</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-24 00:00:00</time>
+    <tavg>11.6</tavg>
+    <flood_risk>27.376808370551874</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-25 00:00:00</time>
+    <tavg>12.1</tavg>
+    <flood_risk>28.755407731299375</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-26 00:00:00</time>
+    <tavg>12.0</tavg>
+    <flood_risk>97.35242164940539</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-27 00:00:00</time>
+    <tavg>14.1</tavg>
+    <flood_risk>97.4181799407154</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-28 00:00:00</time>
+    <tavg>15.8</tavg>
+    <flood_risk>68.35274839403179</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-29 00:00:00</time>
+    <tavg>17.0</tavg>
+    <flood_risk>78.69355521684624</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-30 00:00:00</time>
+    <tavg>15.6</tavg>
+    <flood_risk>59.56443022205242</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-08-31 00:00:00</time>
+    <tavg>18.3</tavg>
+    <flood_risk>62.37807493358648</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-01 00:00:00</time>
+    <tavg>14.6</tavg>
+    <flood_risk>73.94308352442697</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-02 00:00:00</time>
+    <tavg>18.8</tavg>
+    <flood_risk>39.976904151588855</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-03 00:00:00</time>
+    <tavg>15.1</tavg>
+    <flood_risk>50.45503958574212</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-04 00:00:00</time>
+    <tavg>15.3</tavg>
+    <flood_risk>63.24827020637704</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-05 00:00:00</time>
+    <tavg>17.8</tavg>
+    <flood_risk>51.52651726236257</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-06 00:00:00</time>
+    <tavg>15.0</tavg>
+    <flood_risk>99.61865294241491</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-07 00:00:00</time>
+    <tavg>15.9</tavg>
+    <flood_risk>18.421640511909267</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-08 00:00:00</time>
+    <tavg>15.8</tavg>
+    <flood_risk>19.238614584203205</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-09 00:00:00</time>
+    <tavg>20.1</tavg>
+    <flood_risk>37.2517873701466</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-10 00:00:00</time>
+    <tavg>20.3</tavg>
+    <flood_risk>46.2590571634035</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-11 00:00:00</time>
+    <tavg>16.9</tavg>
+    <flood_risk>8.41571011968355</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-12 00:00:00</time>
+    <tavg>15.3</tavg>
+    <flood_risk>79.7150338126963</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-13 00:00:00</time>
+    <tavg>14.6</tavg>
+    <flood_risk>40.748280996772635</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-14 00:00:00</time>
+    <tavg>15.9</tavg>
+    <flood_risk>20.283691680716633</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-15 00:00:00</time>
+    <tavg>18.6</tavg>
+    <flood_risk>71.26968777616553</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-16 00:00:00</time>
+    <tavg>14.7</tavg>
+    <flood_risk>81.07228413982955</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-17 00:00:00</time>
+    <tavg>12.5</tavg>
+    <flood_risk>0.42385122001011855</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-18 00:00:00</time>
+    <tavg>12.7</tavg>
+    <flood_risk>98.95227198870688</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-19 00:00:00</time>
+    <tavg>13.5</tavg>
+    <flood_risk>77.6758911944498</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-20 00:00:00</time>
+    <tavg>19.5</tavg>
+    <flood_risk>14.766362603519712</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-21 00:00:00</time>
+    <tavg>18.3</tavg>
+    <flood_risk>88.63747433917547</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-22 00:00:00</time>
+    <tavg>17.1</tavg>
+    <flood_risk>85.96775676928353</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-23 00:00:00</time>
+    <tavg>13.2</tavg>
+    <flood_risk>25.827616323243085</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-24 00:00:00</time>
+    <tavg>12.5</tavg>
+    <flood_risk>5.436332482255446</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-25 00:00:00</time>
+    <tavg>11.5</tavg>
+    <flood_risk>16.03879449840808</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-26 00:00:00</time>
+    <tavg>13.3</tavg>
+    <flood_risk>96.52773600861023</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-27 00:00:00</time>
+    <tavg>17.5</tavg>
+    <flood_risk>46.77081342029916</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-28 00:00:00</time>
+    <tavg>14.9</tavg>
+    <flood_risk>73.04902207519129</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-29 00:00:00</time>
+    <tavg>11.4</tavg>
+    <flood_risk>99.32728561207101</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-09-30 00:00:00</time>
+    <tavg>14.0</tavg>
+    <flood_risk>77.39765265130835</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-01 00:00:00</time>
+    <tavg>21.0</tavg>
+    <flood_risk>10.77463744924263</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-02 00:00:00</time>
+    <tavg>12.6</tavg>
+    <flood_risk>52.27503693885468</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-03 00:00:00</time>
+    <tavg>11.3</tavg>
+    <flood_risk>12.856152757189776</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-04 00:00:00</time>
+    <tavg>18.6</tavg>
+    <flood_risk>5.00799496384341</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-05 00:00:00</time>
+    <tavg>16.1</tavg>
+    <flood_risk>46.16342695797266</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-06 00:00:00</time>
+    <tavg>15.9</tavg>
+    <flood_risk>8.533930216314179</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-07 00:00:00</time>
+    <tavg>14.4</tavg>
+    <flood_risk>14.84598375598437</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-08 00:00:00</time>
+    <tavg>15.1</tavg>
+    <flood_risk>59.556282013370875</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-09 00:00:00</time>
+    <tavg>16.5</tavg>
+    <flood_risk>21.26071045425595</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-10 00:00:00</time>
+    <tavg>22.5</tavg>
+    <flood_risk>62.747300055004565</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-11 00:00:00</time>
+    <tavg>18.5</tavg>
+    <flood_risk>75.24367019629199</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-12 00:00:00</time>
+    <tavg>16.6</tavg>
+    <flood_risk>31.73979121636352</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-13 00:00:00</time>
+    <tavg>20.4</tavg>
+    <flood_risk>69.38195973119248</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-14 00:00:00</time>
+    <tavg>19.6</tavg>
+    <flood_risk>53.256184853360764</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-15 00:00:00</time>
+    <tavg>15.9</tavg>
+    <flood_risk>60.16412434760427</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-16 00:00:00</time>
+    <tavg>12.6</tavg>
+    <flood_risk>19.936430968923336</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-17 00:00:00</time>
+    <tavg>15.3</tavg>
+    <flood_risk>10.190069548600277</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-18 00:00:00</time>
+    <tavg>17.5</tavg>
+    <flood_risk>11.508423039926186</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-19 00:00:00</time>
+    <tavg>14.6</tavg>
+    <flood_risk>62.88621500417143</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-20 00:00:00</time>
+    <tavg>15.3</tavg>
+    <flood_risk>4.2230073767180905</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-21 00:00:00</time>
+    <tavg>16.8</tavg>
+    <flood_risk>98.95676904135479</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-22 00:00:00</time>
+    <tavg>20.6</tavg>
+    <flood_risk>17.73622867002952</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-23 00:00:00</time>
+    <tavg>26.6</tavg>
+    <flood_risk>39.010757693364305</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-24 00:00:00</time>
+    <tavg>19.8</tavg>
+    <flood_risk>7.817390593978047</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-25 00:00:00</time>
+    <tavg>17.3</tavg>
+    <flood_risk>62.19169640203667</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-26 00:00:00</time>
+    <tavg>13.7</tavg>
+    <flood_risk>82.61666901553596</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-27 00:00:00</time>
+    <tavg>14.4</tavg>
+    <flood_risk>58.62447576505425</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-28 00:00:00</time>
+    <tavg>15.4</tavg>
+    <flood_risk>99.06876395063982</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-29 00:00:00</time>
+    <tavg>16.4</tavg>
+    <flood_risk>75.91598353792179</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-30 00:00:00</time>
+    <tavg>16.8</tavg>
+    <flood_risk>96.49953443947422</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-10-31 00:00:00</time>
+    <tavg>24.4</tavg>
+    <flood_risk>21.510548859037982</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-11-01 00:00:00</time>
+    <tavg>16.8</tavg>
+    <flood_risk>75.90765911255566</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-11-02 00:00:00</time>
+    <tavg>15.5</tavg>
+    <flood_risk>51.29049977488932</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-11-03 00:00:00</time>
+    <tavg>21.0</tavg>
+    <flood_risk>12.125614485292447</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-11-04 00:00:00</time>
+    <tavg>18.7</tavg>
+    <flood_risk>71.31623002457488</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-11-05 00:00:00</time>
+    <tavg>17.4</tavg>
+    <flood_risk>97.06009566003632</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-11-06 00:00:00</time>
+    <tavg>15.9</tavg>
+    <flood_risk>87.75255516890061</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-11-07 00:00:00</time>
+    <tavg>16.5</tavg>
+    <flood_risk>80.91283671286462</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-11-08 00:00:00</time>
+    <tavg>20.4</tavg>
+    <flood_risk>16.29972596833944</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-11-09 00:00:00</time>
+    <tavg>20.7</tavg>
+    <flood_risk>72.89616470896584</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-11-10 00:00:00</time>
+    <tavg>20.8</tavg>
+    <flood_risk>0.12380085333671964</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-11-11 00:00:00</time>
+    <tavg>21.7</tavg>
+    <flood_risk>90.43783182307504</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-11-12 00:00:00</time>
+    <tavg>21.7</tavg>
+    <flood_risk>25.578835560516232</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-11-13 00:00:00</time>
+    <tavg>18.6</tavg>
+    <flood_risk>39.369877002770224</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+  <day>
+    <time>2025-11-14 00:00:00</time>
+    <tavg>20.0</tavg>
+    <flood_risk>47.05130139791932</flood_risk>
+    <cyclone_index>2</cyclone_index>
+  </day>
+  <day>
+    <time>2025-11-15 00:00:00</time>
+    <tavg>17.7</tavg>
+    <flood_risk>25.518185206774447</flood_risk>
+    <cyclone_index>0</cyclone_index>
+  </day>
+  <day>
+    <time>2025-11-16 00:00:00</time>
+    <tavg>14.3</tavg>
+    <flood_risk>50.046287346314045</flood_risk>
+    <cyclone_index>1</cyclone_index>
+  </day>
+</weather>
